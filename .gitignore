@@ -1,0 +1,98 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Cursor IDE
+.cursor/
+
+# DevContainer (local development config)
+.devcontainer/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs and data
+logs/
+*.log
+results/
+experiments/output/
+data/cache/
+
+# Environment variables
+.env
+*.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Tournament results - test/intermediate data (ignored)
+test_tournament_results/
+
+# Tournament results - keep final results, ignore test runs
+# After running final tournament, rename with FINAL_ prefix to track:
+#   cp tournament_results/h2h_tournament_*.json tournament_results/FINAL_h2h_$(date +%Y%m%d).json
+tournament_results/*.json
+tournament_results/ratings/
+!tournament_results/.gitkeep
+!tournament_results/FINAL_*.json
+
+# Runtime logs
+runtime/
+
+# Archive (legacy/deprecated files)
+archive/
+
+# Enron corpus (too large for git)
+enron_mail_*.tar.gz
+maildir/
+enron_checkpoint.json
+parse_enron_fast.py
+
+# Reference documents - keep important ones
+!README.md
+!API_SETUP.md
+!QUICKSTART.md
+!lmarena_expert_elo (12-4-2025).csv
+
+Benchmarking Sycophancy in Business Negotiations.md
+
+# Game arena symlink/file
+game_arena

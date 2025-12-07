@@ -1,0 +1,10 @@
+# This directory stores tournament results
+# 
+# Naming convention:
+# - Test runs: h2h_tournament_YYYYMMDD_HHMMSS.json (ignored by git)
+# - Final results: FINAL_h2h_tournament_YYYYMMDD.json (tracked by git)
+#
+# After running the final tournament, rename/copy the results:
+#   cp h2h_tournament_*.json FINAL_h2h_tournament_$(date +%Y%m%d).json
+#   git add tournament_results/FINAL_*.json
+
