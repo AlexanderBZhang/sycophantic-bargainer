@@ -265,22 +265,6 @@ python scripts/experiment/run_hardball_batch.py --model claude-std --scenario L1
 
 ---
 
-## Citation
-
-If referencing this framework design:
-
-```bibtex
-@misc{sycophantic-bargainer-2026,
-  title={The Sycophantic Bargainer: A Framework for Measuring Sycophancy in LLM Negotiations},
-  author={Zhang, Alexander},
-  year={2026},
-  note={Experimental prototype with known bugs - not validated research},
-  url={https://github.com/IncentiveArchitect/sycophantic-bargainer}
-}
-```
-
----
-
 ## Contact
 
 alexanderzhangemc2 [at] gmail [dot] com
