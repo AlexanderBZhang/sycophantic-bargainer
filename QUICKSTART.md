@@ -44,40 +44,17 @@ export ANTHROPIC_API_KEY="your-key-here"
 
 ## Running Your First Experiment
 
-### Option 1: Simple Demo (No API Required)
+### Option 1: Run Tests
 
-The fastest way to see the framework in action:
-
-```bash
-python simple_demo.py
-```
-
-This runs:
-- Nash Demand Game
-- Ultimatum Game
-- Rubinstein Bargaining
-
-All using MockAgents (no API calls, no external dependencies).
-
-### Option 2: Batch Experiments with Mock Agents
-
-Run comprehensive experiments across all environments and matchups:
+Verify the framework is working:
 
 ```bash
-python -m sycophantic_bargainer.experiments.run_mock
+pytest tests/
 ```
 
-This runs 600+ experiments and generates CSV results. No API keys required.
+⚠️ Some tests may fail due to known bugs — see [ROADMAP.md](ROADMAP.md).
 
-### Option 3: Validation Script
-
-Quick smoke test to verify everything works:
-
-```bash
-python validate.py
-```
-
-### Option 4: Real LLM Experiments
+### Option 2: Real LLM Experiments
 
 Create a file `run_experiment.py`:
 

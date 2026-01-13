@@ -78,7 +78,7 @@ U(x) = 260,000 + 260,000 / (1 + exp(-0.25 * (x - 50))) - 1,500 * max(0, 35 - x)Â
 | $10M (BATNA) | -677,488 | Walk-away outcome |
 | $35M | 265,974 | Penalty threshold |
 | $50M | 390,000 | Fair split |
-| $65M | $514,025 | Strong outcome |
+| $65M | 514,025 | Strong outcome |
 
 ### 2.3 Experimental Conditions
 
