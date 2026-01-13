@@ -1,0 +1,1943 @@
+{
+  "batch_id": "msgbatch_01DV7ZSWapEVTzWSzzpFXuGz",
+  "dataset": "enron",
+  "status": "completed",
+  "entries_metadata": [
+    {
+      "sanitized_id": "0_dasovich-j_notes_inbox_3041_",
+      "email_id": "dasovich-j/notes_inbox/3041.",
+      "content": "Great News!\n\nCongrats to you both.\n\nLove Lynne and Mike.\n----- Original Message -----\nFrom: \"Kimberly Kupiecki\" <kkupiecki@arpartners.com>\nTo: <zeichick@camdenassociates.com>; <chris@baypartners.co>;\n<jcinquini@x.com>; <jdasovic@enron.com>; <Lance_Scudder@amat.com>;\n<leefeld@neca.com>; <tesyl@eudoramail.com>; <jhamburger@luminous.com>;\n<tedchin@hotmail.com>; <tsmith@lafayetteparkhotel.com>; <tgalvin@cisco.com>;\n<crystin@itsa.ucsf.edu>; <crystinemlee@aol.com>; <magner@haas.berkeley.edu>;\n<aaron.mendelson@csfb.com>; <michael@eeg.com>; <cvavrek@deloitte.com>;\n<adam@juniper.net>; <kdurr@juniper.net>; <greg@networkice.com>;\n<celina@networkice.com>; <gary@brightlink.com>; <ssmith@redback.com>;\n<mweiner@redback.com>; <djseverin@valiantnet.com>;\n<suzanne.panpoplos@cosinecom.com>; <cmccaferty@cosinecom.com>;\n<main@arpartners.com>; <kelly_malcolm@hotmail.com>;\n<Klinckbreault@sympatico.ca>; <barcra@sympatico.ca>; <VKlinck@netcom.ca>;\n<vivianklinck@hotmail.com>; <bernath@casinowindsor.com>;\n<vgebrael@hotmail.com>; <Klinck@sympatico.ca>; <boo@netcom.ca>;\n<tklinck@osler.com>; <klinck@techmarksoftware.com>;\n<shanaireland@earthlink.net>; <jlelovic@insystems.com>;\n<chaulk@vtechworld.com>; <jklinck@wincom.net>; <mklinck@tor.stikeman.com>;\n<tklinck@osler.com>; <michklin@wincom.net>; <belshep@juno.com>;\n<liz@tczb-law.com>; <nsell@home.com>; <reneem@gene.com>;\n<tanny@surfnetusa.com>; <Amanda.Mark@msdw.com>;\n<bmcnabb@pacificnetsoft.com>; <mark@thebinghamgroup.com>\nSent: Tuesday, May 22, 2001 2:14 PM\nSubject: Vivienne Anne Kupiecki, May 19, 2001\n\n\n> Hello all,\n>\n> Dave and I had our baby Vivienne Anne Kupiecki this past Saturday, May 19\n> at 8:05 am.  I have attached some of the first pictures of our little\n> one.  She is a petite girl at 5 lbs, 4 oz.\n>\n> The family is in good health and doing well.\n>\n> Feel free to call us at home if you like, 415 864 6916\n\n\n----------------------------------------------------------------------------\n----\n\n\n>\n> Kimberly Kupiecki\n> Director\n> A&R Partners\n> kkupiecki@arpartners.com\n> (650) 762 2800 main\n> (650) 762 2825 direct\n> fax (650) 762 2801\n>\n> 201 Baldwin Ave\n> San Mateo, California\n> 94401",
+      "from_email": "michklin@wincom.net",
+      "from_name": "Mike Klinck",
+      "to_emails": [
+        "zeichick@camdenassociates.com",
+        "chris@baypartners.co",
+        "jcinquini@x.com",
+        "jdasovic@enron.com",
+        "lance_scudder@amat.com",
+        "leefeld@neca.com",
+        "tesyl@eudoramail.com",
+        "jhamburger@luminous.com",
+        "tedchin@hotmail.com",
+        "tsmith@lafayetteparkhotel.com",
+        "tgalvin@cisco.com",
+        "crystin@itsa.ucsf.edu",
+        "crystinemlee@aol.com",
+        "magner@haas.berkeley.edu",
+        "aaron.mendelson@csfb.com",
+        "michael@eeg.com",
+        "cvavrek@deloitte.com",
+        "adam@juniper.net",
+        "kdurr@juniper.net",
+        "greg@networkice.com",
+        "celina@networkice.com",
+        "gary@brightlink.com",
+        "ssmith@redback.com",
+        "mweiner@redback.com",
+        "djseverin@valiantnet.com",
+        "suzanne.panpoplos@cosinecom.com",
+        "cmccaferty@cosinecom.com",
+        "main@arpartners.com",
+        "kelly_malcolm@hotmail.com",
+        "klinckbreault@sympatico.ca",
+        "barcra@sympatico.ca",
+        "vklinck@netcom.ca",
+        "vivianklinck@hotmail.com",
+        "bernath@casinowindsor.com",
+        "vgebrael@hotmail.com",
+        "klinck@sympatico.ca",
+        "boo@netcom.ca",
+        "tklinck@osler.com",
+        "klinck@techmarksoftware.com",
+        "shanaireland@earthlink.net",
+        "jlelovic@insystems.com",
+        "chaulk@vtechworld.com",
+        "jklinck@wincom.net",
+        "mklinck@tor.stikeman.com",
+        "belshep@juno.com",
+        "liz@tczb-law.com",
+        "nsell@home.com",
+        "reneem@gene.com",
+        "tanny@surfnetusa.com",
+        "amanda.mark@msdw.com",
+        "bmcnabb@pacificnetsoft.com",
+        "mark@thebinghamgroup.com",
+        "kkupiecki@arpartners.com"
+      ],
+      "subject": "Re: Vivienne Anne Kupiecki, May 19, 2001",
+      "_from_title_info": {},
+      "_to_title_infos": [
+        {},
+        {
+          "canonical_name": "Calger, Christopher",
+          "title": "Vice President",
+          "department": "Enron North America / Tech Services",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "canonical_name": "Etringer, Michael",
+          "title": "Trader",
+          "department": "Enron North America (Gas)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {},
+        {
+          "canonical_name": "Whalley, Greg",
+          "title": "President / COO",
+          "department": "Enron Corp / Enron Global Markets",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "canonical_name": "Frevert, Mark",
+          "title": "Chairman & CEO",
+          "department": "Enron Wholesale",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {}
+      ]
+    },
+    {
+      "sanitized_id": "1_cash-m_inbox_338_",
+      "email_id": "cash-m/inbox/338.",
+      "content": "Dear Pam/Michelle/Mary Joyce,\n \nI have not heard anything from Mr  Lay'soffice yet as a response to the email I sent last week. I am very sorry we have come to this but I have already contacted law firms in Braziland Houstonto evaluate my options for enforcing my contractual rights. I understand Enron is in a difficult situation but the payments were due and the invoice was sent long before Enron got into the present problems. This course of action is not what I want,especially given the fact that there is a serious risk this may become public in Brazil, causing additional unnecessary problems to Enron.\n \nOnce the lawyers come up with a recommended course of action, and out of respect for Enron and Mr Lay, I will place an additional call informing you and Mr Lay's office of the actions that will be taken. This should take place this week.\n \nPlease let me know immediately if you hear anything regarding the authorization of the payment. Also please acknowledge receipt of this email.\n \nBest regards and once more thank you for trying to resolve this with me over the last few weeks.\n \nDiomedes Christodoulou.",
+      "from_email": "diomedes@cumulouscapital.com",
+      "from_name": "Diomedes Christodoulou",
+      "to_emails": [
+        "pam.butler@enron.com",
+        "michelle.cash@enron.com",
+        "mary.joyce@enron.com"
+      ],
+      "subject": "ECI Payment",
+      "_from_title_info": {},
+      "_to_title_infos": [
+        {},
+        {
+          "canonical_name": "Cash, Michelle",
+          "title": "Senior Counsel (Labor/Employment)",
+          "department": "Enron North America (Legal)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {}
+      ]
+    },
+    {
+      "sanitized_id": "2_keavey-p_all_documents_361_",
+      "email_id": "keavey-p/all_documents/361.",
+      "content": "Critical Migration Information:\n\n1. Your scheduled Outlook Migration Date is THE EVENING OF : May 3rd\n2. You need to press the \"Save My Data\" button (only once) to send us your \npre-migration information.\n3. You must be connected to the network before you press the button.\n4. If a POP-UP BOX appears, prompting you to \"ABORT, CANCEL OR TRUST SIGNER\" \nplease  select TRUST SIGNER.\n5. Any information you Add to your Personal Address Book, Journal or calendar \nafter you click on the button will need to be manually re-added into Outlook \nafter you have been migrated.\n6. Clicking this button does not complete your migration to Outlook. Your \nmigration will be completed  the evening of your migration date.\n\n\n\n    Failure to click on the button means you WILL NOT get your Calendar, \nContacts, Journal and ToDo information imported into Outlook the day of your \nmigration and could result in up to a 2 week delay to restore this \ninformation.\n\nIf you encounter any errors please contact the resolution center @ \n713-853-1411",
+      "from_email": "outlook.team@enron.com",
+      "from_name": "",
+      "to_emails": [
+        "ann.vaughn@enron.com",
+        "wilson.barbee@enron.com",
+        "estalee.russi@enron.com",
+        "felicia.beal@enron.com",
+        "fran.fagan@enron.com",
+        "gary.smith@enron.com",
+        "jerry.harkreader@enron.com",
+        "john.anderson@enron.com",
+        "jorge.olivares@enron.com",
+        "kristin.passmore@enron.com",
+        "leesa.hutcherson@enron.com",
+        "michele.denby@enron.com",
+        "miranda.southard@enron.com",
+        "renee.pena@enron.com",
+        "rita.houston@enron.com",
+        "roger.sumlin@enron.com",
+        "wilford.dodd@enron.com",
+        "william.keeney@enron.com",
+        "brad.alford@enron.com",
+        "bruce.golden@enron.com",
+        "bryan.williams@enron.com",
+        "carl.tricoli@enron.com",
+        "christopher.coffman@enron.com",
+        "chu.wang@enron.com",
+        "charles.ward@enron.com",
+        "w.duran@enron.com",
+        "david.marks@enron.com",
+        "eric.rhodes@enron.com",
+        "farouk.lalji@enron.com",
+        "george.schaefer@enron.com",
+        "greg.blair@enron.com",
+        "greg.martin@enron.com",
+        "jeff.hoover@enron.com",
+        "john.moore@enron.com",
+        "lisa.zarsky@enron.com",
+        "mario.alonso@enron.com",
+        "michael.miller@enron.com",
+        "mitch.robinson@enron.com",
+        "naveed.ahmed@enron.com",
+        "paulita.olvera@enron.com",
+        "tina.holcombe@enron.com",
+        "tina.rode@enron.com",
+        "tosha.henderson@enron.com",
+        "andrea.ring@enron.com",
+        "brad.mckay@enron.com",
+        "chris.germany@enron.com",
+        "judy.townsend@enron.com",
+        "kimberly.bates@enron.com",
+        "peter.keavey@enron.com",
+        "sandra.brawner@enron.com",
+        "scott.goodell@enron.com",
+        "scott.neal@enron.com",
+        "sean.boyle@enron.com",
+        "susan.pereira@enron.com",
+        "victoria.versen@enron.com",
+        "vladi.pimenov@enron.com",
+        "derek.anderson@enron.com",
+        "susan.huston@enron.com",
+        "burak.hurbas@enron.com",
+        "colin.crowley@enron.com",
+        "lisa.rizzo@enron.com",
+        "richard.johnson@enron.com",
+        "sandra.torres@enron.com",
+        "angela.stie@enron.com",
+        "armando.lira@enron.com",
+        "audry.o'toole@enron.com",
+        "beverly.filer@enron.com",
+        "helen.jeschke@enron.com",
+        "john.harrison@enron.com",
+        "kristi.louthan@enron.com",
+        "michael.philips@enron.com",
+        "peggy.rathmell@enron.com",
+        "robert.jr@enron.com",
+        "shannon.cobb@enron.com",
+        "sharon.stringfellow@enron.com",
+        "valarie.curry@enron.com"
+      ],
+      "subject": "3 - URGENT - TO PREVENT LOSS OF INFORMATION",
+      "_from_title_info": {},
+      "_to_title_infos": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "canonical_name": "Ring, Andrea",
+          "title": "Analyst / Trader",
+          "department": "Enron North America (Gas)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "McKay, Brad",
+          "title": "Trader",
+          "department": "Enron North America",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Germany, Chris",
+          "title": "Specialist / Capacity Trader",
+          "department": "Enron North America (Gas Trading)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Townsend, Judy",
+          "title": "Employee",
+          "department": "Enron North America",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Keavey, Peter F.",
+          "title": "Director / Trader",
+          "department": "Enron North America",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Brawner, Sandra",
+          "title": "Trader / Director",
+          "department": "Enron North America (ENA)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Goodell, Scott",
+          "title": "Director / Trader",
+          "department": "Enron North America (Gas)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Neal, Scott",
+          "title": "Vice President",
+          "department": "Enron North America (Gas Trading)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Versen, Victoria",
+          "title": "Trader / Originator",
+          "department": "Enron North America (Gas)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "sanitized_id": "3_guzman-m_discussion_threads_798_",
+      "email_id": "guzman-m/discussion_threads/798.",
+      "content": "Bill,  I have some family business that I need to attend to in April.  I \ntherefore need, March 31st thru April 3rd off from work.  It is only four \ndays so I assume it will not be a problem.  I already have March 31st off so \nif you could just make sure that I have April 1st  thru 3rd off also it would \nbe greatly appreciated.  I am going to book my ticket tommorow evening to \ntake advantage of a good fare so please let me know if there is a problem by \nthen.  Thanks.",
+      "from_email": "mark.guzman@enron.com",
+      "from_name": "",
+      "to_emails": [
+        "bill.iii@enron.com"
+      ],
+      "subject": "Time off",
+      "_from_title_info": {
+        "canonical_name": "Guzman, Mark",
+        "title": "Trader / Specialist",
+        "department": "Enron North America (West Power)",
+        "ambiguous_title": false,
+        "ambiguous_name": false
+      },
+      "_to_title_infos": [
+        {}
+      ]
+    },
+    {
+      "sanitized_id": "4_griffith-j_all_documents_327_",
+      "email_id": "griffith-j/all_documents/327.",
+      "content": "We hope your experience with the Clickathome ordering website and vendors has \nbeen exciting and fun for you!  We need your feedback to determine next steps \nof the program.  Please take a few minutes to fill out the Internet Service \nSurvey. Your feedback is critical to the success of this program. Please \ncomplete the survey by clicking on the link below by Monday, March 12th.\n\nhttp://etcsurvey.corp.enron.com/wi/p0423882/i.asp?r=720&s=LLHQHPNR&l=9\n\nThanks,\nClickathome Project Team",
+      "from_email": "clickathome@enron.com",
+      "from_name": "ClickAtHome@enron.com",
+      "to_emails": [
+        "john.griffith@enron.com"
+      ],
+      "subject": "ClickAtHome Internet Survey",
+      "_from_title_info": {},
+      "_to_title_infos": [
+        {
+          "canonical_name": "Griffith, John",
+          "title": "Manager (Gas Financial Trading)",
+          "department": "Enron North America (Gas Financial)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        }
+      ]
+    },
+    {
+      "sanitized_id": "5_dasovich-j_sent_items_242_",
+      "email_id": "dasovich-j/sent_items/242.",
+      "content": "For anyone who hasn't seen it already, attached is an electronic version of California's PUC's decision to suspend DA.  Also attached at the end of the order is a very strong dissent signed by Commissioners Bilas and Duque.\n\nBest,\nJeff",
+      "from_email": "jeff.dasovich@enron.com",
+      "from_name": "",
+      "to_emails": [
+        "j..kean@enron.com",
+        "tim.belden@enron.com",
+        "vicki.sharp@enron.com",
+        "jeremy.blachman@enron.com",
+        "alan.comnes@enron.com",
+        "michael.tribolet@enron.com",
+        "kristin.walsh@enron.com",
+        "david.delainey@enron.com",
+        "dan.leff@enron.com",
+        "lamar.frazier@enron.com",
+        "kevin.keeney@enron.com",
+        "scott.gahn@enron.com",
+        "steve.swain@enron.com",
+        "john.lavorato@enron.com",
+        "paul.kaufman@enron.com",
+        "d..steffes@enron.com",
+        "f..calger@enron.com",
+        "susan.mara@enron.com",
+        "don.black@enron.com",
+        "jeff.richter@enron.com",
+        "louise.kitchen@enron.com",
+        "janet.dietrich@enron.com",
+        "susan.mara@enron.com",
+        "linda.robertson@enron.com",
+        "harry.kingerski@enron.com",
+        "karen.denne@enron.com",
+        ".palmer@enron.com",
+        "richard.shapiro@enron.com",
+        "wanda.curry@enron.com",
+        "lisa.mellencamp@enron.com",
+        "kelly.higgason@enron.com",
+        "greg.whalley@enron.com"
+      ],
+      "subject": "Electronic version of California PUC Interim Opinion suspending Direct Access--Includes strong dissent by two commissioners",
+      "_from_title_info": {
+        "canonical_name": "Dasovich, Jeff",
+        "title": "Director (State Government Affairs)",
+        "department": "Government & Regulatory Affairs (California)",
+        "ambiguous_title": false,
+        "ambiguous_name": false
+      },
+      "_to_title_infos": [
+        {},
+        {
+          "canonical_name": "Belden, Tim",
+          "title": "Managing Director",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Blachman, Jeremy",
+          "title": "Director / VP",
+          "department": "Enron North America",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Comnes, Alan",
+          "title": "Director (Government Affairs West)",
+          "department": "Government Affairs (West)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Tribolet, Michael",
+          "title": "Director / Manager (Regulatory Risk)",
+          "department": "ENA Risk / Govt Affairs",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Delainey, David",
+          "title": "CEO",
+          "department": "Enron North America / Enron Energy Services",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Leff, Dan",
+          "title": "President & CEO (Global)",
+          "department": "Enron Energy Services",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Gahn, Scott",
+          "title": "Executive",
+          "department": "Enron Energy Services (EES)",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Lavorato, John",
+          "title": "CEO (Enron America)",
+          "department": "Enron America (Wholesale)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Kaufman, Paul",
+          "title": "Director (Government Affairs)",
+          "department": "Government Affairs (Portland)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Mara, Susan",
+          "title": "Director (Regulatory Affairs)",
+          "department": "Government & Regulatory Affairs (California)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Richter, Jeff",
+          "title": "Manager (Cash Trading)",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Kitchen, Louise",
+          "title": "President",
+          "department": "EnronOnline (EOL)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Dietrich, Janet",
+          "title": "President",
+          "department": "Enron Energy Services",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Mara, Susan",
+          "title": "Director (Regulatory Affairs)",
+          "department": "Government & Regulatory Affairs (California)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Robertson, Linda",
+          "title": "Vice President (Federal Government Affairs)",
+          "department": "Federal Government Affairs",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Kingerski, Harry",
+          "title": "Director",
+          "department": "Regulatory Affairs (Retail/East)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Denne, Karen",
+          "title": "Vice President",
+          "department": "Corporate Communications",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Shapiro, Richard",
+          "title": "Vice President (Regulatory Affairs)",
+          "department": "Regulatory Affairs",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Curry, Wanda",
+          "title": "Chief Accounting Officer",
+          "department": "ENA / EES",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Mellencamp, Lisa",
+          "title": "Vice President & Deputy General Counsel",
+          "department": "Enron Legal Department",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Whalley, Greg",
+          "title": "President / COO",
+          "department": "Enron Corp / Enron Global Markets",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        }
+      ]
+    },
+    {
+      "sanitized_id": "6_dasovich-j_notes_inbox_12190_",
+      "email_id": "dasovich-j/notes_inbox/12190.",
+      "content": "www.sfgate.com        Return to regular view\nFederal price limits backfire \nSome generators withhold power rather than abide by rate caps \nDavid Lazarus, Chronicle Staff Writer\nWednesday, July 4, 2001 \n,2001 San Francisco Chronicle \n\nURL: http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2001/07/04/MN186091.DTL \n\n\nOfficials in California and Nevada, after months of lobbying for federal \nregulators to cap Western power prices, warned yesterday that the newly \nimposed limits have had the unintended consequence of increasing a threat of \nblackouts in the two states. \n\nThe warnings were issued as California came within minutes of rolling \nblackouts yesterday afternoon, and one day after the first-ever rolling \nblackouts in Las Vegas forced energy-hungry casinos to shut off fountains and \nreduce air conditioning. \n\nThe two states are asking the Federal Energy Regulatory Commission to take a \ncloser look at the so-called price mitigation plan and come up with revisions \nthat would deter power companies from withholding electricity during \nshortages. \n\n\"We need some clarity to this order,\" said Oscar Hidalgo, a spokesman for the \nCalifornia Department of Water Resources, which is spending billions of \ndollars to keep the state's lights on. \n\n\"Generators need to be held accountable,\" he said. \n\nThe crux of the problem is that price limits kick in during shortages, yet \npower companies say these caps force them to sell power at below-market rates \nduring periods of high demand. \n\nSome companies have responded by holding back power rather than face the \nexpense of shipping electricity from state to state. Each mile that \nelectricity must be transmitted adds to the overall cost. \n\n\"No one's going to pay for transmission if the cost is near the caps,\" said \nGary Ackerman, executive director of the Western Power Trading Forum, an \nenergy-industry association in Menlo Park. \n\nAckerman said several companies in his organization decided that there was no \neconomic advantage to offering power in regional markets when price controls \nare in effect. \n\n\"This means individual regions like California or Las Vegas could end up not \nhaving enough,\" Ackerman said. \"It increases the threat of blackouts.\" \n\n\nBLACKOUT ALERT CANCELED\nCalifornia authorities issued a blackout alert at 1:45 p.m. yesterday when \npower reserves dipped to dangerously low levels. They canceled the alert \nabout an hour later, after finding additional supplies. \n\n\"Everyone in the West is fighting for megawatts,\" said Stephanie McCorkle, a \nspokeswoman for the California Independent System Operator, which oversees \nthe state's power network. \n\nThe Golden State's latest brush with lights-out conditions came a day after \nNevada experienced its own rolling blackouts for the first time, prompting \nheavy power users such as the MGM Grand and Caesars Palace to dim their \nlights. \n\nDon Soderberg, chairman of the Nevada Public Utilities Commission, said that \nthe sudden power emergency took state authorities by surprise and that they \nare investigating to see what role the federal price limits may have had in \nexacerbating Monday's shortage. \n\n\"We're looking very closely at this,\" he said. \"There seems to be a potential \nfor unintended consequences.\" \n\nSpecifically, Soderberg said Nevada is focusing on operators of older, less- \nefficient plants who would find profit margins shrinking, if not vanishing, \nunder capped prices. \n\n\"We're going to see how the caps might have played into this,\" he said. \n\nThe federal ceiling in 10 Western states, excluding California, is about $92 \nper megawatt hour. In California, a 10 percent surcharge is added because of \nthe state's credit risk, bringing the price to just over $101. \n\nAckerman at the Western Power Trading Forum said regional price controls have \nextended California's power crisis to neighboring states. \n\n\"California sneezed and the rest of the region caught the virus,\" he said. \n\n'LAWYERS LOOKING FOR LOOPHOLES' \n\nCalifornia and Nevada officials, however, said that they still have faith \nthat price limits can stabilize Western electricity markets but that federal \nregulators may have to tweak the system so that power companies cannot \nwithhold output. \n\n\"The generators have banks of lawyers looking for loopholes (in the plan),\" \nsaid Hidalgo at the Department of Water Resources. \n\nUnfortunately, it may take some time for the regulators to revisit an issue \nthat they took up only with the greatest reluctance. For months, federal \nregulators refused to impose price controls, preferring instead to let supply \nand demand determine costs. \n\nHidalgo said that when it appeared that power companies were throttling back \non output Monday, California officials immediately dialed the hot line number \nprovided by the Federal Energy Regulatory Commission in case of emergencies. \n\n\"No one answered,\" he said. \"They were closed.\" \n\nState officials tried again yesterday, and this time were told that the \ncommission would look into the matter. They were not given a time frame for \nwhen the commission might come up with a response. \n\nE-mail David Lazarus at dlazarus@sfchronicle.com. \n\n,2001 San Francisco Chronicle   Page A - 1",
+      "from_email": "alan.comnes@enron.com",
+      "from_name": "",
+      "to_emails": [
+        "tom.alonso@enron.com",
+        "ray.alvarez@enron.com",
+        "robert.badeer@enron.com",
+        "tim.belden@enron.com",
+        "christopher.calger@enron.com",
+        "paul.choi@enron.com",
+        "jeff.dasovich@enron.com",
+        "michael.driscoll@enron.com",
+        "mark.fischer@enron.com",
+        "chris.foster@enron.com",
+        "mark.guzman@enron.com",
+        "steve.hall@enron.com",
+        "tim.heizenrader@enron.com",
+        "paul.kaufman@enron.com",
+        "holli.krebs@enron.com",
+        "elliot.mainzer@enron.com",
+        "chris.mallory@enron.com",
+        "john.malowney@enron.com",
+        "susan.mara@enron.com",
+        "matt.motley@enron.com",
+        "dave.perrino@enron.com",
+        "phillip.platter@enron.com",
+        "jeff.richter@enron.com",
+        "stewart.rosman@enron.com",
+        "diana.scholtes@enron.com",
+        "chris.stokley@enron.com",
+        "stephen.swain@enron.com",
+        "mike.swerzbin@enron.com",
+        "kate.symes@enron.com",
+        "bill.iii@enron.com",
+        "greg.wolfe@enron.com"
+      ],
+      "subject": "Federal price limits backfire",
+      "_from_title_info": {
+        "canonical_name": "Comnes, Alan",
+        "title": "Director (Government Affairs West)",
+        "department": "Government Affairs (West)",
+        "ambiguous_title": false,
+        "ambiguous_name": false
+      },
+      "_to_title_infos": [
+        {},
+        {
+          "canonical_name": "Alvarez, Ray",
+          "title": "Director (International)",
+          "department": "Global Government Affairs",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Badeer, Robert",
+          "title": "Trader / Scheduler",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Belden, Tim",
+          "title": "Managing Director",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Calger, Christopher",
+          "title": "Vice President",
+          "department": "Enron North America / Tech Services",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Choi, Paul",
+          "title": "Director / Manager",
+          "department": "Enron Corp",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Dasovich, Jeff",
+          "title": "Director (State Government Affairs)",
+          "department": "Government & Regulatory Affairs (California)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Foster, Chris",
+          "title": "Director",
+          "department": "Enron North America / EnPower",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Guzman, Mark",
+          "title": "Trader / Specialist",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Kaufman, Paul",
+          "title": "Director (Government Affairs)",
+          "department": "Government Affairs (Portland)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Mallory, Chris",
+          "title": "Real-time Trader",
+          "department": "ENA (West/California)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Mara, Susan",
+          "title": "Director (Regulatory Affairs)",
+          "department": "Government & Regulatory Affairs (California)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Motley, Matt",
+          "title": "Director / Manager (Term)",
+          "department": "ENA (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Perrino, Dave",
+          "title": "Employee",
+          "department": "Government Affairs",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Platter, Phillip",
+          "title": "Senior Specialist (Cash Trader)",
+          "department": "ENA (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Richter, Jeff",
+          "title": "Manager (Cash Trading)",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Rosman, Stewart",
+          "title": "Director (West Power)",
+          "department": "Enron North America (ENA)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Scholtes, Diana",
+          "title": "Manager / Trader",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Swerzbin, Mike",
+          "title": "Vice President (Trading)",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Symes, Kate",
+          "title": "Trader / Broker",
+          "department": "ENA (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Wolfe, Greg",
+          "title": "Vice President",
+          "department": "Enron North America (Service Desk)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        }
+      ]
+    },
+    {
+      "sanitized_id": "7_dasovich-j_deleted_items_1523_",
+      "email_id": "dasovich-j/deleted_items/1523.",
+      "content": "You asked, you received.  I've given a bunch of written material to Alan for his review as well.  He apparently has also been charged with developing a budget of sorts.  You may want to put the turd in his pocket as it seems he is a bit low on work.  \n\n -----Original Message-----\nFrom: \tDasovich, Jeff  \nSent:\tWednesday, January 02, 2002 3:42 PM\nTo:\tKaufman, Paul\nSubject:\tRE: \n\nAsk, and thall shall receive......\n\n -----Original Message-----\nFrom: \tKaufman, Paul  \nSent:\tWednesday, January 02, 2002 4:04 PM\nTo:\tDasovich, Jeff\nSubject:\tRE: \n\nSorry.  Here are the budget documents from 2001, 2000, 1999.  Be thankful I didn't send you the budget from 1998.  I'd start with the most recent 2001 budgets, then work backwards.  \n\n << File: Budget Document.doc >>  << File: 080101 2002 Budget.xls >>  << File: 041601 2001 Budget Reduction.doc >>  << File: 11-15 -00 Budget Update.xls >>  << File: 110800 California Western States Proceedings.doc >>  << File: 102700 Budget for California West.xls >>  << File: 102700  California Western States Budget Explanation.doc >>  << File: 080700  Budget Explanation.doc >>  << File: 102600 California-West Budget.doc >>  << File: 3400 California Fixed Budget.doc >>  << File: Budget Memo 12699.doc >>  << File: 2000 Budget 12199.doc >>  << File: Budget Memo 112999.doc >>  << File: Budget Memo 112499.doc >>  << File: Budget proposal Paul 99.doc >>  << File: August CA  Budget Analysis Review.xls >>  << File: 1999 CA  Budget Analysis estimation.xls >>  << File: Western Budget 2000.xls >>  << File: 2000 BUDGET SUMMARY.xls >>  << File: 2000 BUDGET 6-12.xls >>  << File: Western Budget.xls >>  << File: Budget Memo.doc >>  << File: 1999 CA  Budget Analysis.xls >>  << File: 1999 Budget-2.doc >>  << File: 1999 Budget.doc >>  << File: Budget Document2.doc >>  << File: Budget issues.doc >> \n\n -----Original Message-----\nFrom: \tDasovich, Jeff  \nSent:\tWednesday, January 02, 2002 12:01 PM\nTo:\tKaufman, Paul\nSubject:\t\n\nneed budget, baby.  hey, does your little one a big fan of skiing?",
+      "from_email": "paul.kaufman@enron.com",
+      "from_name": "",
+      "to_emails": [
+        "jeff.dasovich@enron.com"
+      ],
+      "subject": "RE:",
+      "_from_title_info": {
+        "canonical_name": "Kaufman, Paul",
+        "title": "Director (Government Affairs)",
+        "department": "Government Affairs (Portland)",
+        "ambiguous_title": false,
+        "ambiguous_name": false
+      },
+      "_to_title_infos": [
+        {
+          "canonical_name": "Dasovich, Jeff",
+          "title": "Director (State Government Affairs)",
+          "department": "Government & Regulatory Affairs (California)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        }
+      ]
+    },
+    {
+      "sanitized_id": "8_salisbury-h_read_287_",
+      "email_id": "salisbury-h/read/287.",
+      "content": "Group,\nI have purchased 8 mws from the service desk for Tuesday (04/10) in SP-15.  We bought 8 mws from a service customer through the APX.  I have made the entries into CAPs for the purchase from APX.  I have inc'd load in ST-WBOM.  Load will need to be dec'd and the energy sold off. You may want to  combine it with EES(or buy some mws to make it a whole piece to sell) and use NCPA to move it North.  Or maybe export it at Silverpeak.  The schedule is as follows.  8 mw, HE 1-24 on 04/10 in SP-15.  The price is $150 peak, and $100 off peak.  Purchase from Services is #574640, and purchase from APX is #574629.  Please make any buy-resales and sales under ST-WBOM. \nPlease call with any questions.\n\nThanks,\nBill",
+      "from_email": "bill.iii@enron.com",
+      "from_name": "Bill Williams III",
+      "to_emails": [
+        "portland.shift@enron.com"
+      ],
+      "subject": "Length from APX",
+      "_from_title_info": {},
+      "_to_title_infos": [
+        {}
+      ]
+    },
+    {
+      "sanitized_id": "9_causholli-m_deleted_items_604_",
+      "email_id": "causholli-m/deleted_items/604.",
+      "content": "We received the executed EEI Master Power Purchase and Sale Agreement dated 4/20/2001 from the referenced CP.  The document will be scanned into Livelink.",
+      "from_email": "l..denton@enron.com",
+      "from_name": "",
+      "to_emails": [
+        "andrea.dahlke@enron.com",
+        "casey.evans@enron.com",
+        "paul.lewis@enron.com",
+        "steve.gim@enron.com",
+        "wendy.conwell@enron.com",
+        "mark.confer@enron.com",
+        "benjamin.rogers@enron.com",
+        "s..theriot@enron.com",
+        "ann.murphy@enron.com",
+        "russell.ballato@enron.com",
+        "richard.broussard@enron.com",
+        "chris.dorland@enron.com",
+        "gautam.gupta@enron.com",
+        "patrick.hanse@enron.com",
+        "marcus.nettelton@enron.com",
+        "john.llodra@enron.com",
+        "mitch.robinson@enron.com",
+        "paul.schiavone@enron.com",
+        "j..sturm@enron.com",
+        "clayton.vernon@enron.com",
+        "kerri.thompson@enron.com",
+        "evelyn.metoyer@enron.com",
+        "diana.scholtes@enron.com",
+        "tom.alonso@enron.com",
+        "mark.fischer@enron.com",
+        "chris.mallory@enron.com",
+        "beau.ratliff@enron.com",
+        "lex.carroll@enron.com",
+        "e..kelly@enron.com",
+        "howard.marshall@enron.com",
+        "susan.rance@enron.com",
+        "kortney.brown@enron.com",
+        "matt.motley@enron.com",
+        "lester.rawson@enron.com",
+        "holden.salisbury@enron.com",
+        "leaf.harasin@enron.com",
+        "geir.solberg@enron.com",
+        "ryan.slinger@enron.com",
+        "v..porter@enron.com",
+        "monika.causholli@enron.com",
+        "bill.williams@enron.com",
+        "lisa.brown@enron.com",
+        "gwendolyn.williams@enron.com",
+        "paul.radous@enron.com",
+        ".williams@enron.com",
+        "billy.braddock@enron.com",
+        "m..forney@enron.com",
+        "k..ratnala@enron.com",
+        "michael.jacobson@enron.com",
+        "m..grace@enron.com",
+        "paul.sims@enron.com",
+        ".hall@enron.com",
+        "amy.smith@enron.com",
+        "vivien.pham@enron.com",
+        "hai.chen@enron.com",
+        "s..landry@enron.com",
+        "harlan.murphy@enron.com",
+        "carol.st.@enron.com",
+        "travis.mccullough@enron.com",
+        "kay.mann@enron.com",
+        "karen.o'day@enron.com",
+        "tim.belden@enron.com",
+        "christian.yoder@enron.com",
+        "dana.davis@enron.com",
+        "genia.fitzgerald@enron.com",
+        "l..nicolay@enron.com",
+        "leslie.reeves@enron.com",
+        "gretchen.lotz@enron.com",
+        "dean.laurent@enron.com",
+        "cara.semperger@enron.com",
+        "m..king@enron.com",
+        "mike.swerzbin@enron.com",
+        "michael.etringer@enron.com",
+        "john.malowney@enron.com",
+        "elizabeth.sager@enron.com",
+        "corry.bentley@enron.com",
+        "matt.lorenz@enron.com",
+        "a..allen@enron.com",
+        "david.portz@enron.com",
+        "sharen.cason@enron.com",
+        "veronica.gonzalez@enron.com",
+        "kimberly.indelicato@enron.com",
+        "s..bradford@enron.com",
+        "r..brackett@enron.com",
+        "brant.reves@enron.com",
+        "russell.diamond@enron.com",
+        "tanya.rohauer@enron.com",
+        "roderick.nelson@enron.com",
+        "stephanie.piwetz@enron.com",
+        "tom.moran@enron.com",
+        "leslie.hansen@enron.com",
+        "stewart.rosman@enron.com",
+        "paul.choi@enron.com",
+        "h..foster@enron.com",
+        "sean.crandall@enron.com",
+        "jeff.richter@enron.com",
+        "phillip.platter@enron.com",
+        "l..day@enron.com",
+        "robert.badeer@enron.com",
+        "d..baughman@enron.com",
+        "kayne.coulter@enron.com",
+        "john.kinser@enron.com",
+        "robert.benson@enron.com",
+        "larry.valderrama@enron.com",
+        "j..broderick@enron.com",
+        "edward.sacks@enron.com",
+        "h..moore@enron.com",
+        "m..presto@enron.com",
+        "jesse.bryson@enron.com",
+        "stanley.cocke@enron.com",
+        "m..driscoll@enron.com",
+        "doug.gilbert-smith@enron.com",
+        "kimberly.hundl@enron.com",
+        "elsie.lew@enron.com",
+        "amy.clemons@enron.com",
+        "kim.durham@enron.com",
+        "rhonda.robinson@enron.com",
+        "rudy.acevedo@enron.com",
+        "don.baughman@enron.com",
+        "lisa.burnett@enron.com",
+        "f..campbell@enron.com",
+        "mike.carson@enron.com",
+        "jason.choate@enron.com",
+        "kevin.cline@enron.com",
+        "terri.clynes@enron.com",
+        "keith.comeaux@enron.com",
+        "mike.curry@enron.com",
+        "oscar.dalton@enron.com",
+        "clint.dean@enron.com",
+        "todd.decook@enron.com",
+        "joe.errigo@enron.com",
+        "l..garcia@enron.com",
+        "gerald.gilbert@enron.com",
+        "alton.jackson@enron.com",
+        "larry.jester@enron.com",
+        "g.kelly@enron.com",
+        "jeff.king@enron.com",
+        "madhup.kumar@enron.com",
+        "justin.laverell@enron.com",
+        "chris.lenartowicz@enron.com",
+        "peter.makkai@enron.com",
+        "tom.may@enron.com",
+        "jeffrey.miller@enron.com",
+        "narsimha.misra@enron.com",
+        "steve.olinde@enron.com",
+        "andy.pace@enron.com",
+        "juan.padron@enron.com",
+        "joseph.piotrowski@enron.com",
+        "bill.rust@enron.com",
+        "david.ryan@enron.com",
+        "eric.saibi@enron.com",
+        "zachary.sampson@enron.com",
+        "anna.santucci@enron.com",
+        "erik.serio@enron.com",
+        "doug.sewell@enron.com",
+        "robert.stalford@enron.com",
+        "joe.stepenovitch@enron.com",
+        "mark.symms@enron.com",
+        "d..thomas@enron.com",
+        "maria.valdes@enron.com",
+        "lloyd.will@enron.com",
+        "george.wood@enron.com",
+        "alex.wong@enron.com",
+        "tracy.ngo@enron.com",
+        "karen.lambert@enron.com",
+        "fran.chang@enron.com",
+        "kate.symes@enron.com",
+        "kysa.alport@enron.com",
+        "w..white@enron.com",
+        "john.suarez@enron.com"
+      ],
+      "subject": "California Department of Water Resources",
+      "_from_title_info": {},
+      "_to_title_infos": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "canonical_name": "Rogers, Benjamin",
+          "title": "Vice President / Associate",
+          "department": "Enron North America (Power Gen)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Ballato, Russell",
+          "title": "Trader",
+          "department": "Enron North America",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Gupta, Gautam",
+          "title": "Associate / Manager",
+          "department": "Enron North America (Research)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Hanse, Patrick",
+          "title": "Manager / Trader",
+          "department": "Enron North America (Gas)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {},
+        {
+          "canonical_name": "Schiavone, Paul",
+          "title": "Employee",
+          "department": "Enron Corp",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Vernon, Clayton",
+          "title": "Employee",
+          "department": "Enron Corp",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Scholtes, Diana",
+          "title": "Manager / Trader",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Mallory, Chris",
+          "title": "Real-time Trader",
+          "department": "ENA (West/California)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "canonical_name": "Motley, Matt",
+          "title": "Director / Manager (Term)",
+          "department": "ENA (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Rawson, Lester",
+          "title": "Trader / Scheduler",
+          "department": "Enron North America (ENA)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Salisbury, Holden",
+          "title": "Cash Analyst / Trader",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Solberg, Geir",
+          "title": "Analyst / Specialist",
+          "department": "Enron North America (Trading Support)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Slinger, Ryan",
+          "title": "Trader / Scheduler",
+          "department": "Enron North America (West Desk)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Williams III, Bill",
+          "title": "Manager (Real-Time Trading)",
+          "department": "ENA (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "canonical_name": "McCullough, Travis",
+          "title": "Senior Counsel / Vice President",
+          "department": "Enron North America (Legal)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Belden, Tim",
+          "title": "Managing Director",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Davis, Dana",
+          "title": "Vice President",
+          "department": "Enron North America (Term Trading)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Fitzgerald, Genia",
+          "title": "Legal Specialist",
+          "department": "Enron Legal Department",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Reeves, Leslie",
+          "title": "Employee",
+          "department": "Enron North America (Accounting)",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Lotz, Gretchen",
+          "title": "Employee",
+          "department": "Enron Capital & Trade (ECT)",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Laurent, Dean",
+          "title": "President / VP",
+          "department": "Transwestern Pipeline / EBS",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Semperger, Cara",
+          "title": "Senior Analyst / Specialist",
+          "department": "ENA (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Swerzbin, Mike",
+          "title": "Vice President (Trading)",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Etringer, Michael",
+          "title": "Trader",
+          "department": "Enron North America (Gas)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Sager, Elizabeth",
+          "title": "Vice President & Assistant General Counsel",
+          "department": "ECT / ENA Legal",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Bentley, Corry",
+          "title": "Specialist / Scheduler",
+          "department": "Enron North America",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Lorenz, Matt",
+          "title": "Employee",
+          "department": "Enron Corp",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Portz, David",
+          "title": "Senior Counsel",
+          "department": "Enron Legal Department",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "canonical_name": "Diamond, Russell",
+          "title": "Employee",
+          "department": "Enron North America (ENA)",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Rohauer, Tanya",
+          "title": "Vice President",
+          "department": "Risk Management / Credit",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Moran, Tom",
+          "title": "Vice President",
+          "department": "Enron North America",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Hansen, Leslie",
+          "title": "Senior Counsel",
+          "department": "Enron North America (Legal)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Rosman, Stewart",
+          "title": "Director (West Power)",
+          "department": "Enron North America (ENA)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Choi, Paul",
+          "title": "Director / Manager",
+          "department": "Enron Corp",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Crandall, Sean",
+          "title": "Director (Northwest Trading)",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Richter, Jeff",
+          "title": "Manager (Cash Trading)",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Platter, Phillip",
+          "title": "Senior Specialist (Cash Trader)",
+          "department": "ENA (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Badeer, Robert",
+          "title": "Trader / Scheduler",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Coulter, Kayne",
+          "title": "Trader",
+          "department": "Enron North America (Gas)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Kinser, John",
+          "title": "Trader / Associate",
+          "department": "Enron North America (Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Benson, Robert",
+          "title": "Director (East Power)",
+          "department": "Enron North America (East Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Valderrama, Larry",
+          "title": "Manager",
+          "department": "Enron North America",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Sacks, Edward",
+          "title": "Director, Credit & Structuring",
+          "department": "ENA Risk Management",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Bryson, Jesse",
+          "title": "Manager / Trader (Real Time)",
+          "department": "ENA Real Time Trading / West Desk",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Gilbert-Smith, Doug",
+          "title": "Manager (Power Trading)",
+          "department": "Enron North America (Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "canonical_name": "Baughman, Don",
+          "title": "Trader",
+          "department": "Enron North America",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Burnett, Lisa",
+          "title": "Manager",
+          "department": "Enron North America (EHS)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Carson, Mike",
+          "title": "Trader",
+          "department": "Enron North America (West Desk)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Choate, Jason",
+          "title": "Trader",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Cline, Kevin",
+          "title": "Analyst / Trader",
+          "department": "ENA (ERCOT)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Clynes, Terri",
+          "title": "Director (Power Marketing)",
+          "department": "Enron North America (ENA)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Comeaux, Keith",
+          "title": "Standards Specialist / Logistics",
+          "department": "Enron Transportation Services (ETS)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Curry, Mike",
+          "title": "Director",
+          "department": "Enron Capital & Trade (ECT)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Dalton, Oscar",
+          "title": "Employee",
+          "department": "Enron North America (HOU/ECT)",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Dean, Clint",
+          "title": "Trader / Scheduler",
+          "department": "Enron North America (Gas)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Decook, Todd",
+          "title": "Employee",
+          "department": "Enron Corporate",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Errigo, Joe",
+          "title": "Scheduler / Logistics",
+          "department": "Enron North America",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Gilbert, Gerald",
+          "title": "Manager / Specialist",
+          "department": "Enron North America",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {},
+        {
+          "canonical_name": "King, Jeff",
+          "title": "Analyst",
+          "department": "Enron North America",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Lenartowicz, Chris",
+          "title": "Asset Manager / Operations",
+          "department": "Enron North America (ENA)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Makkai, Peter",
+          "title": "Trader",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "May, Tom",
+          "title": "Vice President",
+          "department": "Enron North America (Risk/West)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Miller, Jeffrey",
+          "title": "Employee / Trading Support",
+          "department": "Enron North America",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Misra, Narsimha",
+          "title": "Trader / Structurer",
+          "department": "Enron North America (ENA)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Olinde, Steve",
+          "title": "Manager / Specialist",
+          "department": "Enron North America",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Pace, Andy",
+          "title": "Analyst / Associate",
+          "department": "Enron North America (ENA)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Padron, Juan",
+          "title": "Collateral Analyst",
+          "department": "ENA Risk Management",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Rust, Bill",
+          "title": "Trader (East Desk)",
+          "department": "Enron North America (East Desk)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Ryan, David",
+          "title": "Employee",
+          "department": "Enron Corp (Corporate)",
+          "ambiguous_title": true,
+          "ambiguous_name": true
+        },
+        {
+          "canonical_name": "Saibi, Eric",
+          "title": "Trader",
+          "department": "Enron North America",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Serio, Erik",
+          "title": "Specialist",
+          "department": "Enron North America (ENA)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Sewell, Doug",
+          "title": "Trader / Credit Originator",
+          "department": "Enron Capital & Trade (ECT) / ENA",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Stalford, Robert",
+          "title": "Trader",
+          "department": "Enron North America (Gas)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Stepenovitch, Joe",
+          "title": "Trader",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Symms, Mark",
+          "title": "Employee",
+          "department": "Enron Corp (IT/Intranet)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Valdes, Maria",
+          "title": "Specialist / Admin",
+          "department": "Enron North America",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Will, Lloyd",
+          "title": "Specialist (Market Interface)",
+          "department": "ENA (ERCOT)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Ngo, Tracy",
+          "title": "Risk Management",
+          "department": "Enron North America",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Symes, Kate",
+          "title": "Trader / Broker",
+          "department": "ENA (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "sanitized_id": "10_cash-m_sent_items_497_",
+      "email_id": "cash-m/sent_items/497.",
+      "content": "Can you provide some insight?  Thanks.  Michelle\n\n -----Original Message-----\nFrom: \tFMackin@aol.com@ENRON  \nSent:\tWednesday, November 14, 2001 10:39 AM\nTo:\tCash, Michelle\nSubject:\tRe: FW: Severance\n\nIn a message dated 11/13/01 11:10:20 PM Pacific Standard Time, Michelle.Cash@ENRON.com writes: \n           Can we use credited service date for sev calc?  I have a \nperson who was hired in 1997, left in 1999 and was rehired \n           in April 2001.  The system is using a 1998 service date \nfor severance.  I calculated in on the 2001 re hire date. \nMichelle, since the Plan is not administered centrally, it can be a challenge to learn what past practices were, especially if they differed from different work groups.  I've have always recommended centralized administration because an ERISA plan is required to be administered uniformly and consistently in similar circumstances.   \nOne place to check about past practices is Cynthia Barrow's group.  You may not know what all past practices were until the conclusion of discovery related to litigation.   \nI don't know what past practices were, but I would start with Cynthia's group which I view as the source and reference point as to what the recommended practices should be. \nPat",
+      "from_email": "michelle.cash@enron.com",
+      "from_name": "",
+      "to_emails": [
+        "cynthia.barrow@enron.com"
+      ],
+      "subject": "FW: FW: Severance",
+      "_from_title_info": {
+        "canonical_name": "Cash, Michelle",
+        "title": "Senior Counsel (Labor/Employment)",
+        "department": "Enron North America (Legal)",
+        "ambiguous_title": false,
+        "ambiguous_name": false
+      },
+      "_to_title_infos": [
+        {}
+      ]
+    },
+    {
+      "sanitized_id": "11_dasovich-j_inbox_1475_",
+      "email_id": "dasovich-j/inbox/1475.",
+      "content": "Handout 'FirstPlus Case' for Class: 'E283-1: Real Estate Finance' is now available through the Izio system.  You will find it in the 'Handout' section.\n\n\n\nNote: To stop receiving these notifications, please uncheck the box labeled 'I want to be notified by email when course information is updated' in the 'Properties' section under the HOME menu bar.\n\n \n\t\t\t\t \n\n\n===========================================\nThis message was sent from the Izio system at http://haas.Izio.convene.com.   \nIf you have any questions or comments regarding this email or the Izio system, please forward them to IzioSupport@convene.com.",
+      "from_email": "izioautoemail@convene.com",
+      "from_name": "",
+      "to_emails": [
+        "dasovich@haas.berkeley.edu"
+      ],
+      "subject": "E283-1: Real Estate Finance - New Handout Now Available",
+      "_from_title_info": {},
+      "_to_title_infos": [
+        {}
+      ]
+    },
+    {
+      "sanitized_id": "12_germany-c_sent_items_760_",
+      "email_id": "germany-c/sent_items/760.",
+      "content": "ENA did not purchase any gas for the weekend or Tuesday (Monday is an Enron holiday).\n\nHave a good weekend!",
+      "from_email": "chris.germany@enron.com",
+      "from_name": "",
+      "to_emails": [
+        "jjtaylor@reliant.com"
+      ],
+      "subject": "Updated gas flow and prepayment schedule",
+      "_from_title_info": {
+        "canonical_name": "Germany, Chris",
+        "title": "Specialist / Capacity Trader",
+        "department": "Enron North America (Gas Trading)",
+        "ambiguous_title": false,
+        "ambiguous_name": false
+      },
+      "_to_title_infos": [
+        {}
+      ]
+    },
+    {
+      "sanitized_id": "13_guzman-m_all_documents_113_",
+      "email_id": "guzman-m/all_documents/113.",
+      "content": "At approximately 6:30 pm on 4/25 Ruth Ashe with PGE notified Enron that there \nwill be a voice mail outage starting the evening of 4/25 and running thru 2pm \non 4/26.  If you have any questions or concerns please contact her at \n503-464-8663 or 503-323-1254.  Thank you for your attention to this matter.",
+      "from_email": "mark.guzman@enron.com",
+      "from_name": "",
+      "to_emails": [
+        "portland.desk@enron.com"
+      ],
+      "subject": "Voice Mail Outage 4/25-4/26",
+      "_from_title_info": {
+        "canonical_name": "Guzman, Mark",
+        "title": "Trader / Specialist",
+        "department": "Enron North America (West Power)",
+        "ambiguous_title": false,
+        "ambiguous_name": false
+      },
+      "_to_title_infos": [
+        {}
+      ]
+    },
+    {
+      "sanitized_id": "14_whalley-g_inbox_51_",
+      "email_id": "whalley-g/inbox/51.",
+      "content": "Please email or call me with your comments.\n \n_________________________\nGay Mayeux\nVice President, Investor Relations\nEnron Corp.\n1400 Smith Street, EB 4931a\nHouston, Texas 77002\n\nPhone:  713-853-9905\nCell:      713-416-8821\nFax:      713-646-3002\nemail:    gay.mayeux@enron.com",
+      "from_email": "gay.mayeux@enron.com",
+      "from_name": "",
+      "to_emails": [
+        "mark.koenig@enron.com",
+        "richard.causey@enron.com",
+        "j..kean@enron.com",
+        "andrew.fastow@enron.com",
+        "ben.glisan@enron.com",
+        "tim.despain@enron.com",
+        "rex.rogers@enron.com",
+        "greg.whalley@enron.com",
+        "david.leboe@enron.com",
+        "amin.maredia@enron.com",
+        "lisa.gillette@enron.com"
+      ],
+      "subject": "Conference Call Script - Draft",
+      "_from_title_info": {},
+      "_to_title_infos": [
+        {
+          "canonical_name": "Koenig, Mark",
+          "title": "EVP, Investor Relations",
+          "department": "Enron Investor Relations",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "canonical_name": "Whalley, Greg",
+          "title": "President / COO",
+          "department": "Enron Corp / Enron Global Markets",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Gillette, Lisa",
+          "title": "Contract Admin / Operations",
+          "department": "Enron Capital & Trade (ECT)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        }
+      ]
+    },
+    {
+      "sanitized_id": "15_cash-m_sent_206_",
+      "email_id": "cash-m/sent/206.",
+      "content": "Gerry, should Sharon Butcher and Kriste Sullivan be included in the \ndistribution list?  I would think so, now that we are back to \"normal\" staff \nmeetings.  Michelle\n\n\n\n\n\tGerry Gibson@ENRON\n\t06/08/2000 01:19 PM\n\t\t \n\t\t To: Ray Bennett/HOU/EES@EES, Dave Schafer/OTS/Enron@ENRON, David \nOxley/HOU/ECT@ECT, Gary P Smith/OTS/Enron@ENRON, Drew C Lynch/HOU/ECT@ECT, \nJanie Bonnard/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Robert \nJones/Corp/Enron@ENRON, Sarah A Davis/HOU/ECT@ECT, Miguel \nPadron/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Scott \nGilchrist/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Ranendra \nSengupta/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Gerry Chatham/Corp/Enron@ENRON, \nKimberly Rizzi/HOU/ECT@ECT, Brian Schaffer/Corp/Enron@ENRON, Bob \nSparger/Corp/Enron@Enron, Cindy Olson/Corp/Enron@ENRON, Michelle \nCash/HOU/ECT@ECT, Marla Barnard/Enron Communications@Enron Communications, \nWillie Williams/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Brian \nSchaffer/Corp/Enron@ENRON, Gwendolyn Petteway/HR/Corp/Enron@ENRON, Meredith \nPhilipp/Corp/Enron@ENRON, Mary Joyce/HR/Corp/Enron@ENRON, Cindy \nSkinner/HOU/ECT@ECT, Andrea Yowman/Corp/Enron@ENRON\n\t\t cc: Bobbie Power/Corp/Enron@ENRON, Hilda \nBourgeois-Galloway/Corp/Enron@ENRON, Cindy Shaffer/HOU/ECT@ECT, Nicole \nMendez/HOU/ECT@ECT\n\t\t Subject: June 12 HR Leadership Team Meeting\n\nHello Folks:\n\nEnclosed is the agenda for the June 12 HR Leadership Team Meeting. The \nmeeting will run from 12:15 - 1:30 and be held in EB49C4. The call in number \nis 713-853-3233 conf. code: 6000.\n\nRegards, Gerry Gibson",
+      "from_email": "michelle.cash@enron.com",
+      "from_name": "",
+      "to_emails": [
+        "gerry.gibson@enron.com"
+      ],
+      "subject": "Re: June 12 HR Leadership Team Meeting",
+      "_from_title_info": {
+        "canonical_name": "Cash, Michelle",
+        "title": "Senior Counsel (Labor/Employment)",
+        "department": "Enron North America (Legal)",
+        "ambiguous_title": false,
+        "ambiguous_name": false
+      },
+      "_to_title_infos": [
+        {}
+      ]
+    },
+    {
+      "sanitized_id": "16_germany-c_bankrupt_reliant_entex_1_",
+      "email_id": "germany-c/bankrupt/reliant_entex/1.",
+      "content": "Chris,\n\nI need the amount of Demand Charge for Deal no. 113266 changed to $13,432.49 from $3,203.20.\nThis demand charge is for fuel reimbursement.\n\nThanks,\nMax",
+      "from_email": "max.doner@enron.com",
+      "from_name": "",
+      "to_emails": [
+        "chris.germany@enron.com"
+      ],
+      "subject": "Sitara change for Decmeber 2001",
+      "_from_title_info": {},
+      "_to_title_infos": [
+        {
+          "canonical_name": "Germany, Chris",
+          "title": "Specialist / Capacity Trader",
+          "department": "Enron North America (Gas Trading)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        }
+      ]
+    },
+    {
+      "sanitized_id": "17_salisbury-h_inbox_582_",
+      "email_id": "salisbury-h/inbox/582.",
+      "content": "In light of the tragic events that occurred on September 11, 2001, our concern is to support our employees through this difficult time.  We would like to take this opportunity to remind you of a resource available to you, Enron's Employee Assistance Program.  This service is available to you or any member of your immediate family to provide counseling services.  To talk to a counselor, simply call (713) 853-6057 during business hours in Houston or the 24 hour service line at (800) 345-1391.  If you are outside the US, please contact your Human Resources Representative for further details.  Please also be aware of any colleagues who may require assistance during this time and may not be able to seek help for themselves.\n\nLouise & John",
+      "from_email": "40enron@enron.com",
+      "from_name": "",
+      "to_emails": [],
+      "subject": "Message from the Office of the Chair Enron Americas Re: September 11, 2001",
+      "_from_title_info": {},
+      "_to_title_infos": []
+    },
+    {
+      "sanitized_id": "18_gilbertsmith-d_all_documents_124_",
+      "email_id": "gilbertsmith-d/all_documents/124.",
+      "content": "GILBERT-SMITH, DOUGLAS,\n?\nYou have been selected to participate in the Mid Year 2001 Performance \nManagement process.  Your feedback plays an important role in the process, \nand your participation is critical to the success of Enron's Performance \nManagement goals.\n?\nTo complete a request for feedback, access PEP at http://pep.enron.com and \nselect Complete Feedback from the Main Menu.  You may begin providing \nfeedback immediately and are requested to have all feedback forms completed \nby Friday, May 25, 2001. \n?\nIf you have any questions regarding PEP or your responsibility in the \nprocess, please contact the PEP Help Desk at:\nHouston:  1.713.853.4777, Option 4 or email: perfmgmt@enron.com\nLondon:  44.207.783.4040, Option 4 or email: pep.enquiries@enron.com \n?\nThank you for your participation in this important process. \n?\nThe following is a CUMULATIVE list of employee feedback requests with a \nstatus of \"OPEN.\"  Once you have submitted or declined an employee's request \nfor feedback, their name will no longer appear on this list.  NOTE: YOU WILL \nRECEIVE THIS MESSAGE EACH TIME YOU ARE SELECTED AS A REVIEWER. \n?\nEmployee Name:\nCLINE, KEVIN\nSANTUCCI, ANNA\nTHOMPSON, KERRI",
+      "from_email": "perfmgmt@enron.com",
+      "from_name": "Performance Evaluation Process (PEP)",
+      "to_emails": [
+        "doug.gilbert-smith@enron.com"
+      ],
+      "subject": "Mid-Year 2001 Performance Feedback",
+      "_from_title_info": {},
+      "_to_title_infos": [
+        {
+          "canonical_name": "Gilbert-Smith, Doug",
+          "title": "Manager (Power Trading)",
+          "department": "Enron North America (Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        }
+      ]
+    },
+    {
+      "sanitized_id": "19_taylor-m_all_documents_1440_",
+      "email_id": "taylor-m/all_documents/1440.",
+      "content": "Mark:  Attached is the latest draft of the memo.  Speak to you soon.\n\n\n----------------------------------\n\nThis e-mail is sent by a law firm and contains information\nthat may be privileged and confidential. If you are not the\nintended recipient, please delete the e-mail and notify us\nimmediately.\n\n - S4D04!.WPD",
+      "from_email": "gilbergd@sullcrom.com",
+      "from_name": "",
+      "to_emails": [
+        "mark.taylor@enron.com"
+      ],
+      "subject": "Memo",
+      "_from_title_info": {},
+      "_to_title_infos": [
+        {
+          "canonical_name": "Taylor, Mark",
+          "title": "Vice President & General Counsel",
+          "department": "Enron North America (Legal)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-12-14T15:52:29.346711",
+  "completed_at": "2025-12-14T16:08:21.352850"
+}

@@ -1,0 +1,3068 @@
+{
+  "batch_id": "msgbatch_01Y3ND4bsntuvuYxwM6GmCTk",
+  "dataset": "claude_thinking",
+  "status": "submitted",
+  "entries_metadata": [
+    {
+      "sanitized_id": "think_0_claude-think_L1-P1_0",
+      "original_id": "claude-think_L1-P1_0",
+      "type": "thinking",
+      "thinking_length": 1947,
+      "output_length": 960
+    },
+    {
+      "sanitized_id": "think_1_claude-think_L1-P1_1",
+      "original_id": "claude-think_L1-P1_1",
+      "type": "thinking",
+      "thinking_length": 1843,
+      "output_length": 658
+    },
+    {
+      "sanitized_id": "think_2_claude-think_L1-P1_2",
+      "original_id": "claude-think_L1-P1_2",
+      "type": "thinking",
+      "thinking_length": 1989,
+      "output_length": 1020
+    },
+    {
+      "sanitized_id": "think_3_claude-think_L1-P1_3",
+      "original_id": "claude-think_L1-P1_3",
+      "type": "thinking",
+      "thinking_length": 2169,
+      "output_length": 851
+    },
+    {
+      "sanitized_id": "think_4_claude-think_L1-P1_4",
+      "original_id": "claude-think_L1-P1_4",
+      "type": "thinking",
+      "thinking_length": 2120,
+      "output_length": 1023
+    },
+    {
+      "sanitized_id": "think_5_claude-think_L1-P2_0",
+      "original_id": "claude-think_L1-P2_0",
+      "type": "thinking",
+      "thinking_length": 1939,
+      "output_length": 886
+    },
+    {
+      "sanitized_id": "think_6_claude-think_L1-P2_1",
+      "original_id": "claude-think_L1-P2_1",
+      "type": "thinking",
+      "thinking_length": 2131,
+      "output_length": 749
+    },
+    {
+      "sanitized_id": "think_7_claude-think_L1-P2_2",
+      "original_id": "claude-think_L1-P2_2",
+      "type": "thinking",
+      "thinking_length": 2039,
+      "output_length": 926
+    },
+    {
+      "sanitized_id": "think_8_claude-think_L1-P2_3",
+      "original_id": "claude-think_L1-P2_3",
+      "type": "thinking",
+      "thinking_length": 2150,
+      "output_length": 790
+    },
+    {
+      "sanitized_id": "think_9_claude-think_L1-P2_4",
+      "original_id": "claude-think_L1-P2_4",
+      "type": "thinking",
+      "thinking_length": 2153,
+      "output_length": 742
+    },
+    {
+      "sanitized_id": "think_10_claude-think_L2-P1_0",
+      "original_id": "claude-think_L2-P1_0",
+      "type": "thinking",
+      "thinking_length": 2245,
+      "output_length": 922
+    },
+    {
+      "sanitized_id": "think_11_claude-think_L2-P1_1",
+      "original_id": "claude-think_L2-P1_1",
+      "type": "thinking",
+      "thinking_length": 2306,
+      "output_length": 867
+    },
+    {
+      "sanitized_id": "think_12_claude-think_L2-P1_2",
+      "original_id": "claude-think_L2-P1_2",
+      "type": "thinking",
+      "thinking_length": 3069,
+      "output_length": 831
+    },
+    {
+      "sanitized_id": "think_13_claude-think_L2-P1_3",
+      "original_id": "claude-think_L2-P1_3",
+      "type": "thinking",
+      "thinking_length": 2054,
+      "output_length": 662
+    },
+    {
+      "sanitized_id": "think_14_claude-think_L2-P1_4",
+      "original_id": "claude-think_L2-P1_4",
+      "type": "thinking",
+      "thinking_length": 2264,
+      "output_length": 1093
+    },
+    {
+      "sanitized_id": "think_15_claude-think_L2-P2_0",
+      "original_id": "claude-think_L2-P2_0",
+      "type": "thinking",
+      "thinking_length": 2120,
+      "output_length": 508
+    },
+    {
+      "sanitized_id": "think_16_claude-think_L2-P2_1",
+      "original_id": "claude-think_L2-P2_1",
+      "type": "thinking",
+      "thinking_length": 1912,
+      "output_length": 651
+    },
+    {
+      "sanitized_id": "think_17_claude-think_L2-P2_2",
+      "original_id": "claude-think_L2-P2_2",
+      "type": "thinking",
+      "thinking_length": 2268,
+      "output_length": 738
+    },
+    {
+      "sanitized_id": "think_18_claude-think_L2-P2_3",
+      "original_id": "claude-think_L2-P2_3",
+      "type": "thinking",
+      "thinking_length": 2044,
+      "output_length": 498
+    },
+    {
+      "sanitized_id": "think_19_claude-think_L2-P2_4",
+      "original_id": "claude-think_L2-P2_4",
+      "type": "thinking",
+      "thinking_length": 2225,
+      "output_length": 1003
+    },
+    {
+      "sanitized_id": "think_20_claude-think_L3-P1_0",
+      "original_id": "claude-think_L3-P1_0",
+      "type": "thinking",
+      "thinking_length": 1753,
+      "output_length": 699
+    },
+    {
+      "sanitized_id": "think_21_claude-think_L3-P1_1",
+      "original_id": "claude-think_L3-P1_1",
+      "type": "thinking",
+      "thinking_length": 2006,
+      "output_length": 818
+    },
+    {
+      "sanitized_id": "think_22_claude-think_L3-P1_2",
+      "original_id": "claude-think_L3-P1_2",
+      "type": "thinking",
+      "thinking_length": 2112,
+      "output_length": 767
+    },
+    {
+      "sanitized_id": "think_23_claude-think_L3-P1_3",
+      "original_id": "claude-think_L3-P1_3",
+      "type": "thinking",
+      "thinking_length": 1874,
+      "output_length": 963
+    },
+    {
+      "sanitized_id": "think_24_claude-think_L3-P1_4",
+      "original_id": "claude-think_L3-P1_4",
+      "type": "thinking",
+      "thinking_length": 2149,
+      "output_length": 734
+    },
+    {
+      "sanitized_id": "think_25_claude-think_L3-P2_0",
+      "original_id": "claude-think_L3-P2_0",
+      "type": "thinking",
+      "thinking_length": 2029,
+      "output_length": 807
+    },
+    {
+      "sanitized_id": "think_26_claude-think_L3-P2_1",
+      "original_id": "claude-think_L3-P2_1",
+      "type": "thinking",
+      "thinking_length": 1799,
+      "output_length": 947
+    },
+    {
+      "sanitized_id": "think_27_claude-think_L3-P2_2",
+      "original_id": "claude-think_L3-P2_2",
+      "type": "thinking",
+      "thinking_length": 2077,
+      "output_length": 754
+    },
+    {
+      "sanitized_id": "think_28_claude-think_L3-P2_3",
+      "original_id": "claude-think_L3-P2_3",
+      "type": "thinking",
+      "thinking_length": 2197,
+      "output_length": 758
+    },
+    {
+      "sanitized_id": "think_29_claude-think_L3-P2_4",
+      "original_id": "claude-think_L3-P2_4",
+      "type": "thinking",
+      "thinking_length": 2039,
+      "output_length": 748
+    },
+    {
+      "sanitized_id": "think_30_claude-think_DECEP-P1_0",
+      "original_id": "claude-think_DECEP-P1_0",
+      "type": "thinking",
+      "thinking_length": 2129,
+      "output_length": 590
+    },
+    {
+      "sanitized_id": "think_31_claude-think_DECEP-P1_1",
+      "original_id": "claude-think_DECEP-P1_1",
+      "type": "thinking",
+      "thinking_length": 1925,
+      "output_length": 1017
+    },
+    {
+      "sanitized_id": "think_32_claude-think_DECEP-P1_2",
+      "original_id": "claude-think_DECEP-P1_2",
+      "type": "thinking",
+      "thinking_length": 1987,
+      "output_length": 790
+    },
+    {
+      "sanitized_id": "think_33_claude-think_DECEP-P1_3",
+      "original_id": "claude-think_DECEP-P1_3",
+      "type": "thinking",
+      "thinking_length": 2205,
+      "output_length": 965
+    },
+    {
+      "sanitized_id": "think_34_claude-think_DECEP-P1_4",
+      "original_id": "claude-think_DECEP-P1_4",
+      "type": "thinking",
+      "thinking_length": 2054,
+      "output_length": 810
+    },
+    {
+      "sanitized_id": "think_35_claude-think_DECEP-P2_0",
+      "original_id": "claude-think_DECEP-P2_0",
+      "type": "thinking",
+      "thinking_length": 2144,
+      "output_length": 768
+    },
+    {
+      "sanitized_id": "think_36_claude-think_DECEP-P2_1",
+      "original_id": "claude-think_DECEP-P2_1",
+      "type": "thinking",
+      "thinking_length": 1769,
+      "output_length": 708
+    },
+    {
+      "sanitized_id": "think_37_claude-think_DECEP-P2_2",
+      "original_id": "claude-think_DECEP-P2_2",
+      "type": "thinking",
+      "thinking_length": 1869,
+      "output_length": 847
+    },
+    {
+      "sanitized_id": "think_38_claude-think_DECEP-P2_3",
+      "original_id": "claude-think_DECEP-P2_3",
+      "type": "thinking",
+      "thinking_length": 2255,
+      "output_length": 926
+    },
+    {
+      "sanitized_id": "think_39_claude-think_DECEP-P2_4",
+      "original_id": "claude-think_DECEP-P2_4",
+      "type": "thinking",
+      "thinking_length": 2051,
+      "output_length": 690
+    },
+    {
+      "sanitized_id": "think_40_claude-think_FRAME-P1_0",
+      "original_id": "claude-think_FRAME-P1_0",
+      "type": "thinking",
+      "thinking_length": 2363,
+      "output_length": 932
+    },
+    {
+      "sanitized_id": "think_41_claude-think_FRAME-P1_1",
+      "original_id": "claude-think_FRAME-P1_1",
+      "type": "thinking",
+      "thinking_length": 2133,
+      "output_length": 638
+    },
+    {
+      "sanitized_id": "think_42_claude-think_FRAME-P1_2",
+      "original_id": "claude-think_FRAME-P1_2",
+      "type": "thinking",
+      "thinking_length": 2026,
+      "output_length": 754
+    },
+    {
+      "sanitized_id": "think_43_claude-think_FRAME-P1_3",
+      "original_id": "claude-think_FRAME-P1_3",
+      "type": "thinking",
+      "thinking_length": 1918,
+      "output_length": 688
+    },
+    {
+      "sanitized_id": "think_44_claude-think_FRAME-P1_4",
+      "original_id": "claude-think_FRAME-P1_4",
+      "type": "thinking",
+      "thinking_length": 2083,
+      "output_length": 726
+    },
+    {
+      "sanitized_id": "think_45_claude-think_FRAME-P2_0",
+      "original_id": "claude-think_FRAME-P2_0",
+      "type": "thinking",
+      "thinking_length": 2269,
+      "output_length": 844
+    },
+    {
+      "sanitized_id": "think_46_claude-think_FRAME-P2_1",
+      "original_id": "claude-think_FRAME-P2_1",
+      "type": "thinking",
+      "thinking_length": 2229,
+      "output_length": 754
+    },
+    {
+      "sanitized_id": "think_47_claude-think_FRAME-P2_2",
+      "original_id": "claude-think_FRAME-P2_2",
+      "type": "thinking",
+      "thinking_length": 1967,
+      "output_length": 545
+    },
+    {
+      "sanitized_id": "think_48_claude-think_FRAME-P2_3",
+      "original_id": "claude-think_FRAME-P2_3",
+      "type": "thinking",
+      "thinking_length": 2277,
+      "output_length": 561
+    },
+    {
+      "sanitized_id": "think_49_claude-think_FRAME-P2_4",
+      "original_id": "claude-think_FRAME-P2_4",
+      "type": "thinking",
+      "thinking_length": 2506,
+      "output_length": 500
+    },
+    {
+      "sanitized_id": "think_50_claude-think_L1-P1_0",
+      "original_id": "claude-think_L1-P1_0",
+      "type": "thinking",
+      "thinking_length": 2867,
+      "output_length": 934
+    },
+    {
+      "sanitized_id": "think_51_claude-think_L1-P2_0",
+      "original_id": "claude-think_L1-P2_0",
+      "type": "thinking",
+      "thinking_length": 1989,
+      "output_length": 926
+    },
+    {
+      "sanitized_id": "think_52_claude-think_L1-P2_1",
+      "original_id": "claude-think_L1-P2_1",
+      "type": "thinking",
+      "thinking_length": 2295,
+      "output_length": 1011
+    },
+    {
+      "sanitized_id": "think_53_claude-think_L1-P2_2",
+      "original_id": "claude-think_L1-P2_2",
+      "type": "thinking",
+      "thinking_length": 2055,
+      "output_length": 958
+    },
+    {
+      "sanitized_id": "think_54_claude-think_L1-P2_3",
+      "original_id": "claude-think_L1-P2_3",
+      "type": "thinking",
+      "thinking_length": 2348,
+      "output_length": 1076
+    },
+    {
+      "sanitized_id": "think_55_claude-think_L1-P2_4",
+      "original_id": "claude-think_L1-P2_4",
+      "type": "thinking",
+      "thinking_length": 1980,
+      "output_length": 1117
+    },
+    {
+      "sanitized_id": "think_56_claude-think_L2-P1_1",
+      "original_id": "claude-think_L2-P1_1",
+      "type": "thinking",
+      "thinking_length": 2678,
+      "output_length": 1126
+    },
+    {
+      "sanitized_id": "think_57_claude-think_L2-P1_2",
+      "original_id": "claude-think_L2-P1_2",
+      "type": "thinking",
+      "thinking_length": 3026,
+      "output_length": 1169
+    },
+    {
+      "sanitized_id": "think_58_claude-think_L2-P1_4",
+      "original_id": "claude-think_L2-P1_4",
+      "type": "thinking",
+      "thinking_length": 2057,
+      "output_length": 1128
+    },
+    {
+      "sanitized_id": "think_59_claude-think_L2-P2_0",
+      "original_id": "claude-think_L2-P2_0",
+      "type": "thinking",
+      "thinking_length": 2122,
+      "output_length": 942
+    },
+    {
+      "sanitized_id": "think_60_claude-think_L2-P2_2",
+      "original_id": "claude-think_L2-P2_2",
+      "type": "thinking",
+      "thinking_length": 3056,
+      "output_length": 930
+    },
+    {
+      "sanitized_id": "think_61_claude-think_L2-P2_3",
+      "original_id": "claude-think_L2-P2_3",
+      "type": "thinking",
+      "thinking_length": 1980,
+      "output_length": 969
+    },
+    {
+      "sanitized_id": "think_62_claude-think_L2-P2_4",
+      "original_id": "claude-think_L2-P2_4",
+      "type": "thinking",
+      "thinking_length": 2078,
+      "output_length": 994
+    },
+    {
+      "sanitized_id": "think_63_claude-think_L3-P1_0",
+      "original_id": "claude-think_L3-P1_0",
+      "type": "thinking",
+      "thinking_length": 2365,
+      "output_length": 974
+    },
+    {
+      "sanitized_id": "think_64_claude-think_L3-P1_1",
+      "original_id": "claude-think_L3-P1_1",
+      "type": "thinking",
+      "thinking_length": 2061,
+      "output_length": 952
+    },
+    {
+      "sanitized_id": "think_65_claude-think_L3-P1_2",
+      "original_id": "claude-think_L3-P1_2",
+      "type": "thinking",
+      "thinking_length": 2664,
+      "output_length": 967
+    },
+    {
+      "sanitized_id": "think_66_claude-think_L3-P1_3",
+      "original_id": "claude-think_L3-P1_3",
+      "type": "thinking",
+      "thinking_length": 2319,
+      "output_length": 1097
+    },
+    {
+      "sanitized_id": "think_67_claude-think_L3-P1_4",
+      "original_id": "claude-think_L3-P1_4",
+      "type": "thinking",
+      "thinking_length": 2398,
+      "output_length": 990
+    },
+    {
+      "sanitized_id": "think_68_claude-think_L3-P2_0",
+      "original_id": "claude-think_L3-P2_0",
+      "type": "thinking",
+      "thinking_length": 2245,
+      "output_length": 888
+    },
+    {
+      "sanitized_id": "think_69_claude-think_L3-P2_1",
+      "original_id": "claude-think_L3-P2_1",
+      "type": "thinking",
+      "thinking_length": 1967,
+      "output_length": 1010
+    },
+    {
+      "sanitized_id": "think_70_claude-think_L3-P2_2",
+      "original_id": "claude-think_L3-P2_2",
+      "type": "thinking",
+      "thinking_length": 2236,
+      "output_length": 1175
+    },
+    {
+      "sanitized_id": "think_71_claude-think_L3-P2_3",
+      "original_id": "claude-think_L3-P2_3",
+      "type": "thinking",
+      "thinking_length": 2132,
+      "output_length": 996
+    },
+    {
+      "sanitized_id": "think_72_claude-think_L3-P2_4",
+      "original_id": "claude-think_L3-P2_4",
+      "type": "thinking",
+      "thinking_length": 2175,
+      "output_length": 936
+    },
+    {
+      "sanitized_id": "think_73_claude-think_DECEP-P1_0",
+      "original_id": "claude-think_DECEP-P1_0",
+      "type": "thinking",
+      "thinking_length": 2106,
+      "output_length": 1130
+    },
+    {
+      "sanitized_id": "think_74_claude-think_DECEP-P1_1",
+      "original_id": "claude-think_DECEP-P1_1",
+      "type": "thinking",
+      "thinking_length": 2302,
+      "output_length": 1013
+    },
+    {
+      "sanitized_id": "think_75_claude-think_DECEP-P1_2",
+      "original_id": "claude-think_DECEP-P1_2",
+      "type": "thinking",
+      "thinking_length": 2330,
+      "output_length": 973
+    },
+    {
+      "sanitized_id": "think_76_claude-think_DECEP-P1_4",
+      "original_id": "claude-think_DECEP-P1_4",
+      "type": "thinking",
+      "thinking_length": 2441,
+      "output_length": 1057
+    },
+    {
+      "sanitized_id": "think_77_claude-think_DECEP-P2_0",
+      "original_id": "claude-think_DECEP-P2_0",
+      "type": "thinking",
+      "thinking_length": 2093,
+      "output_length": 1003
+    },
+    {
+      "sanitized_id": "think_78_claude-think_DECEP-P2_1",
+      "original_id": "claude-think_DECEP-P2_1",
+      "type": "thinking",
+      "thinking_length": 2163,
+      "output_length": 902
+    },
+    {
+      "sanitized_id": "think_79_claude-think_DECEP-P2_3",
+      "original_id": "claude-think_DECEP-P2_3",
+      "type": "thinking",
+      "thinking_length": 2188,
+      "output_length": 1079
+    },
+    {
+      "sanitized_id": "think_80_claude-think_DECEP-P2_4",
+      "original_id": "claude-think_DECEP-P2_4",
+      "type": "thinking",
+      "thinking_length": 2297,
+      "output_length": 972
+    },
+    {
+      "sanitized_id": "think_81_claude-think_FRAME-P1_2",
+      "original_id": "claude-think_FRAME-P1_2",
+      "type": "thinking",
+      "thinking_length": 2099,
+      "output_length": 997
+    },
+    {
+      "sanitized_id": "think_82_claude-think_FRAME-P1_3",
+      "original_id": "claude-think_FRAME-P1_3",
+      "type": "thinking",
+      "thinking_length": 2307,
+      "output_length": 870
+    },
+    {
+      "sanitized_id": "think_83_claude-think_FRAME-P1_4",
+      "original_id": "claude-think_FRAME-P1_4",
+      "type": "thinking",
+      "thinking_length": 2459,
+      "output_length": 1040
+    },
+    {
+      "sanitized_id": "think_84_claude-think_FRAME-P2_0",
+      "original_id": "claude-think_FRAME-P2_0",
+      "type": "thinking",
+      "thinking_length": 2260,
+      "output_length": 922
+    },
+    {
+      "sanitized_id": "think_85_claude-think_FRAME-P2_2",
+      "original_id": "claude-think_FRAME-P2_2",
+      "type": "thinking",
+      "thinking_length": 2234,
+      "output_length": 754
+    },
+    {
+      "sanitized_id": "think_86_claude-think_FRAME-P2_4",
+      "original_id": "claude-think_FRAME-P2_4",
+      "type": "thinking",
+      "thinking_length": 2483,
+      "output_length": 894
+    },
+    {
+      "sanitized_id": "think_87_claude-think_L1-P1_0",
+      "original_id": "claude-think_L1-P1_0",
+      "type": "thinking",
+      "thinking_length": 2378,
+      "output_length": 971
+    },
+    {
+      "sanitized_id": "think_88_claude-think_L1-P2_0",
+      "original_id": "claude-think_L1-P2_0",
+      "type": "thinking",
+      "thinking_length": 2093,
+      "output_length": 856
+    },
+    {
+      "sanitized_id": "think_89_claude-think_L1-P2_2",
+      "original_id": "claude-think_L1-P2_2",
+      "type": "thinking",
+      "thinking_length": 1869,
+      "output_length": 993
+    },
+    {
+      "sanitized_id": "think_90_claude-think_L1-P2_3",
+      "original_id": "claude-think_L1-P2_3",
+      "type": "thinking",
+      "thinking_length": 2236,
+      "output_length": 819
+    },
+    {
+      "sanitized_id": "think_91_claude-think_L2-P1_1",
+      "original_id": "claude-think_L2-P1_1",
+      "type": "thinking",
+      "thinking_length": 2440,
+      "output_length": 769
+    },
+    {
+      "sanitized_id": "think_92_claude-think_L2-P1_2",
+      "original_id": "claude-think_L2-P1_2",
+      "type": "thinking",
+      "thinking_length": 2044,
+      "output_length": 856
+    },
+    {
+      "sanitized_id": "think_93_claude-think_L2-P1_4",
+      "original_id": "claude-think_L2-P1_4",
+      "type": "thinking",
+      "thinking_length": 2278,
+      "output_length": 1041
+    },
+    {
+      "sanitized_id": "think_94_claude-think_L2-P2_2",
+      "original_id": "claude-think_L2-P2_2",
+      "type": "thinking",
+      "thinking_length": 1852,
+      "output_length": 861
+    },
+    {
+      "sanitized_id": "think_95_claude-think_L2-P2_3",
+      "original_id": "claude-think_L2-P2_3",
+      "type": "thinking",
+      "thinking_length": 2182,
+      "output_length": 848
+    },
+    {
+      "sanitized_id": "think_96_claude-think_L2-P2_4",
+      "original_id": "claude-think_L2-P2_4",
+      "type": "thinking",
+      "thinking_length": 1859,
+      "output_length": 1126
+    },
+    {
+      "sanitized_id": "think_97_claude-think_L3-P1_0",
+      "original_id": "claude-think_L3-P1_0",
+      "type": "thinking",
+      "thinking_length": 2442,
+      "output_length": 849
+    },
+    {
+      "sanitized_id": "think_98_claude-think_L3-P1_1",
+      "original_id": "claude-think_L3-P1_1",
+      "type": "thinking",
+      "thinking_length": 1802,
+      "output_length": 1116
+    },
+    {
+      "sanitized_id": "think_99_claude-think_L3-P1_2",
+      "original_id": "claude-think_L3-P1_2",
+      "type": "thinking",
+      "thinking_length": 2175,
+      "output_length": 1015
+    },
+    {
+      "sanitized_id": "think_100_claude-think_L3-P1_3",
+      "original_id": "claude-think_L3-P1_3",
+      "type": "thinking",
+      "thinking_length": 2563,
+      "output_length": 1260
+    },
+    {
+      "sanitized_id": "think_101_claude-think_L3-P2_0",
+      "original_id": "claude-think_L3-P2_0",
+      "type": "thinking",
+      "thinking_length": 2485,
+      "output_length": 1029
+    },
+    {
+      "sanitized_id": "think_102_claude-think_L3-P2_1",
+      "original_id": "claude-think_L3-P2_1",
+      "type": "thinking",
+      "thinking_length": 2094,
+      "output_length": 1178
+    },
+    {
+      "sanitized_id": "think_103_claude-think_L3-P2_3",
+      "original_id": "claude-think_L3-P2_3",
+      "type": "thinking",
+      "thinking_length": 2146,
+      "output_length": 1115
+    },
+    {
+      "sanitized_id": "think_104_claude-think_L3-P2_4",
+      "original_id": "claude-think_L3-P2_4",
+      "type": "thinking",
+      "thinking_length": 1826,
+      "output_length": 1049
+    },
+    {
+      "sanitized_id": "think_105_claude-think_DECEP-P1_1",
+      "original_id": "claude-think_DECEP-P1_1",
+      "type": "thinking",
+      "thinking_length": 2423,
+      "output_length": 1088
+    },
+    {
+      "sanitized_id": "think_106_claude-think_DECEP-P1_2",
+      "original_id": "claude-think_DECEP-P1_2",
+      "type": "thinking",
+      "thinking_length": 1968,
+      "output_length": 971
+    },
+    {
+      "sanitized_id": "think_107_claude-think_DECEP-P2_0",
+      "original_id": "claude-think_DECEP-P2_0",
+      "type": "thinking",
+      "thinking_length": 2160,
+      "output_length": 1102
+    },
+    {
+      "sanitized_id": "think_108_claude-think_FRAME-P1_2",
+      "original_id": "claude-think_FRAME-P1_2",
+      "type": "thinking",
+      "thinking_length": 2615,
+      "output_length": 938
+    },
+    {
+      "sanitized_id": "think_109_claude-think_FRAME-P1_4",
+      "original_id": "claude-think_FRAME-P1_4",
+      "type": "thinking",
+      "thinking_length": 1968,
+      "output_length": 944
+    },
+    {
+      "sanitized_id": "think_110_claude-think_FRAME-P2_4",
+      "original_id": "claude-think_FRAME-P2_4",
+      "type": "thinking",
+      "thinking_length": 1921,
+      "output_length": 991
+    },
+    {
+      "sanitized_id": "think_111_claude-think_L1-P1_0",
+      "original_id": "claude-think_L1-P1_0",
+      "type": "thinking",
+      "thinking_length": 2026,
+      "output_length": 1011
+    },
+    {
+      "sanitized_id": "think_112_claude-think_L1-P1_1",
+      "original_id": "claude-think_L1-P1_1",
+      "type": "thinking",
+      "thinking_length": 1613,
+      "output_length": 929
+    },
+    {
+      "sanitized_id": "think_113_claude-think_L1-P1_2",
+      "original_id": "claude-think_L1-P1_2",
+      "type": "thinking",
+      "thinking_length": 2115,
+      "output_length": 1070
+    },
+    {
+      "sanitized_id": "think_114_claude-think_L1-P1_3",
+      "original_id": "claude-think_L1-P1_3",
+      "type": "thinking",
+      "thinking_length": 1823,
+      "output_length": 1009
+    },
+    {
+      "sanitized_id": "think_115_claude-think_L1-P1_4",
+      "original_id": "claude-think_L1-P1_4",
+      "type": "thinking",
+      "thinking_length": 1895,
+      "output_length": 1176
+    },
+    {
+      "sanitized_id": "think_116_claude-think_L1-P2_0",
+      "original_id": "claude-think_L1-P2_0",
+      "type": "thinking",
+      "thinking_length": 2101,
+      "output_length": 1138
+    },
+    {
+      "sanitized_id": "think_117_claude-think_L1-P2_1",
+      "original_id": "claude-think_L1-P2_1",
+      "type": "thinking",
+      "thinking_length": 2146,
+      "output_length": 802
+    },
+    {
+      "sanitized_id": "think_118_claude-think_L1-P2_2",
+      "original_id": "claude-think_L1-P2_2",
+      "type": "thinking",
+      "thinking_length": 1857,
+      "output_length": 944
+    },
+    {
+      "sanitized_id": "think_119_claude-think_L1-P2_3",
+      "original_id": "claude-think_L1-P2_3",
+      "type": "thinking",
+      "thinking_length": 2404,
+      "output_length": 941
+    },
+    {
+      "sanitized_id": "think_120_claude-think_L1-P2_4",
+      "original_id": "claude-think_L1-P2_4",
+      "type": "thinking",
+      "thinking_length": 2062,
+      "output_length": 865
+    },
+    {
+      "sanitized_id": "think_121_claude-think_L2-P1_0",
+      "original_id": "claude-think_L2-P1_0",
+      "type": "thinking",
+      "thinking_length": 2501,
+      "output_length": 1083
+    },
+    {
+      "sanitized_id": "think_122_claude-think_L2-P1_1",
+      "original_id": "claude-think_L2-P1_1",
+      "type": "thinking",
+      "thinking_length": 2007,
+      "output_length": 1079
+    },
+    {
+      "sanitized_id": "think_123_claude-think_L2-P1_2",
+      "original_id": "claude-think_L2-P1_2",
+      "type": "thinking",
+      "thinking_length": 2573,
+      "output_length": 1260
+    },
+    {
+      "sanitized_id": "think_124_claude-think_L2-P1_3",
+      "original_id": "claude-think_L2-P1_3",
+      "type": "thinking",
+      "thinking_length": 1974,
+      "output_length": 911
+    },
+    {
+      "sanitized_id": "think_125_claude-think_L2-P1_4",
+      "original_id": "claude-think_L2-P1_4",
+      "type": "thinking",
+      "thinking_length": 2048,
+      "output_length": 1196
+    },
+    {
+      "sanitized_id": "think_126_claude-think_L2-P2_0",
+      "original_id": "claude-think_L2-P2_0",
+      "type": "thinking",
+      "thinking_length": 2089,
+      "output_length": 824
+    },
+    {
+      "sanitized_id": "think_127_claude-think_L2-P2_1",
+      "original_id": "claude-think_L2-P2_1",
+      "type": "thinking",
+      "thinking_length": 1846,
+      "output_length": 1021
+    },
+    {
+      "sanitized_id": "think_128_claude-think_L2-P2_2",
+      "original_id": "claude-think_L2-P2_2",
+      "type": "thinking",
+      "thinking_length": 1857,
+      "output_length": 950
+    },
+    {
+      "sanitized_id": "think_129_claude-think_L2-P2_3",
+      "original_id": "claude-think_L2-P2_3",
+      "type": "thinking",
+      "thinking_length": 1935,
+      "output_length": 687
+    },
+    {
+      "sanitized_id": "think_130_claude-think_L2-P2_4",
+      "original_id": "claude-think_L2-P2_4",
+      "type": "thinking",
+      "thinking_length": 2191,
+      "output_length": 1064
+    },
+    {
+      "sanitized_id": "think_131_claude-think_L3-P1_0",
+      "original_id": "claude-think_L3-P1_0",
+      "type": "thinking",
+      "thinking_length": 1950,
+      "output_length": 900
+    },
+    {
+      "sanitized_id": "think_132_claude-think_L3-P1_1",
+      "original_id": "claude-think_L3-P1_1",
+      "type": "thinking",
+      "thinking_length": 1834,
+      "output_length": 945
+    },
+    {
+      "sanitized_id": "think_133_claude-think_L3-P1_2",
+      "original_id": "claude-think_L3-P1_2",
+      "type": "thinking",
+      "thinking_length": 2295,
+      "output_length": 744
+    },
+    {
+      "sanitized_id": "think_134_claude-think_L3-P1_3",
+      "original_id": "claude-think_L3-P1_3",
+      "type": "thinking",
+      "thinking_length": 2103,
+      "output_length": 1207
+    },
+    {
+      "sanitized_id": "think_135_claude-think_L3-P1_4",
+      "original_id": "claude-think_L3-P1_4",
+      "type": "thinking",
+      "thinking_length": 1861,
+      "output_length": 882
+    },
+    {
+      "sanitized_id": "think_136_claude-think_L3-P2_0",
+      "original_id": "claude-think_L3-P2_0",
+      "type": "thinking",
+      "thinking_length": 2016,
+      "output_length": 752
+    },
+    {
+      "sanitized_id": "think_137_claude-think_L3-P2_1",
+      "original_id": "claude-think_L3-P2_1",
+      "type": "thinking",
+      "thinking_length": 2302,
+      "output_length": 1035
+    },
+    {
+      "sanitized_id": "think_138_claude-think_L3-P2_2",
+      "original_id": "claude-think_L3-P2_2",
+      "type": "thinking",
+      "thinking_length": 2203,
+      "output_length": 967
+    },
+    {
+      "sanitized_id": "think_139_claude-think_L3-P2_3",
+      "original_id": "claude-think_L3-P2_3",
+      "type": "thinking",
+      "thinking_length": 2140,
+      "output_length": 904
+    },
+    {
+      "sanitized_id": "think_140_claude-think_L3-P2_4",
+      "original_id": "claude-think_L3-P2_4",
+      "type": "thinking",
+      "thinking_length": 2103,
+      "output_length": 1038
+    },
+    {
+      "sanitized_id": "think_141_claude-think_DECEP-P1_0",
+      "original_id": "claude-think_DECEP-P1_0",
+      "type": "thinking",
+      "thinking_length": 2094,
+      "output_length": 853
+    },
+    {
+      "sanitized_id": "think_142_claude-think_DECEP-P1_1",
+      "original_id": "claude-think_DECEP-P1_1",
+      "type": "thinking",
+      "thinking_length": 2592,
+      "output_length": 1043
+    },
+    {
+      "sanitized_id": "think_143_claude-think_DECEP-P1_2",
+      "original_id": "claude-think_DECEP-P1_2",
+      "type": "thinking",
+      "thinking_length": 2148,
+      "output_length": 934
+    },
+    {
+      "sanitized_id": "think_144_claude-think_DECEP-P1_3",
+      "original_id": "claude-think_DECEP-P1_3",
+      "type": "thinking",
+      "thinking_length": 2150,
+      "output_length": 939
+    },
+    {
+      "sanitized_id": "think_145_claude-think_DECEP-P1_4",
+      "original_id": "claude-think_DECEP-P1_4",
+      "type": "thinking",
+      "thinking_length": 1871,
+      "output_length": 1071
+    },
+    {
+      "sanitized_id": "think_146_claude-think_DECEP-P2_0",
+      "original_id": "claude-think_DECEP-P2_0",
+      "type": "thinking",
+      "thinking_length": 2389,
+      "output_length": 1122
+    },
+    {
+      "sanitized_id": "think_147_claude-think_DECEP-P2_1",
+      "original_id": "claude-think_DECEP-P2_1",
+      "type": "thinking",
+      "thinking_length": 2120,
+      "output_length": 812
+    },
+    {
+      "sanitized_id": "think_148_claude-think_DECEP-P2_2",
+      "original_id": "claude-think_DECEP-P2_2",
+      "type": "thinking",
+      "thinking_length": 1946,
+      "output_length": 1065
+    },
+    {
+      "sanitized_id": "think_149_claude-think_DECEP-P2_3",
+      "original_id": "claude-think_DECEP-P2_3",
+      "type": "thinking",
+      "thinking_length": 2308,
+      "output_length": 1065
+    },
+    {
+      "sanitized_id": "think_150_claude-think_DECEP-P2_4",
+      "original_id": "claude-think_DECEP-P2_4",
+      "type": "thinking",
+      "thinking_length": 2089,
+      "output_length": 889
+    },
+    {
+      "sanitized_id": "think_151_claude-think_FRAME-P1_0",
+      "original_id": "claude-think_FRAME-P1_0",
+      "type": "thinking",
+      "thinking_length": 2047,
+      "output_length": 927
+    },
+    {
+      "sanitized_id": "think_152_claude-think_FRAME-P1_1",
+      "original_id": "claude-think_FRAME-P1_1",
+      "type": "thinking",
+      "thinking_length": 1866,
+      "output_length": 1117
+    },
+    {
+      "sanitized_id": "think_153_claude-think_FRAME-P1_2",
+      "original_id": "claude-think_FRAME-P1_2",
+      "type": "thinking",
+      "thinking_length": 1991,
+      "output_length": 1044
+    },
+    {
+      "sanitized_id": "think_154_claude-think_FRAME-P1_3",
+      "original_id": "claude-think_FRAME-P1_3",
+      "type": "thinking",
+      "thinking_length": 2224,
+      "output_length": 968
+    },
+    {
+      "sanitized_id": "think_155_claude-think_FRAME-P1_4",
+      "original_id": "claude-think_FRAME-P1_4",
+      "type": "thinking",
+      "thinking_length": 2028,
+      "output_length": 1058
+    },
+    {
+      "sanitized_id": "think_156_claude-think_FRAME-P2_0",
+      "original_id": "claude-think_FRAME-P2_0",
+      "type": "thinking",
+      "thinking_length": 2036,
+      "output_length": 973
+    },
+    {
+      "sanitized_id": "think_157_claude-think_FRAME-P2_1",
+      "original_id": "claude-think_FRAME-P2_1",
+      "type": "thinking",
+      "thinking_length": 2034,
+      "output_length": 1005
+    },
+    {
+      "sanitized_id": "think_158_claude-think_FRAME-P2_2",
+      "original_id": "claude-think_FRAME-P2_2",
+      "type": "thinking",
+      "thinking_length": 2019,
+      "output_length": 659
+    },
+    {
+      "sanitized_id": "think_159_claude-think_FRAME-P2_3",
+      "original_id": "claude-think_FRAME-P2_3",
+      "type": "thinking",
+      "thinking_length": 1902,
+      "output_length": 591
+    },
+    {
+      "sanitized_id": "think_160_claude-think_FRAME-P2_4",
+      "original_id": "claude-think_FRAME-P2_4",
+      "type": "thinking",
+      "thinking_length": 1913,
+      "output_length": 491
+    },
+    {
+      "sanitized_id": "think_161_claude-think_L1-P1_0",
+      "original_id": "claude-think_L1-P1_0",
+      "type": "thinking",
+      "thinking_length": 2190,
+      "output_length": 955
+    },
+    {
+      "sanitized_id": "think_162_claude-think_L1-P1_1",
+      "original_id": "claude-think_L1-P1_1",
+      "type": "thinking",
+      "thinking_length": 2285,
+      "output_length": 1001
+    },
+    {
+      "sanitized_id": "think_163_claude-think_L1-P1_2",
+      "original_id": "claude-think_L1-P1_2",
+      "type": "thinking",
+      "thinking_length": 2139,
+      "output_length": 1062
+    },
+    {
+      "sanitized_id": "think_164_claude-think_L1-P1_3",
+      "original_id": "claude-think_L1-P1_3",
+      "type": "thinking",
+      "thinking_length": 2231,
+      "output_length": 967
+    },
+    {
+      "sanitized_id": "think_165_claude-think_L1-P1_4",
+      "original_id": "claude-think_L1-P1_4",
+      "type": "thinking",
+      "thinking_length": 1472,
+      "output_length": 1047
+    },
+    {
+      "sanitized_id": "think_166_claude-think_L1-P2_0",
+      "original_id": "claude-think_L1-P2_0",
+      "type": "thinking",
+      "thinking_length": 2114,
+      "output_length": 1084
+    },
+    {
+      "sanitized_id": "think_167_claude-think_L1-P2_1",
+      "original_id": "claude-think_L1-P2_1",
+      "type": "thinking",
+      "thinking_length": 2090,
+      "output_length": 934
+    },
+    {
+      "sanitized_id": "think_168_claude-think_L1-P2_2",
+      "original_id": "claude-think_L1-P2_2",
+      "type": "thinking",
+      "thinking_length": 2208,
+      "output_length": 954
+    },
+    {
+      "sanitized_id": "think_169_claude-think_L1-P2_3",
+      "original_id": "claude-think_L1-P2_3",
+      "type": "thinking",
+      "thinking_length": 2032,
+      "output_length": 1027
+    },
+    {
+      "sanitized_id": "think_170_claude-think_L1-P2_4",
+      "original_id": "claude-think_L1-P2_4",
+      "type": "thinking",
+      "thinking_length": 2518,
+      "output_length": 877
+    },
+    {
+      "sanitized_id": "think_171_claude-think_L2-P1_0",
+      "original_id": "claude-think_L2-P1_0",
+      "type": "thinking",
+      "thinking_length": 2188,
+      "output_length": 995
+    },
+    {
+      "sanitized_id": "think_172_claude-think_L2-P1_1",
+      "original_id": "claude-think_L2-P1_1",
+      "type": "thinking",
+      "thinking_length": 2033,
+      "output_length": 1063
+    },
+    {
+      "sanitized_id": "think_173_claude-think_L2-P1_2",
+      "original_id": "claude-think_L2-P1_2",
+      "type": "thinking",
+      "thinking_length": 2460,
+      "output_length": 1186
+    },
+    {
+      "sanitized_id": "think_174_claude-think_L2-P1_3",
+      "original_id": "claude-think_L2-P1_3",
+      "type": "thinking",
+      "thinking_length": 2331,
+      "output_length": 939
+    },
+    {
+      "sanitized_id": "think_175_claude-think_L2-P1_4",
+      "original_id": "claude-think_L2-P1_4",
+      "type": "thinking",
+      "thinking_length": 2065,
+      "output_length": 1005
+    },
+    {
+      "sanitized_id": "think_176_claude-think_L2-P2_0",
+      "original_id": "claude-think_L2-P2_0",
+      "type": "thinking",
+      "thinking_length": 2057,
+      "output_length": 879
+    },
+    {
+      "sanitized_id": "think_177_claude-think_L2-P2_1",
+      "original_id": "claude-think_L2-P2_1",
+      "type": "thinking",
+      "thinking_length": 2200,
+      "output_length": 1042
+    },
+    {
+      "sanitized_id": "think_178_claude-think_L2-P2_2",
+      "original_id": "claude-think_L2-P2_2",
+      "type": "thinking",
+      "thinking_length": 2243,
+      "output_length": 897
+    },
+    {
+      "sanitized_id": "think_179_claude-think_L2-P2_3",
+      "original_id": "claude-think_L2-P2_3",
+      "type": "thinking",
+      "thinking_length": 2397,
+      "output_length": 678
+    },
+    {
+      "sanitized_id": "think_180_claude-think_L2-P2_4",
+      "original_id": "claude-think_L2-P2_4",
+      "type": "thinking",
+      "thinking_length": 2165,
+      "output_length": 1147
+    },
+    {
+      "sanitized_id": "think_181_claude-think_L3-P1_0",
+      "original_id": "claude-think_L3-P1_0",
+      "type": "thinking",
+      "thinking_length": 2396,
+      "output_length": 952
+    },
+    {
+      "sanitized_id": "think_182_claude-think_L3-P1_1",
+      "original_id": "claude-think_L3-P1_1",
+      "type": "thinking",
+      "thinking_length": 1963,
+      "output_length": 944
+    },
+    {
+      "sanitized_id": "think_183_claude-think_L3-P1_2",
+      "original_id": "claude-think_L3-P1_2",
+      "type": "thinking",
+      "thinking_length": 2405,
+      "output_length": 873
+    },
+    {
+      "sanitized_id": "think_184_claude-think_L3-P1_3",
+      "original_id": "claude-think_L3-P1_3",
+      "type": "thinking",
+      "thinking_length": 1920,
+      "output_length": 1096
+    },
+    {
+      "sanitized_id": "think_185_claude-think_L3-P1_4",
+      "original_id": "claude-think_L3-P1_4",
+      "type": "thinking",
+      "thinking_length": 2253,
+      "output_length": 977
+    },
+    {
+      "sanitized_id": "think_186_claude-think_L3-P2_0",
+      "original_id": "claude-think_L3-P2_0",
+      "type": "thinking",
+      "thinking_length": 2091,
+      "output_length": 765
+    },
+    {
+      "sanitized_id": "think_187_claude-think_L3-P2_1",
+      "original_id": "claude-think_L3-P2_1",
+      "type": "thinking",
+      "thinking_length": 2186,
+      "output_length": 1000
+    },
+    {
+      "sanitized_id": "think_188_claude-think_L3-P2_2",
+      "original_id": "claude-think_L3-P2_2",
+      "type": "thinking",
+      "thinking_length": 2404,
+      "output_length": 906
+    },
+    {
+      "sanitized_id": "think_189_claude-think_L3-P2_3",
+      "original_id": "claude-think_L3-P2_3",
+      "type": "thinking",
+      "thinking_length": 2275,
+      "output_length": 881
+    },
+    {
+      "sanitized_id": "think_190_claude-think_L3-P2_4",
+      "original_id": "claude-think_L3-P2_4",
+      "type": "thinking",
+      "thinking_length": 2153,
+      "output_length": 967
+    },
+    {
+      "sanitized_id": "think_191_claude-think_DECEP-P1_0",
+      "original_id": "claude-think_DECEP-P1_0",
+      "type": "thinking",
+      "thinking_length": 2153,
+      "output_length": 1033
+    },
+    {
+      "sanitized_id": "think_192_claude-think_DECEP-P1_1",
+      "original_id": "claude-think_DECEP-P1_1",
+      "type": "thinking",
+      "thinking_length": 1874,
+      "output_length": 976
+    },
+    {
+      "sanitized_id": "think_193_claude-think_DECEP-P1_2",
+      "original_id": "claude-think_DECEP-P1_2",
+      "type": "thinking",
+      "thinking_length": 2235,
+      "output_length": 1007
+    },
+    {
+      "sanitized_id": "think_194_claude-think_DECEP-P1_3",
+      "original_id": "claude-think_DECEP-P1_3",
+      "type": "thinking",
+      "thinking_length": 2016,
+      "output_length": 1057
+    },
+    {
+      "sanitized_id": "think_195_claude-think_DECEP-P1_4",
+      "original_id": "claude-think_DECEP-P1_4",
+      "type": "thinking",
+      "thinking_length": 2389,
+      "output_length": 1125
+    },
+    {
+      "sanitized_id": "think_196_claude-think_DECEP-P2_0",
+      "original_id": "claude-think_DECEP-P2_0",
+      "type": "thinking",
+      "thinking_length": 2352,
+      "output_length": 1003
+    },
+    {
+      "sanitized_id": "think_197_claude-think_DECEP-P2_1",
+      "original_id": "claude-think_DECEP-P2_1",
+      "type": "thinking",
+      "thinking_length": 2746,
+      "output_length": 968
+    },
+    {
+      "sanitized_id": "think_198_claude-think_DECEP-P2_2",
+      "original_id": "claude-think_DECEP-P2_2",
+      "type": "thinking",
+      "thinking_length": 2287,
+      "output_length": 992
+    },
+    {
+      "sanitized_id": "think_199_claude-think_DECEP-P2_3",
+      "original_id": "claude-think_DECEP-P2_3",
+      "type": "thinking",
+      "thinking_length": 2396,
+      "output_length": 1067
+    },
+    {
+      "sanitized_id": "think_200_claude-think_DECEP-P2_4",
+      "original_id": "claude-think_DECEP-P2_4",
+      "type": "thinking",
+      "thinking_length": 2590,
+      "output_length": 862
+    },
+    {
+      "sanitized_id": "think_201_claude-think_FRAME-P1_0",
+      "original_id": "claude-think_FRAME-P1_0",
+      "type": "thinking",
+      "thinking_length": 2040,
+      "output_length": 945
+    },
+    {
+      "sanitized_id": "think_202_claude-think_FRAME-P1_1",
+      "original_id": "claude-think_FRAME-P1_1",
+      "type": "thinking",
+      "thinking_length": 1980,
+      "output_length": 1092
+    },
+    {
+      "sanitized_id": "think_203_claude-think_FRAME-P1_2",
+      "original_id": "claude-think_FRAME-P1_2",
+      "type": "thinking",
+      "thinking_length": 2454,
+      "output_length": 981
+    },
+    {
+      "sanitized_id": "think_204_claude-think_FRAME-P1_3",
+      "original_id": "claude-think_FRAME-P1_3",
+      "type": "thinking",
+      "thinking_length": 2107,
+      "output_length": 991
+    },
+    {
+      "sanitized_id": "think_205_claude-think_FRAME-P1_4",
+      "original_id": "claude-think_FRAME-P1_4",
+      "type": "thinking",
+      "thinking_length": 1871,
+      "output_length": 1085
+    },
+    {
+      "sanitized_id": "think_206_claude-think_FRAME-P2_0",
+      "original_id": "claude-think_FRAME-P2_0",
+      "type": "thinking",
+      "thinking_length": 2356,
+      "output_length": 1060
+    },
+    {
+      "sanitized_id": "think_207_claude-think_FRAME-P2_1",
+      "original_id": "claude-think_FRAME-P2_1",
+      "type": "thinking",
+      "thinking_length": 1975,
+      "output_length": 969
+    },
+    {
+      "sanitized_id": "think_208_claude-think_FRAME-P2_2",
+      "original_id": "claude-think_FRAME-P2_2",
+      "type": "thinking",
+      "thinking_length": 2219,
+      "output_length": 757
+    },
+    {
+      "sanitized_id": "think_209_claude-think_FRAME-P2_3",
+      "original_id": "claude-think_FRAME-P2_3",
+      "type": "thinking",
+      "thinking_length": 2233,
+      "output_length": 708
+    },
+    {
+      "sanitized_id": "think_210_claude-think_FRAME-P2_4",
+      "original_id": "claude-think_FRAME-P2_4",
+      "type": "thinking",
+      "thinking_length": 2196,
+      "output_length": 589
+    },
+    {
+      "sanitized_id": "think_211_claude-think_L1-P1_0",
+      "original_id": "claude-think_L1-P1_0",
+      "type": "thinking",
+      "thinking_length": 2577,
+      "output_length": 895
+    },
+    {
+      "sanitized_id": "think_212_claude-think_L1-P2_0",
+      "original_id": "claude-think_L1-P2_0",
+      "type": "thinking",
+      "thinking_length": 2278,
+      "output_length": 899
+    },
+    {
+      "sanitized_id": "think_213_claude-think_L1-P2_1",
+      "original_id": "claude-think_L1-P2_1",
+      "type": "thinking",
+      "thinking_length": 2307,
+      "output_length": 1045
+    },
+    {
+      "sanitized_id": "think_214_claude-think_L1-P2_2",
+      "original_id": "claude-think_L1-P2_2",
+      "type": "thinking",
+      "thinking_length": 2218,
+      "output_length": 977
+    },
+    {
+      "sanitized_id": "think_215_claude-think_L1-P2_3",
+      "original_id": "claude-think_L1-P2_3",
+      "type": "thinking",
+      "thinking_length": 1958,
+      "output_length": 980
+    },
+    {
+      "sanitized_id": "think_216_claude-think_L1-P2_4",
+      "original_id": "claude-think_L1-P2_4",
+      "type": "thinking",
+      "thinking_length": 2160,
+      "output_length": 968
+    },
+    {
+      "sanitized_id": "think_217_claude-think_L2-P1_0",
+      "original_id": "claude-think_L2-P1_0",
+      "type": "thinking",
+      "thinking_length": 2736,
+      "output_length": 728
+    },
+    {
+      "sanitized_id": "think_218_claude-think_L2-P1_1",
+      "original_id": "claude-think_L2-P1_1",
+      "type": "thinking",
+      "thinking_length": 2346,
+      "output_length": 1039
+    },
+    {
+      "sanitized_id": "think_219_claude-think_L2-P1_2",
+      "original_id": "claude-think_L2-P1_2",
+      "type": "thinking",
+      "thinking_length": 2391,
+      "output_length": 1068
+    },
+    {
+      "sanitized_id": "think_220_claude-think_L2-P1_4",
+      "original_id": "claude-think_L2-P1_4",
+      "type": "thinking",
+      "thinking_length": 2219,
+      "output_length": 1083
+    },
+    {
+      "sanitized_id": "think_221_claude-think_L2-P2_0",
+      "original_id": "claude-think_L2-P2_0",
+      "type": "thinking",
+      "thinking_length": 2097,
+      "output_length": 993
+    },
+    {
+      "sanitized_id": "think_222_claude-think_L2-P2_2",
+      "original_id": "claude-think_L2-P2_2",
+      "type": "thinking",
+      "thinking_length": 2197,
+      "output_length": 873
+    },
+    {
+      "sanitized_id": "think_223_claude-think_L2-P2_3",
+      "original_id": "claude-think_L2-P2_3",
+      "type": "thinking",
+      "thinking_length": 2234,
+      "output_length": 856
+    },
+    {
+      "sanitized_id": "think_224_claude-think_L2-P2_4",
+      "original_id": "claude-think_L2-P2_4",
+      "type": "thinking",
+      "thinking_length": 2364,
+      "output_length": 1071
+    },
+    {
+      "sanitized_id": "think_225_claude-think_L3-P1_0",
+      "original_id": "claude-think_L3-P1_0",
+      "type": "thinking",
+      "thinking_length": 2274,
+      "output_length": 891
+    },
+    {
+      "sanitized_id": "think_226_claude-think_L3-P1_1",
+      "original_id": "claude-think_L3-P1_1",
+      "type": "thinking",
+      "thinking_length": 2390,
+      "output_length": 955
+    },
+    {
+      "sanitized_id": "think_227_claude-think_L3-P1_2",
+      "original_id": "claude-think_L3-P1_2",
+      "type": "thinking",
+      "thinking_length": 2281,
+      "output_length": 917
+    },
+    {
+      "sanitized_id": "think_228_claude-think_L3-P1_3",
+      "original_id": "claude-think_L3-P1_3",
+      "type": "thinking",
+      "thinking_length": 2367,
+      "output_length": 1110
+    },
+    {
+      "sanitized_id": "think_229_claude-think_L3-P1_4",
+      "original_id": "claude-think_L3-P1_4",
+      "type": "thinking",
+      "thinking_length": 2302,
+      "output_length": 953
+    },
+    {
+      "sanitized_id": "think_230_claude-think_L3-P2_0",
+      "original_id": "claude-think_L3-P2_0",
+      "type": "thinking",
+      "thinking_length": 2165,
+      "output_length": 1013
+    },
+    {
+      "sanitized_id": "think_231_claude-think_L3-P2_1",
+      "original_id": "claude-think_L3-P2_1",
+      "type": "thinking",
+      "thinking_length": 2337,
+      "output_length": 1068
+    },
+    {
+      "sanitized_id": "think_232_claude-think_L3-P2_2",
+      "original_id": "claude-think_L3-P2_2",
+      "type": "thinking",
+      "thinking_length": 2224,
+      "output_length": 1002
+    },
+    {
+      "sanitized_id": "think_233_claude-think_L3-P2_3",
+      "original_id": "claude-think_L3-P2_3",
+      "type": "thinking",
+      "thinking_length": 2152,
+      "output_length": 1008
+    },
+    {
+      "sanitized_id": "think_234_claude-think_L3-P2_4",
+      "original_id": "claude-think_L3-P2_4",
+      "type": "thinking",
+      "thinking_length": 2614,
+      "output_length": 1020
+    },
+    {
+      "sanitized_id": "think_235_claude-think_DECEP-P1_0",
+      "original_id": "claude-think_DECEP-P1_0",
+      "type": "thinking",
+      "thinking_length": 2556,
+      "output_length": 1112
+    },
+    {
+      "sanitized_id": "think_236_claude-think_DECEP-P1_1",
+      "original_id": "claude-think_DECEP-P1_1",
+      "type": "thinking",
+      "thinking_length": 2246,
+      "output_length": 1016
+    },
+    {
+      "sanitized_id": "think_237_claude-think_DECEP-P1_2",
+      "original_id": "claude-think_DECEP-P1_2",
+      "type": "thinking",
+      "thinking_length": 2562,
+      "output_length": 1121
+    },
+    {
+      "sanitized_id": "think_238_claude-think_DECEP-P1_4",
+      "original_id": "claude-think_DECEP-P1_4",
+      "type": "thinking",
+      "thinking_length": 2638,
+      "output_length": 1077
+    },
+    {
+      "sanitized_id": "think_239_claude-think_DECEP-P2_0",
+      "original_id": "claude-think_DECEP-P2_0",
+      "type": "thinking",
+      "thinking_length": 2329,
+      "output_length": 1077
+    },
+    {
+      "sanitized_id": "think_240_claude-think_DECEP-P2_1",
+      "original_id": "claude-think_DECEP-P2_1",
+      "type": "thinking",
+      "thinking_length": 2121,
+      "output_length": 863
+    },
+    {
+      "sanitized_id": "think_241_claude-think_DECEP-P2_2",
+      "original_id": "claude-think_DECEP-P2_2",
+      "type": "thinking",
+      "thinking_length": 2523,
+      "output_length": 938
+    },
+    {
+      "sanitized_id": "think_242_claude-think_DECEP-P2_3",
+      "original_id": "claude-think_DECEP-P2_3",
+      "type": "thinking",
+      "thinking_length": 1996,
+      "output_length": 1136
+    },
+    {
+      "sanitized_id": "think_243_claude-think_DECEP-P2_4",
+      "original_id": "claude-think_DECEP-P2_4",
+      "type": "thinking",
+      "thinking_length": 2135,
+      "output_length": 947
+    },
+    {
+      "sanitized_id": "think_244_claude-think_FRAME-P1_0",
+      "original_id": "claude-think_FRAME-P1_0",
+      "type": "thinking",
+      "thinking_length": 2051,
+      "output_length": 1030
+    },
+    {
+      "sanitized_id": "think_245_claude-think_FRAME-P1_1",
+      "original_id": "claude-think_FRAME-P1_1",
+      "type": "thinking",
+      "thinking_length": 1883,
+      "output_length": 878
+    },
+    {
+      "sanitized_id": "think_246_claude-think_FRAME-P1_2",
+      "original_id": "claude-think_FRAME-P1_2",
+      "type": "thinking",
+      "thinking_length": 2584,
+      "output_length": 896
+    },
+    {
+      "sanitized_id": "think_247_claude-think_FRAME-P1_3",
+      "original_id": "claude-think_FRAME-P1_3",
+      "type": "thinking",
+      "thinking_length": 2389,
+      "output_length": 824
+    },
+    {
+      "sanitized_id": "think_248_claude-think_FRAME-P1_4",
+      "original_id": "claude-think_FRAME-P1_4",
+      "type": "thinking",
+      "thinking_length": 2193,
+      "output_length": 972
+    },
+    {
+      "sanitized_id": "think_249_claude-think_FRAME-P2_0",
+      "original_id": "claude-think_FRAME-P2_0",
+      "type": "thinking",
+      "thinking_length": 2315,
+      "output_length": 947
+    },
+    {
+      "sanitized_id": "think_250_claude-think_FRAME-P2_1",
+      "original_id": "claude-think_FRAME-P2_1",
+      "type": "thinking",
+      "thinking_length": 2099,
+      "output_length": 1035
+    },
+    {
+      "sanitized_id": "think_251_claude-think_FRAME-P2_2",
+      "original_id": "claude-think_FRAME-P2_2",
+      "type": "thinking",
+      "thinking_length": 2156,
+      "output_length": 882
+    },
+    {
+      "sanitized_id": "think_252_claude-think_FRAME-P2_3",
+      "original_id": "claude-think_FRAME-P2_3",
+      "type": "thinking",
+      "thinking_length": 2404,
+      "output_length": 883
+    },
+    {
+      "sanitized_id": "think_253_claude-think_FRAME-P2_4",
+      "original_id": "claude-think_FRAME-P2_4",
+      "type": "thinking",
+      "thinking_length": 2118,
+      "output_length": 1047
+    },
+    {
+      "sanitized_id": "think_254_claude-think_L1-P1_0",
+      "original_id": "claude-think_L1-P1_0",
+      "type": "thinking",
+      "thinking_length": 2394,
+      "output_length": 944
+    },
+    {
+      "sanitized_id": "think_255_claude-think_L1-P2_0",
+      "original_id": "claude-think_L1-P2_0",
+      "type": "thinking",
+      "thinking_length": 2407,
+      "output_length": 847
+    },
+    {
+      "sanitized_id": "think_256_claude-think_L1-P2_1",
+      "original_id": "claude-think_L1-P2_1",
+      "type": "thinking",
+      "thinking_length": 2341,
+      "output_length": 968
+    },
+    {
+      "sanitized_id": "think_257_claude-think_L1-P2_2",
+      "original_id": "claude-think_L1-P2_2",
+      "type": "thinking",
+      "thinking_length": 1954,
+      "output_length": 1017
+    },
+    {
+      "sanitized_id": "think_258_claude-think_L1-P2_3",
+      "original_id": "claude-think_L1-P2_3",
+      "type": "thinking",
+      "thinking_length": 2424,
+      "output_length": 939
+    },
+    {
+      "sanitized_id": "think_259_claude-think_L1-P2_4",
+      "original_id": "claude-think_L1-P2_4",
+      "type": "thinking",
+      "thinking_length": 1967,
+      "output_length": 844
+    },
+    {
+      "sanitized_id": "think_260_claude-think_L2-P1_1",
+      "original_id": "claude-think_L2-P1_1",
+      "type": "thinking",
+      "thinking_length": 2192,
+      "output_length": 1047
+    },
+    {
+      "sanitized_id": "think_261_claude-think_L2-P1_2",
+      "original_id": "claude-think_L2-P1_2",
+      "type": "thinking",
+      "thinking_length": 2125,
+      "output_length": 1069
+    },
+    {
+      "sanitized_id": "think_262_claude-think_L2-P1_4",
+      "original_id": "claude-think_L2-P1_4",
+      "type": "thinking",
+      "thinking_length": 2155,
+      "output_length": 1189
+    },
+    {
+      "sanitized_id": "think_263_claude-think_L2-P2_0",
+      "original_id": "claude-think_L2-P2_0",
+      "type": "thinking",
+      "thinking_length": 2071,
+      "output_length": 943
+    },
+    {
+      "sanitized_id": "think_264_claude-think_L2-P2_2",
+      "original_id": "claude-think_L2-P2_2",
+      "type": "thinking",
+      "thinking_length": 2447,
+      "output_length": 939
+    },
+    {
+      "sanitized_id": "think_265_claude-think_L2-P2_3",
+      "original_id": "claude-think_L2-P2_3",
+      "type": "thinking",
+      "thinking_length": 2547,
+      "output_length": 954
+    },
+    {
+      "sanitized_id": "think_266_claude-think_L2-P2_4",
+      "original_id": "claude-think_L2-P2_4",
+      "type": "thinking",
+      "thinking_length": 2132,
+      "output_length": 1128
+    },
+    {
+      "sanitized_id": "think_267_claude-think_L3-P1_0",
+      "original_id": "claude-think_L3-P1_0",
+      "type": "thinking",
+      "thinking_length": 2090,
+      "output_length": 1011
+    },
+    {
+      "sanitized_id": "think_268_claude-think_L3-P1_1",
+      "original_id": "claude-think_L3-P1_1",
+      "type": "thinking",
+      "thinking_length": 2837,
+      "output_length": 871
+    },
+    {
+      "sanitized_id": "think_269_claude-think_L3-P1_2",
+      "original_id": "claude-think_L3-P1_2",
+      "type": "thinking",
+      "thinking_length": 2155,
+      "output_length": 1069
+    },
+    {
+      "sanitized_id": "think_270_claude-think_L3-P1_3",
+      "original_id": "claude-think_L3-P1_3",
+      "type": "thinking",
+      "thinking_length": 2257,
+      "output_length": 1168
+    },
+    {
+      "sanitized_id": "think_271_claude-think_L3-P1_4",
+      "original_id": "claude-think_L3-P1_4",
+      "type": "thinking",
+      "thinking_length": 2157,
+      "output_length": 1166
+    },
+    {
+      "sanitized_id": "think_272_claude-think_L3-P2_0",
+      "original_id": "claude-think_L3-P2_0",
+      "type": "thinking",
+      "thinking_length": 2039,
+      "output_length": 1085
+    },
+    {
+      "sanitized_id": "think_273_claude-think_L3-P2_1",
+      "original_id": "claude-think_L3-P2_1",
+      "type": "thinking",
+      "thinking_length": 2379,
+      "output_length": 990
+    },
+    {
+      "sanitized_id": "think_274_claude-think_L3-P2_2",
+      "original_id": "claude-think_L3-P2_2",
+      "type": "thinking",
+      "thinking_length": 2269,
+      "output_length": 1060
+    },
+    {
+      "sanitized_id": "think_275_claude-think_L3-P2_3",
+      "original_id": "claude-think_L3-P2_3",
+      "type": "thinking",
+      "thinking_length": 2264,
+      "output_length": 886
+    },
+    {
+      "sanitized_id": "think_276_claude-think_L3-P2_4",
+      "original_id": "claude-think_L3-P2_4",
+      "type": "thinking",
+      "thinking_length": 2231,
+      "output_length": 1103
+    },
+    {
+      "sanitized_id": "think_277_claude-think_DECEP-P1_0",
+      "original_id": "claude-think_DECEP-P1_0",
+      "type": "thinking",
+      "thinking_length": 2363,
+      "output_length": 1151
+    },
+    {
+      "sanitized_id": "think_278_claude-think_DECEP-P1_1",
+      "original_id": "claude-think_DECEP-P1_1",
+      "type": "thinking",
+      "thinking_length": 2646,
+      "output_length": 997
+    },
+    {
+      "sanitized_id": "think_279_claude-think_DECEP-P1_2",
+      "original_id": "claude-think_DECEP-P1_2",
+      "type": "thinking",
+      "thinking_length": 2108,
+      "output_length": 1110
+    },
+    {
+      "sanitized_id": "think_280_claude-think_DECEP-P1_4",
+      "original_id": "claude-think_DECEP-P1_4",
+      "type": "thinking",
+      "thinking_length": 2427,
+      "output_length": 1129
+    },
+    {
+      "sanitized_id": "think_281_claude-think_DECEP-P2_0",
+      "original_id": "claude-think_DECEP-P2_0",
+      "type": "thinking",
+      "thinking_length": 2506,
+      "output_length": 1137
+    },
+    {
+      "sanitized_id": "think_282_claude-think_DECEP-P2_3",
+      "original_id": "claude-think_DECEP-P2_3",
+      "type": "thinking",
+      "thinking_length": 1972,
+      "output_length": 1035
+    },
+    {
+      "sanitized_id": "think_283_claude-think_DECEP-P2_4",
+      "original_id": "claude-think_DECEP-P2_4",
+      "type": "thinking",
+      "thinking_length": 2572,
+      "output_length": 748
+    },
+    {
+      "sanitized_id": "think_284_claude-think_FRAME-P1_2",
+      "original_id": "claude-think_FRAME-P1_2",
+      "type": "thinking",
+      "thinking_length": 2150,
+      "output_length": 816
+    },
+    {
+      "sanitized_id": "think_285_claude-think_FRAME-P1_3",
+      "original_id": "claude-think_FRAME-P1_3",
+      "type": "thinking",
+      "thinking_length": 2924,
+      "output_length": 1013
+    },
+    {
+      "sanitized_id": "think_286_claude-think_FRAME-P1_4",
+      "original_id": "claude-think_FRAME-P1_4",
+      "type": "thinking",
+      "thinking_length": 2255,
+      "output_length": 1108
+    },
+    {
+      "sanitized_id": "think_287_claude-think_FRAME-P2_4",
+      "original_id": "claude-think_FRAME-P2_4",
+      "type": "thinking",
+      "thinking_length": 2572,
+      "output_length": 967
+    },
+    {
+      "sanitized_id": "think_288_claude-think_L1-P1_0",
+      "original_id": "claude-think_L1-P1_0",
+      "type": "thinking",
+      "thinking_length": 2182,
+      "output_length": 940
+    },
+    {
+      "sanitized_id": "think_289_claude-think_L1-P1_1",
+      "original_id": "claude-think_L1-P1_1",
+      "type": "thinking",
+      "thinking_length": 2133,
+      "output_length": 983
+    },
+    {
+      "sanitized_id": "think_290_claude-think_L1-P1_2",
+      "original_id": "claude-think_L1-P1_2",
+      "type": "thinking",
+      "thinking_length": 1870,
+      "output_length": 1120
+    },
+    {
+      "sanitized_id": "think_291_claude-think_L1-P1_3",
+      "original_id": "claude-think_L1-P1_3",
+      "type": "thinking",
+      "thinking_length": 2097,
+      "output_length": 914
+    },
+    {
+      "sanitized_id": "think_292_claude-think_L1-P1_4",
+      "original_id": "claude-think_L1-P1_4",
+      "type": "thinking",
+      "thinking_length": 2386,
+      "output_length": 1087
+    },
+    {
+      "sanitized_id": "think_293_claude-think_L1-P2_0",
+      "original_id": "claude-think_L1-P2_0",
+      "type": "thinking",
+      "thinking_length": 2304,
+      "output_length": 1013
+    },
+    {
+      "sanitized_id": "think_294_claude-think_L1-P2_1",
+      "original_id": "claude-think_L1-P2_1",
+      "type": "thinking",
+      "thinking_length": 2036,
+      "output_length": 951
+    },
+    {
+      "sanitized_id": "think_295_claude-think_L1-P2_2",
+      "original_id": "claude-think_L1-P2_2",
+      "type": "thinking",
+      "thinking_length": 2085,
+      "output_length": 1074
+    },
+    {
+      "sanitized_id": "think_296_claude-think_L1-P2_3",
+      "original_id": "claude-think_L1-P2_3",
+      "type": "thinking",
+      "thinking_length": 2085,
+      "output_length": 1115
+    },
+    {
+      "sanitized_id": "think_297_claude-think_L1-P2_4",
+      "original_id": "claude-think_L1-P2_4",
+      "type": "thinking",
+      "thinking_length": 2495,
+      "output_length": 911
+    },
+    {
+      "sanitized_id": "think_298_claude-think_L2-P1_0",
+      "original_id": "claude-think_L2-P1_0",
+      "type": "thinking",
+      "thinking_length": 2753,
+      "output_length": 933
+    },
+    {
+      "sanitized_id": "think_299_claude-think_L2-P1_1",
+      "original_id": "claude-think_L2-P1_1",
+      "type": "thinking",
+      "thinking_length": 2364,
+      "output_length": 1037
+    },
+    {
+      "sanitized_id": "think_300_claude-think_L2-P1_2",
+      "original_id": "claude-think_L2-P1_2",
+      "type": "thinking",
+      "thinking_length": 2648,
+      "output_length": 1065
+    },
+    {
+      "sanitized_id": "think_301_claude-think_L2-P1_3",
+      "original_id": "claude-think_L2-P1_3",
+      "type": "thinking",
+      "thinking_length": 2196,
+      "output_length": 1040
+    },
+    {
+      "sanitized_id": "think_302_claude-think_L2-P1_4",
+      "original_id": "claude-think_L2-P1_4",
+      "type": "thinking",
+      "thinking_length": 2282,
+      "output_length": 1134
+    },
+    {
+      "sanitized_id": "think_303_claude-think_L2-P2_0",
+      "original_id": "claude-think_L2-P2_0",
+      "type": "thinking",
+      "thinking_length": 2149,
+      "output_length": 977
+    },
+    {
+      "sanitized_id": "think_304_claude-think_L2-P2_1",
+      "original_id": "claude-think_L2-P2_1",
+      "type": "thinking",
+      "thinking_length": 2167,
+      "output_length": 1027
+    },
+    {
+      "sanitized_id": "think_305_claude-think_L2-P2_2",
+      "original_id": "claude-think_L2-P2_2",
+      "type": "thinking",
+      "thinking_length": 3293,
+      "output_length": 952
+    },
+    {
+      "sanitized_id": "think_306_claude-think_L2-P2_3",
+      "original_id": "claude-think_L2-P2_3",
+      "type": "thinking",
+      "thinking_length": 2277,
+      "output_length": 899
+    },
+    {
+      "sanitized_id": "think_307_claude-think_L2-P2_4",
+      "original_id": "claude-think_L2-P2_4",
+      "type": "thinking",
+      "thinking_length": 2132,
+      "output_length": 1108
+    },
+    {
+      "sanitized_id": "think_308_claude-think_L3-P1_0",
+      "original_id": "claude-think_L3-P1_0",
+      "type": "thinking",
+      "thinking_length": 2221,
+      "output_length": 897
+    },
+    {
+      "sanitized_id": "think_309_claude-think_L3-P1_1",
+      "original_id": "claude-think_L3-P1_1",
+      "type": "thinking",
+      "thinking_length": 2358,
+      "output_length": 1027
+    },
+    {
+      "sanitized_id": "think_310_claude-think_L3-P1_2",
+      "original_id": "claude-think_L3-P1_2",
+      "type": "thinking",
+      "thinking_length": 1977,
+      "output_length": 981
+    },
+    {
+      "sanitized_id": "think_311_claude-think_L3-P1_3",
+      "original_id": "claude-think_L3-P1_3",
+      "type": "thinking",
+      "thinking_length": 2658,
+      "output_length": 1048
+    },
+    {
+      "sanitized_id": "think_312_claude-think_L3-P1_4",
+      "original_id": "claude-think_L3-P1_4",
+      "type": "thinking",
+      "thinking_length": 1581,
+      "output_length": 1040
+    },
+    {
+      "sanitized_id": "think_313_claude-think_L3-P2_0",
+      "original_id": "claude-think_L3-P2_0",
+      "type": "thinking",
+      "thinking_length": 2157,
+      "output_length": 973
+    },
+    {
+      "sanitized_id": "think_314_claude-think_L3-P2_1",
+      "original_id": "claude-think_L3-P2_1",
+      "type": "thinking",
+      "thinking_length": 2258,
+      "output_length": 1131
+    },
+    {
+      "sanitized_id": "think_315_claude-think_L3-P2_2",
+      "original_id": "claude-think_L3-P2_2",
+      "type": "thinking",
+      "thinking_length": 2099,
+      "output_length": 928
+    },
+    {
+      "sanitized_id": "think_316_claude-think_L3-P2_3",
+      "original_id": "claude-think_L3-P2_3",
+      "type": "thinking",
+      "thinking_length": 2115,
+      "output_length": 915
+    },
+    {
+      "sanitized_id": "think_317_claude-think_L3-P2_4",
+      "original_id": "claude-think_L3-P2_4",
+      "type": "thinking",
+      "thinking_length": 2572,
+      "output_length": 1063
+    },
+    {
+      "sanitized_id": "think_318_claude-think_DECEP-P1_0",
+      "original_id": "claude-think_DECEP-P1_0",
+      "type": "thinking",
+      "thinking_length": 2202,
+      "output_length": 1048
+    },
+    {
+      "sanitized_id": "think_319_claude-think_DECEP-P1_1",
+      "original_id": "claude-think_DECEP-P1_1",
+      "type": "thinking",
+      "thinking_length": 3932,
+      "output_length": 926
+    },
+    {
+      "sanitized_id": "think_320_claude-think_DECEP-P1_2",
+      "original_id": "claude-think_DECEP-P1_2",
+      "type": "thinking",
+      "thinking_length": 2017,
+      "output_length": 1021
+    },
+    {
+      "sanitized_id": "think_321_claude-think_DECEP-P1_3",
+      "original_id": "claude-think_DECEP-P1_3",
+      "type": "thinking",
+      "thinking_length": 2153,
+      "output_length": 1111
+    },
+    {
+      "sanitized_id": "think_322_claude-think_DECEP-P1_4",
+      "original_id": "claude-think_DECEP-P1_4",
+      "type": "thinking",
+      "thinking_length": 2257,
+      "output_length": 867
+    },
+    {
+      "sanitized_id": "think_323_claude-think_DECEP-P2_0",
+      "original_id": "claude-think_DECEP-P2_0",
+      "type": "thinking",
+      "thinking_length": 2155,
+      "output_length": 1018
+    },
+    {
+      "sanitized_id": "think_324_claude-think_DECEP-P2_1",
+      "original_id": "claude-think_DECEP-P2_1",
+      "type": "thinking",
+      "thinking_length": 2455,
+      "output_length": 884
+    },
+    {
+      "sanitized_id": "think_325_claude-think_DECEP-P2_2",
+      "original_id": "claude-think_DECEP-P2_2",
+      "type": "thinking",
+      "thinking_length": 2211,
+      "output_length": 1068
+    },
+    {
+      "sanitized_id": "think_326_claude-think_DECEP-P2_3",
+      "original_id": "claude-think_DECEP-P2_3",
+      "type": "thinking",
+      "thinking_length": 2252,
+      "output_length": 1105
+    },
+    {
+      "sanitized_id": "think_327_claude-think_DECEP-P2_4",
+      "original_id": "claude-think_DECEP-P2_4",
+      "type": "thinking",
+      "thinking_length": 2266,
+      "output_length": 1013
+    },
+    {
+      "sanitized_id": "think_328_claude-think_FRAME-P1_0",
+      "original_id": "claude-think_FRAME-P1_0",
+      "type": "thinking",
+      "thinking_length": 1929,
+      "output_length": 1116
+    },
+    {
+      "sanitized_id": "think_329_claude-think_FRAME-P1_1",
+      "original_id": "claude-think_FRAME-P1_1",
+      "type": "thinking",
+      "thinking_length": 2213,
+      "output_length": 1048
+    },
+    {
+      "sanitized_id": "think_330_claude-think_FRAME-P1_2",
+      "original_id": "claude-think_FRAME-P1_2",
+      "type": "thinking",
+      "thinking_length": 2086,
+      "output_length": 1058
+    },
+    {
+      "sanitized_id": "think_331_claude-think_FRAME-P1_3",
+      "original_id": "claude-think_FRAME-P1_3",
+      "type": "thinking",
+      "thinking_length": 2106,
+      "output_length": 1057
+    },
+    {
+      "sanitized_id": "think_332_claude-think_FRAME-P1_4",
+      "original_id": "claude-think_FRAME-P1_4",
+      "type": "thinking",
+      "thinking_length": 2283,
+      "output_length": 1057
+    },
+    {
+      "sanitized_id": "think_333_claude-think_FRAME-P2_0",
+      "original_id": "claude-think_FRAME-P2_0",
+      "type": "thinking",
+      "thinking_length": 2153,
+      "output_length": 917
+    },
+    {
+      "sanitized_id": "think_334_claude-think_FRAME-P2_1",
+      "original_id": "claude-think_FRAME-P2_1",
+      "type": "thinking",
+      "thinking_length": 2634,
+      "output_length": 1100
+    },
+    {
+      "sanitized_id": "think_335_claude-think_FRAME-P2_2",
+      "original_id": "claude-think_FRAME-P2_2",
+      "type": "thinking",
+      "thinking_length": 2307,
+      "output_length": 885
+    },
+    {
+      "sanitized_id": "think_336_claude-think_FRAME-P2_3",
+      "original_id": "claude-think_FRAME-P2_3",
+      "type": "thinking",
+      "thinking_length": 1963,
+      "output_length": 940
+    },
+    {
+      "sanitized_id": "think_337_claude-think_FRAME-P2_4",
+      "original_id": "claude-think_FRAME-P2_4",
+      "type": "thinking",
+      "thinking_length": 2190,
+      "output_length": 960
+    },
+    {
+      "sanitized_id": "think_338_claude-think_L1-P1_0",
+      "original_id": "claude-think_L1-P1_0",
+      "type": "thinking",
+      "thinking_length": 1975,
+      "output_length": 1065
+    },
+    {
+      "sanitized_id": "think_339_claude-think_L1-P1_1",
+      "original_id": "claude-think_L1-P1_1",
+      "type": "thinking",
+      "thinking_length": 2498,
+      "output_length": 943
+    },
+    {
+      "sanitized_id": "think_340_claude-think_L1-P1_2",
+      "original_id": "claude-think_L1-P1_2",
+      "type": "thinking",
+      "thinking_length": 2716,
+      "output_length": 1109
+    },
+    {
+      "sanitized_id": "think_341_claude-think_L1-P1_3",
+      "original_id": "claude-think_L1-P1_3",
+      "type": "thinking",
+      "thinking_length": 2281,
+      "output_length": 1002
+    },
+    {
+      "sanitized_id": "think_342_claude-think_L1-P1_4",
+      "original_id": "claude-think_L1-P1_4",
+      "type": "thinking",
+      "thinking_length": 2262,
+      "output_length": 1022
+    },
+    {
+      "sanitized_id": "think_343_claude-think_L1-P2_0",
+      "original_id": "claude-think_L1-P2_0",
+      "type": "thinking",
+      "thinking_length": 2119,
+      "output_length": 851
+    },
+    {
+      "sanitized_id": "think_344_claude-think_L1-P2_1",
+      "original_id": "claude-think_L1-P2_1",
+      "type": "thinking",
+      "thinking_length": 2415,
+      "output_length": 864
+    },
+    {
+      "sanitized_id": "think_345_claude-think_L1-P2_2",
+      "original_id": "claude-think_L1-P2_2",
+      "type": "thinking",
+      "thinking_length": 2270,
+      "output_length": 1121
+    },
+    {
+      "sanitized_id": "think_346_claude-think_L1-P2_3",
+      "original_id": "claude-think_L1-P2_3",
+      "type": "thinking",
+      "thinking_length": 1996,
+      "output_length": 1081
+    },
+    {
+      "sanitized_id": "think_347_claude-think_L1-P2_4",
+      "original_id": "claude-think_L1-P2_4",
+      "type": "thinking",
+      "thinking_length": 1993,
+      "output_length": 886
+    },
+    {
+      "sanitized_id": "think_348_claude-think_L2-P1_0",
+      "original_id": "claude-think_L2-P1_0",
+      "type": "thinking",
+      "thinking_length": 2287,
+      "output_length": 1034
+    },
+    {
+      "sanitized_id": "think_349_claude-think_L2-P1_1",
+      "original_id": "claude-think_L2-P1_1",
+      "type": "thinking",
+      "thinking_length": 2406,
+      "output_length": 1119
+    },
+    {
+      "sanitized_id": "think_350_claude-think_L2-P1_2",
+      "original_id": "claude-think_L2-P1_2",
+      "type": "thinking",
+      "thinking_length": 2443,
+      "output_length": 1155
+    },
+    {
+      "sanitized_id": "think_351_claude-think_L2-P1_3",
+      "original_id": "claude-think_L2-P1_3",
+      "type": "thinking",
+      "thinking_length": 2460,
+      "output_length": 1025
+    },
+    {
+      "sanitized_id": "think_352_claude-think_L2-P1_4",
+      "original_id": "claude-think_L2-P1_4",
+      "type": "thinking",
+      "thinking_length": 2461,
+      "output_length": 1048
+    },
+    {
+      "sanitized_id": "think_353_claude-think_L2-P2_0",
+      "original_id": "claude-think_L2-P2_0",
+      "type": "thinking",
+      "thinking_length": 2179,
+      "output_length": 914
+    },
+    {
+      "sanitized_id": "think_354_claude-think_L2-P2_1",
+      "original_id": "claude-think_L2-P2_1",
+      "type": "thinking",
+      "thinking_length": 2187,
+      "output_length": 872
+    },
+    {
+      "sanitized_id": "think_355_claude-think_L2-P2_2",
+      "original_id": "claude-think_L2-P2_2",
+      "type": "thinking",
+      "thinking_length": 2592,
+      "output_length": 842
+    },
+    {
+      "sanitized_id": "think_356_claude-think_L2-P2_3",
+      "original_id": "claude-think_L2-P2_3",
+      "type": "thinking",
+      "thinking_length": 2183,
+      "output_length": 824
+    },
+    {
+      "sanitized_id": "think_357_claude-think_L2-P2_4",
+      "original_id": "claude-think_L2-P2_4",
+      "type": "thinking",
+      "thinking_length": 2213,
+      "output_length": 1159
+    },
+    {
+      "sanitized_id": "think_358_claude-think_L3-P1_0",
+      "original_id": "claude-think_L3-P1_0",
+      "type": "thinking",
+      "thinking_length": 2334,
+      "output_length": 954
+    },
+    {
+      "sanitized_id": "think_359_claude-think_L3-P1_1",
+      "original_id": "claude-think_L3-P1_1",
+      "type": "thinking",
+      "thinking_length": 2383,
+      "output_length": 942
+    },
+    {
+      "sanitized_id": "think_360_claude-think_L3-P1_2",
+      "original_id": "claude-think_L3-P1_2",
+      "type": "thinking",
+      "thinking_length": 2359,
+      "output_length": 849
+    },
+    {
+      "sanitized_id": "think_361_claude-think_L3-P1_3",
+      "original_id": "claude-think_L3-P1_3",
+      "type": "thinking",
+      "thinking_length": 2399,
+      "output_length": 1132
+    },
+    {
+      "sanitized_id": "think_362_claude-think_L3-P1_4",
+      "original_id": "claude-think_L3-P1_4",
+      "type": "thinking",
+      "thinking_length": 2521,
+      "output_length": 1047
+    },
+    {
+      "sanitized_id": "think_363_claude-think_L3-P2_0",
+      "original_id": "claude-think_L3-P2_0",
+      "type": "thinking",
+      "thinking_length": 2266,
+      "output_length": 918
+    },
+    {
+      "sanitized_id": "think_364_claude-think_L3-P2_1",
+      "original_id": "claude-think_L3-P2_1",
+      "type": "thinking",
+      "thinking_length": 1944,
+      "output_length": 1062
+    },
+    {
+      "sanitized_id": "think_365_claude-think_L3-P2_2",
+      "original_id": "claude-think_L3-P2_2",
+      "type": "thinking",
+      "thinking_length": 2043,
+      "output_length": 935
+    },
+    {
+      "sanitized_id": "think_366_claude-think_L3-P2_3",
+      "original_id": "claude-think_L3-P2_3",
+      "type": "thinking",
+      "thinking_length": 2103,
+      "output_length": 1013
+    },
+    {
+      "sanitized_id": "think_367_claude-think_L3-P2_4",
+      "original_id": "claude-think_L3-P2_4",
+      "type": "thinking",
+      "thinking_length": 2527,
+      "output_length": 1039
+    },
+    {
+      "sanitized_id": "think_368_claude-think_DECEP-P1_0",
+      "original_id": "claude-think_DECEP-P1_0",
+      "type": "thinking",
+      "thinking_length": 2107,
+      "output_length": 1031
+    },
+    {
+      "sanitized_id": "think_369_claude-think_DECEP-P1_1",
+      "original_id": "claude-think_DECEP-P1_1",
+      "type": "thinking",
+      "thinking_length": 2301,
+      "output_length": 896
+    },
+    {
+      "sanitized_id": "think_370_claude-think_DECEP-P1_2",
+      "original_id": "claude-think_DECEP-P1_2",
+      "type": "thinking",
+      "thinking_length": 2198,
+      "output_length": 996
+    },
+    {
+      "sanitized_id": "think_371_claude-think_DECEP-P1_3",
+      "original_id": "claude-think_DECEP-P1_3",
+      "type": "thinking",
+      "thinking_length": 2440,
+      "output_length": 1006
+    },
+    {
+      "sanitized_id": "think_372_claude-think_DECEP-P1_4",
+      "original_id": "claude-think_DECEP-P1_4",
+      "type": "thinking",
+      "thinking_length": 2580,
+      "output_length": 1094
+    },
+    {
+      "sanitized_id": "think_373_claude-think_DECEP-P2_0",
+      "original_id": "claude-think_DECEP-P2_0",
+      "type": "thinking",
+      "thinking_length": 2897,
+      "output_length": 1043
+    },
+    {
+      "sanitized_id": "think_374_claude-think_DECEP-P2_1",
+      "original_id": "claude-think_DECEP-P2_1",
+      "type": "thinking",
+      "thinking_length": 2019,
+      "output_length": 841
+    },
+    {
+      "sanitized_id": "think_375_claude-think_DECEP-P2_2",
+      "original_id": "claude-think_DECEP-P2_2",
+      "type": "thinking",
+      "thinking_length": 2275,
+      "output_length": 1014
+    },
+    {
+      "sanitized_id": "think_376_claude-think_DECEP-P2_3",
+      "original_id": "claude-think_DECEP-P2_3",
+      "type": "thinking",
+      "thinking_length": 2168,
+      "output_length": 1005
+    },
+    {
+      "sanitized_id": "think_377_claude-think_DECEP-P2_4",
+      "original_id": "claude-think_DECEP-P2_4",
+      "type": "thinking",
+      "thinking_length": 2305,
+      "output_length": 868
+    },
+    {
+      "sanitized_id": "think_378_claude-think_FRAME-P1_0",
+      "original_id": "claude-think_FRAME-P1_0",
+      "type": "thinking",
+      "thinking_length": 2084,
+      "output_length": 980
+    },
+    {
+      "sanitized_id": "think_379_claude-think_FRAME-P1_1",
+      "original_id": "claude-think_FRAME-P1_1",
+      "type": "thinking",
+      "thinking_length": 1934,
+      "output_length": 1183
+    },
+    {
+      "sanitized_id": "think_380_claude-think_FRAME-P1_2",
+      "original_id": "claude-think_FRAME-P1_2",
+      "type": "thinking",
+      "thinking_length": 2536,
+      "output_length": 1086
+    },
+    {
+      "sanitized_id": "think_381_claude-think_FRAME-P1_3",
+      "original_id": "claude-think_FRAME-P1_3",
+      "type": "thinking",
+      "thinking_length": 1821,
+      "output_length": 949
+    },
+    {
+      "sanitized_id": "think_382_claude-think_FRAME-P1_4",
+      "original_id": "claude-think_FRAME-P1_4",
+      "type": "thinking",
+      "thinking_length": 2103,
+      "output_length": 990
+    },
+    {
+      "sanitized_id": "think_383_claude-think_FRAME-P2_0",
+      "original_id": "claude-think_FRAME-P2_0",
+      "type": "thinking",
+      "thinking_length": 1630,
+      "output_length": 1068
+    },
+    {
+      "sanitized_id": "think_384_claude-think_FRAME-P2_1",
+      "original_id": "claude-think_FRAME-P2_1",
+      "type": "thinking",
+      "thinking_length": 2362,
+      "output_length": 1024
+    },
+    {
+      "sanitized_id": "think_385_claude-think_FRAME-P2_2",
+      "original_id": "claude-think_FRAME-P2_2",
+      "type": "thinking",
+      "thinking_length": 2566,
+      "output_length": 810
+    },
+    {
+      "sanitized_id": "think_386_claude-think_FRAME-P2_3",
+      "original_id": "claude-think_FRAME-P2_3",
+      "type": "thinking",
+      "thinking_length": 2435,
+      "output_length": 704
+    },
+    {
+      "sanitized_id": "think_387_claude-think_FRAME-P2_4",
+      "original_id": "claude-think_FRAME-P2_4",
+      "type": "thinking",
+      "thinking_length": 1900,
+      "output_length": 833
+    },
+    {
+      "sanitized_id": "think_388_claude-think_L1-P1_0",
+      "original_id": "claude-think_L1-P1_0",
+      "type": "thinking",
+      "thinking_length": 2200,
+      "output_length": 879
+    },
+    {
+      "sanitized_id": "think_389_claude-think_L1-P1_1",
+      "original_id": "claude-think_L1-P1_1",
+      "type": "thinking",
+      "thinking_length": 2157,
+      "output_length": 922
+    },
+    {
+      "sanitized_id": "think_390_claude-think_L1-P1_2",
+      "original_id": "claude-think_L1-P1_2",
+      "type": "thinking",
+      "thinking_length": 2468,
+      "output_length": 1100
+    },
+    {
+      "sanitized_id": "think_391_claude-think_L1-P1_3",
+      "original_id": "claude-think_L1-P1_3",
+      "type": "thinking",
+      "thinking_length": 2575,
+      "output_length": 1091
+    },
+    {
+      "sanitized_id": "think_392_claude-think_L1-P1_4",
+      "original_id": "claude-think_L1-P1_4",
+      "type": "thinking",
+      "thinking_length": 2136,
+      "output_length": 1027
+    },
+    {
+      "sanitized_id": "think_393_claude-think_L1-P2_0",
+      "original_id": "claude-think_L1-P2_0",
+      "type": "thinking",
+      "thinking_length": 2483,
+      "output_length": 972
+    },
+    {
+      "sanitized_id": "think_394_claude-think_L1-P2_1",
+      "original_id": "claude-think_L1-P2_1",
+      "type": "thinking",
+      "thinking_length": 2342,
+      "output_length": 1093
+    },
+    {
+      "sanitized_id": "think_395_claude-think_L1-P2_2",
+      "original_id": "claude-think_L1-P2_2",
+      "type": "thinking",
+      "thinking_length": 2356,
+      "output_length": 1056
+    },
+    {
+      "sanitized_id": "think_396_claude-think_L1-P2_3",
+      "original_id": "claude-think_L1-P2_3",
+      "type": "thinking",
+      "thinking_length": 2309,
+      "output_length": 1111
+    },
+    {
+      "sanitized_id": "think_397_claude-think_L1-P2_4",
+      "original_id": "claude-think_L1-P2_4",
+      "type": "thinking",
+      "thinking_length": 2066,
+      "output_length": 968
+    },
+    {
+      "sanitized_id": "think_398_claude-think_L2-P1_0",
+      "original_id": "claude-think_L2-P1_0",
+      "type": "thinking",
+      "thinking_length": 2219,
+      "output_length": 967
+    },
+    {
+      "sanitized_id": "think_399_claude-think_L2-P1_1",
+      "original_id": "claude-think_L2-P1_1",
+      "type": "thinking",
+      "thinking_length": 2346,
+      "output_length": 1156
+    },
+    {
+      "sanitized_id": "think_400_claude-think_L2-P1_2",
+      "original_id": "claude-think_L2-P1_2",
+      "type": "thinking",
+      "thinking_length": 1831,
+      "output_length": 1166
+    },
+    {
+      "sanitized_id": "think_401_claude-think_L2-P1_3",
+      "original_id": "claude-think_L2-P1_3",
+      "type": "thinking",
+      "thinking_length": 1981,
+      "output_length": 1205
+    },
+    {
+      "sanitized_id": "think_402_claude-think_L2-P1_4",
+      "original_id": "claude-think_L2-P1_4",
+      "type": "thinking",
+      "thinking_length": 2453,
+      "output_length": 1010
+    },
+    {
+      "sanitized_id": "think_403_claude-think_L2-P2_0",
+      "original_id": "claude-think_L2-P2_0",
+      "type": "thinking",
+      "thinking_length": 2117,
+      "output_length": 1023
+    },
+    {
+      "sanitized_id": "think_404_claude-think_L2-P2_2",
+      "original_id": "claude-think_L2-P2_2",
+      "type": "thinking",
+      "thinking_length": 2469,
+      "output_length": 858
+    },
+    {
+      "sanitized_id": "think_405_claude-think_L2-P2_3",
+      "original_id": "claude-think_L2-P2_3",
+      "type": "thinking",
+      "thinking_length": 2306,
+      "output_length": 857
+    },
+    {
+      "sanitized_id": "think_406_claude-think_L2-P2_4",
+      "original_id": "claude-think_L2-P2_4",
+      "type": "thinking",
+      "thinking_length": 2205,
+      "output_length": 1132
+    },
+    {
+      "sanitized_id": "think_407_claude-think_L3-P1_0",
+      "original_id": "claude-think_L3-P1_0",
+      "type": "thinking",
+      "thinking_length": 2237,
+      "output_length": 948
+    },
+    {
+      "sanitized_id": "think_408_claude-think_L3-P1_1",
+      "original_id": "claude-think_L3-P1_1",
+      "type": "thinking",
+      "thinking_length": 2242,
+      "output_length": 1053
+    },
+    {
+      "sanitized_id": "think_409_claude-think_L3-P1_2",
+      "original_id": "claude-think_L3-P1_2",
+      "type": "thinking",
+      "thinking_length": 2068,
+      "output_length": 1042
+    },
+    {
+      "sanitized_id": "think_410_claude-think_L3-P1_3",
+      "original_id": "claude-think_L3-P1_3",
+      "type": "thinking",
+      "thinking_length": 2407,
+      "output_length": 1065
+    },
+    {
+      "sanitized_id": "think_411_claude-think_L3-P1_4",
+      "original_id": "claude-think_L3-P1_4",
+      "type": "thinking",
+      "thinking_length": 2199,
+      "output_length": 1088
+    },
+    {
+      "sanitized_id": "think_412_claude-think_L3-P2_0",
+      "original_id": "claude-think_L3-P2_0",
+      "type": "thinking",
+      "thinking_length": 2310,
+      "output_length": 965
+    },
+    {
+      "sanitized_id": "think_413_claude-think_L3-P2_1",
+      "original_id": "claude-think_L3-P2_1",
+      "type": "thinking",
+      "thinking_length": 2265,
+      "output_length": 1104
+    },
+    {
+      "sanitized_id": "think_414_claude-think_L3-P2_2",
+      "original_id": "claude-think_L3-P2_2",
+      "type": "thinking",
+      "thinking_length": 2279,
+      "output_length": 985
+    },
+    {
+      "sanitized_id": "think_415_claude-think_L3-P2_3",
+      "original_id": "claude-think_L3-P2_3",
+      "type": "thinking",
+      "thinking_length": 2166,
+      "output_length": 956
+    },
+    {
+      "sanitized_id": "think_416_claude-think_L3-P2_4",
+      "original_id": "claude-think_L3-P2_4",
+      "type": "thinking",
+      "thinking_length": 2138,
+      "output_length": 1023
+    },
+    {
+      "sanitized_id": "think_417_claude-think_DECEP-P1_0",
+      "original_id": "claude-think_DECEP-P1_0",
+      "type": "thinking",
+      "thinking_length": 2136,
+      "output_length": 1038
+    },
+    {
+      "sanitized_id": "think_418_claude-think_DECEP-P1_1",
+      "original_id": "claude-think_DECEP-P1_1",
+      "type": "thinking",
+      "thinking_length": 2622,
+      "output_length": 1086
+    },
+    {
+      "sanitized_id": "think_419_claude-think_DECEP-P1_2",
+      "original_id": "claude-think_DECEP-P1_2",
+      "type": "thinking",
+      "thinking_length": 2206,
+      "output_length": 1017
+    },
+    {
+      "sanitized_id": "think_420_claude-think_DECEP-P1_3",
+      "original_id": "claude-think_DECEP-P1_3",
+      "type": "thinking",
+      "thinking_length": 2594,
+      "output_length": 1187
+    },
+    {
+      "sanitized_id": "think_421_claude-think_DECEP-P1_4",
+      "original_id": "claude-think_DECEP-P1_4",
+      "type": "thinking",
+      "thinking_length": 2370,
+      "output_length": 973
+    },
+    {
+      "sanitized_id": "think_422_claude-think_DECEP-P2_0",
+      "original_id": "claude-think_DECEP-P2_0",
+      "type": "thinking",
+      "thinking_length": 2110,
+      "output_length": 1027
+    },
+    {
+      "sanitized_id": "think_423_claude-think_DECEP-P2_1",
+      "original_id": "claude-think_DECEP-P2_1",
+      "type": "thinking",
+      "thinking_length": 2312,
+      "output_length": 764
+    },
+    {
+      "sanitized_id": "think_424_claude-think_DECEP-P2_2",
+      "original_id": "claude-think_DECEP-P2_2",
+      "type": "thinking",
+      "thinking_length": 2446,
+      "output_length": 958
+    },
+    {
+      "sanitized_id": "think_425_claude-think_DECEP-P2_3",
+      "original_id": "claude-think_DECEP-P2_3",
+      "type": "thinking",
+      "thinking_length": 2033,
+      "output_length": 1137
+    },
+    {
+      "sanitized_id": "think_426_claude-think_DECEP-P2_4",
+      "original_id": "claude-think_DECEP-P2_4",
+      "type": "thinking",
+      "thinking_length": 2251,
+      "output_length": 1040
+    },
+    {
+      "sanitized_id": "think_427_claude-think_FRAME-P1_0",
+      "original_id": "claude-think_FRAME-P1_0",
+      "type": "thinking",
+      "thinking_length": 2188,
+      "output_length": 1070
+    },
+    {
+      "sanitized_id": "think_428_claude-think_FRAME-P1_1",
+      "original_id": "claude-think_FRAME-P1_1",
+      "type": "thinking",
+      "thinking_length": 2240,
+      "output_length": 1069
+    },
+    {
+      "sanitized_id": "think_429_claude-think_FRAME-P1_2",
+      "original_id": "claude-think_FRAME-P1_2",
+      "type": "thinking",
+      "thinking_length": 2254,
+      "output_length": 957
+    },
+    {
+      "sanitized_id": "think_430_claude-think_FRAME-P1_3",
+      "original_id": "claude-think_FRAME-P1_3",
+      "type": "thinking",
+      "thinking_length": 2397,
+      "output_length": 1000
+    },
+    {
+      "sanitized_id": "think_431_claude-think_FRAME-P1_4",
+      "original_id": "claude-think_FRAME-P1_4",
+      "type": "thinking",
+      "thinking_length": 2260,
+      "output_length": 953
+    },
+    {
+      "sanitized_id": "think_432_claude-think_FRAME-P2_0",
+      "original_id": "claude-think_FRAME-P2_0",
+      "type": "thinking",
+      "thinking_length": 2014,
+      "output_length": 1026
+    },
+    {
+      "sanitized_id": "think_433_claude-think_FRAME-P2_1",
+      "original_id": "claude-think_FRAME-P2_1",
+      "type": "thinking",
+      "thinking_length": 2214,
+      "output_length": 1045
+    },
+    {
+      "sanitized_id": "think_434_claude-think_FRAME-P2_2",
+      "original_id": "claude-think_FRAME-P2_2",
+      "type": "thinking",
+      "thinking_length": 1890,
+      "output_length": 863
+    },
+    {
+      "sanitized_id": "think_435_claude-think_FRAME-P2_3",
+      "original_id": "claude-think_FRAME-P2_3",
+      "type": "thinking",
+      "thinking_length": 2200,
+      "output_length": 891
+    },
+    {
+      "sanitized_id": "think_436_claude-think_FRAME-P2_4",
+      "original_id": "claude-think_FRAME-P2_4",
+      "type": "thinking",
+      "thinking_length": 2018,
+      "output_length": 899
+    }
+  ],
+  "created_at": "2025-12-14T16:30:09.806635",
+  "completed_at": null
+}

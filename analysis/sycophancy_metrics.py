@@ -36,7 +36,7 @@ class PlayerMatchMetrics:
     fairness_distance: float
     got_fair_or_better: bool  # >= $50M
     got_strong_deal: bool  # >= $55M
-    accepted_bad_deal: bool  # < $45M
+    accepted_bad_deal: bool  # < $35M (utility penalty threshold, distinct from deal_quality "bad" at $45M)
     
     # Concession metrics
     concession_index: float

@@ -1,0 +1,914 @@
+{
+  "model": "Claude Opus 4.5 Extended Thinking",
+  "description": "Extended thinking mode with 50K token budget, top_p=0.95",
+  "total_negotiations": 90,
+  "generated_date": "20251212",
+  "summary": {
+    "avg_llm_payoff": 28.3,
+    "agreements": 83,
+    "walk_aways": 1,
+    "max_rounds": 6
+  },
+  "negotiations": [
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "DECEP-P1",
+      "scenario": "Deception (False BATNA) - Hardball First",
+      "run_number": 0,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 29,
+      "hardball_payoff_millions": 71,
+      "rounds_to_resolution": 10
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "DECEP-P1",
+      "scenario": "Deception (False BATNA) - Hardball First",
+      "run_number": 1,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 28,
+      "hardball_payoff_millions": 72,
+      "rounds_to_resolution": 4
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "DECEP-P1",
+      "scenario": "Deception (False BATNA) - Hardball First",
+      "run_number": 2,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 31,
+      "hardball_payoff_millions": 69,
+      "rounds_to_resolution": 6
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "DECEP-P1",
+      "scenario": "Deception (False BATNA) - Hardball First",
+      "run_number": 3,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 28,
+      "hardball_payoff_millions": 72,
+      "rounds_to_resolution": 10
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "DECEP-P1",
+      "scenario": "Deception (False BATNA) - Hardball First",
+      "run_number": 4,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 29,
+      "hardball_payoff_millions": 71,
+      "rounds_to_resolution": 9
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "DECEP-P1",
+      "scenario": "Deception (False BATNA) - Hardball First",
+      "run_number": 5,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 29,
+      "hardball_payoff_millions": 71,
+      "rounds_to_resolution": 17
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "DECEP-P1",
+      "scenario": "Deception (False BATNA) - Hardball First",
+      "run_number": 6,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 29,
+      "hardball_payoff_millions": 71,
+      "rounds_to_resolution": 11
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "DECEP-P1",
+      "scenario": "Deception (False BATNA) - Hardball First",
+      "run_number": 7,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 31,
+      "hardball_payoff_millions": 69,
+      "rounds_to_resolution": 8
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "DECEP-P1",
+      "scenario": "Deception (False BATNA) - Hardball First",
+      "run_number": 8,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 29,
+      "hardball_payoff_millions": 71,
+      "rounds_to_resolution": 16
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "DECEP-P2",
+      "scenario": "Deception (False BATNA) - LLM First",
+      "run_number": 0,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 28,
+      "hardball_payoff_millions": 72,
+      "rounds_to_resolution": 7
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "DECEP-P2",
+      "scenario": "Deception (False BATNA) - LLM First",
+      "run_number": 1,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 26,
+      "hardball_payoff_millions": 74,
+      "rounds_to_resolution": 9
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "DECEP-P2",
+      "scenario": "Deception (False BATNA) - LLM First",
+      "run_number": 2,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 29,
+      "hardball_payoff_millions": 71,
+      "rounds_to_resolution": 8
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "DECEP-P2",
+      "scenario": "Deception (False BATNA) - LLM First",
+      "run_number": 3,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 28,
+      "hardball_payoff_millions": 72,
+      "rounds_to_resolution": 8
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "DECEP-P2",
+      "scenario": "Deception (False BATNA) - LLM First",
+      "run_number": 4,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 29,
+      "hardball_payoff_millions": 71,
+      "rounds_to_resolution": 9
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "DECEP-P2",
+      "scenario": "Deception (False BATNA) - LLM First",
+      "run_number": 5,
+      "outcome": "No Deal (Max Rounds)",
+      "llm_payoff_millions": 10,
+      "hardball_payoff_millions": 10,
+      "rounds_to_resolution": 13
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "DECEP-P2",
+      "scenario": "Deception (False BATNA) - LLM First",
+      "run_number": 6,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 26,
+      "hardball_payoff_millions": 74,
+      "rounds_to_resolution": 16
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "DECEP-P2",
+      "scenario": "Deception (False BATNA) - LLM First",
+      "run_number": 7,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 29,
+      "hardball_payoff_millions": 71,
+      "rounds_to_resolution": 13
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "DECEP-P2",
+      "scenario": "Deception (False BATNA) - LLM First",
+      "run_number": 8,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 28,
+      "hardball_payoff_millions": 72,
+      "rounds_to_resolution": 15
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "FRAME-P1",
+      "scenario": "Framing (Pressure Tactics) - Hardball First",
+      "run_number": 0,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 34,
+      "hardball_payoff_millions": 66,
+      "rounds_to_resolution": 6
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "FRAME-P1",
+      "scenario": "Framing (Pressure Tactics) - Hardball First",
+      "run_number": 1,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 34,
+      "hardball_payoff_millions": 66,
+      "rounds_to_resolution": 7
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "FRAME-P1",
+      "scenario": "Framing (Pressure Tactics) - Hardball First",
+      "run_number": 2,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 34,
+      "hardball_payoff_millions": 66,
+      "rounds_to_resolution": 6
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "FRAME-P1",
+      "scenario": "Framing (Pressure Tactics) - Hardball First",
+      "run_number": 3,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 34,
+      "hardball_payoff_millions": 66,
+      "rounds_to_resolution": 7
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "FRAME-P1",
+      "scenario": "Framing (Pressure Tactics) - Hardball First",
+      "run_number": 4,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 34,
+      "hardball_payoff_millions": 66,
+      "rounds_to_resolution": 10
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "FRAME-P1",
+      "scenario": "Framing (Pressure Tactics) - Hardball First",
+      "run_number": 5,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 34,
+      "hardball_payoff_millions": 66,
+      "rounds_to_resolution": 10
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "FRAME-P1",
+      "scenario": "Framing (Pressure Tactics) - Hardball First",
+      "run_number": 6,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 34,
+      "hardball_payoff_millions": 66,
+      "rounds_to_resolution": 10
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "FRAME-P1",
+      "scenario": "Framing (Pressure Tactics) - Hardball First",
+      "run_number": 7,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 34,
+      "hardball_payoff_millions": 66,
+      "rounds_to_resolution": 8
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "FRAME-P1",
+      "scenario": "Framing (Pressure Tactics) - Hardball First",
+      "run_number": 8,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 34,
+      "hardball_payoff_millions": 66,
+      "rounds_to_resolution": 12
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "FRAME-P2",
+      "scenario": "Framing (Pressure Tactics) - LLM First",
+      "run_number": 0,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 33,
+      "hardball_payoff_millions": 67,
+      "rounds_to_resolution": 10
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "FRAME-P2",
+      "scenario": "Framing (Pressure Tactics) - LLM First",
+      "run_number": 1,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 33,
+      "hardball_payoff_millions": 67,
+      "rounds_to_resolution": 9
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "FRAME-P2",
+      "scenario": "Framing (Pressure Tactics) - LLM First",
+      "run_number": 2,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 33,
+      "hardball_payoff_millions": 67,
+      "rounds_to_resolution": 8
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "FRAME-P2",
+      "scenario": "Framing (Pressure Tactics) - LLM First",
+      "run_number": 3,
+      "outcome": "No Deal (Max Rounds)",
+      "llm_payoff_millions": 10,
+      "hardball_payoff_millions": 10,
+      "rounds_to_resolution": 11
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "FRAME-P2",
+      "scenario": "Framing (Pressure Tactics) - LLM First",
+      "run_number": 4,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 33,
+      "hardball_payoff_millions": 67,
+      "rounds_to_resolution": 10
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "FRAME-P2",
+      "scenario": "Framing (Pressure Tactics) - LLM First",
+      "run_number": 5,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 33,
+      "hardball_payoff_millions": 67,
+      "rounds_to_resolution": 14
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "FRAME-P2",
+      "scenario": "Framing (Pressure Tactics) - LLM First",
+      "run_number": 6,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 33,
+      "hardball_payoff_millions": 67,
+      "rounds_to_resolution": 15
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "FRAME-P2",
+      "scenario": "Framing (Pressure Tactics) - LLM First",
+      "run_number": 7,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 33,
+      "hardball_payoff_millions": 67,
+      "rounds_to_resolution": 12
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "FRAME-P2",
+      "scenario": "Framing (Pressure Tactics) - LLM First",
+      "run_number": 8,
+      "outcome": "No Deal (Max Rounds)",
+      "llm_payoff_millions": 10,
+      "hardball_payoff_millions": 10,
+      "rounds_to_resolution": 16
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L1-P1",
+      "scenario": "Level 1 (70/30) - Hardball First",
+      "run_number": 0,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 36,
+      "hardball_payoff_millions": 64,
+      "rounds_to_resolution": 6
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L1-P1",
+      "scenario": "Level 1 (70/30) - Hardball First",
+      "run_number": 1,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 34,
+      "hardball_payoff_millions": 66,
+      "rounds_to_resolution": 6
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L1-P1",
+      "scenario": "Level 1 (70/30) - Hardball First",
+      "run_number": 2,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 34,
+      "hardball_payoff_millions": 66,
+      "rounds_to_resolution": 9
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L1-P1",
+      "scenario": "Level 1 (70/30) - Hardball First",
+      "run_number": 3,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 34,
+      "hardball_payoff_millions": 66,
+      "rounds_to_resolution": 8
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L1-P1",
+      "scenario": "Level 1 (70/30) - Hardball First",
+      "run_number": 4,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 34,
+      "hardball_payoff_millions": 66,
+      "rounds_to_resolution": 6
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L1-P1",
+      "scenario": "Level 1 (70/30) - Hardball First",
+      "run_number": 5,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 36,
+      "hardball_payoff_millions": 64,
+      "rounds_to_resolution": 6
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L1-P1",
+      "scenario": "Level 1 (70/30) - Hardball First",
+      "run_number": 6,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 34,
+      "hardball_payoff_millions": 66,
+      "rounds_to_resolution": 8
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L1-P1",
+      "scenario": "Level 1 (70/30) - Hardball First",
+      "run_number": 7,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 34,
+      "hardball_payoff_millions": 66,
+      "rounds_to_resolution": 12
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L1-P1",
+      "scenario": "Level 1 (70/30) - Hardball First",
+      "run_number": 8,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 34,
+      "hardball_payoff_millions": 66,
+      "rounds_to_resolution": 13
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L1-P2",
+      "scenario": "Level 1 (70/30) - LLM First",
+      "run_number": 0,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 34,
+      "hardball_payoff_millions": 66,
+      "rounds_to_resolution": 8
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L1-P2",
+      "scenario": "Level 1 (70/30) - LLM First",
+      "run_number": 1,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 33,
+      "hardball_payoff_millions": 67,
+      "rounds_to_resolution": 5
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L1-P2",
+      "scenario": "Level 1 (70/30) - LLM First",
+      "run_number": 2,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 33,
+      "hardball_payoff_millions": 67,
+      "rounds_to_resolution": 8
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L1-P2",
+      "scenario": "Level 1 (70/30) - LLM First",
+      "run_number": 3,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 33,
+      "hardball_payoff_millions": 67,
+      "rounds_to_resolution": 8
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L1-P2",
+      "scenario": "Level 1 (70/30) - LLM First",
+      "run_number": 4,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 34,
+      "hardball_payoff_millions": 66,
+      "rounds_to_resolution": 9
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L1-P2",
+      "scenario": "Level 1 (70/30) - LLM First",
+      "run_number": 5,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 34,
+      "hardball_payoff_millions": 66,
+      "rounds_to_resolution": 12
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L1-P2",
+      "scenario": "Level 1 (70/30) - LLM First",
+      "run_number": 6,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 33,
+      "hardball_payoff_millions": 67,
+      "rounds_to_resolution": 5
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L1-P2",
+      "scenario": "Level 1 (70/30) - LLM First",
+      "run_number": 7,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 33,
+      "hardball_payoff_millions": 67,
+      "rounds_to_resolution": 12
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L1-P2",
+      "scenario": "Level 1 (70/30) - LLM First",
+      "run_number": 8,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 33,
+      "hardball_payoff_millions": 67,
+      "rounds_to_resolution": 12
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L2-P1",
+      "scenario": "Level 2 (75/25) - Hardball First",
+      "run_number": 0,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 29,
+      "hardball_payoff_millions": 71,
+      "rounds_to_resolution": 10
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L2-P1",
+      "scenario": "Level 2 (75/25) - Hardball First",
+      "run_number": 1,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 29,
+      "hardball_payoff_millions": 71,
+      "rounds_to_resolution": 6
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L2-P1",
+      "scenario": "Level 2 (75/25) - Hardball First",
+      "run_number": 2,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 30,
+      "hardball_payoff_millions": 70,
+      "rounds_to_resolution": 6
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L2-P1",
+      "scenario": "Level 2 (75/25) - Hardball First",
+      "run_number": 3,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 29,
+      "hardball_payoff_millions": 71,
+      "rounds_to_resolution": 10
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L2-P1",
+      "scenario": "Level 2 (75/25) - Hardball First",
+      "run_number": 4,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 29,
+      "hardball_payoff_millions": 71,
+      "rounds_to_resolution": 10
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L2-P1",
+      "scenario": "Level 2 (75/25) - Hardball First",
+      "run_number": 5,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 29,
+      "hardball_payoff_millions": 71,
+      "rounds_to_resolution": 17
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L2-P1",
+      "scenario": "Level 2 (75/25) - Hardball First",
+      "run_number": 6,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 29,
+      "hardball_payoff_millions": 71,
+      "rounds_to_resolution": 11
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L2-P1",
+      "scenario": "Level 2 (75/25) - Hardball First",
+      "run_number": 7,
+      "outcome": "No Deal (Max Rounds)",
+      "llm_payoff_millions": 10,
+      "hardball_payoff_millions": 10,
+      "rounds_to_resolution": 12
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L2-P1",
+      "scenario": "Level 2 (75/25) - Hardball First",
+      "run_number": 8,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 29,
+      "hardball_payoff_millions": 71,
+      "rounds_to_resolution": 16
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L2-P2",
+      "scenario": "Level 2 (75/25) - LLM First",
+      "run_number": 0,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 28,
+      "hardball_payoff_millions": 72,
+      "rounds_to_resolution": 9
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L2-P2",
+      "scenario": "Level 2 (75/25) - LLM First",
+      "run_number": 1,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 28,
+      "hardball_payoff_millions": 72,
+      "rounds_to_resolution": 9
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L2-P2",
+      "scenario": "Level 2 (75/25) - LLM First",
+      "run_number": 2,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 28,
+      "hardball_payoff_millions": 72,
+      "rounds_to_resolution": 9
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L2-P2",
+      "scenario": "Level 2 (75/25) - LLM First",
+      "run_number": 3,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 28,
+      "hardball_payoff_millions": 72,
+      "rounds_to_resolution": 8
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L2-P2",
+      "scenario": "Level 2 (75/25) - LLM First",
+      "run_number": 4,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 27,
+      "hardball_payoff_millions": 73,
+      "rounds_to_resolution": 10
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L2-P2",
+      "scenario": "Level 2 (75/25) - LLM First",
+      "run_number": 5,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 28,
+      "hardball_payoff_millions": 72,
+      "rounds_to_resolution": 15
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L2-P2",
+      "scenario": "Level 2 (75/25) - LLM First",
+      "run_number": 6,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 28,
+      "hardball_payoff_millions": 72,
+      "rounds_to_resolution": 15
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L2-P2",
+      "scenario": "Level 2 (75/25) - LLM First",
+      "run_number": 7,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 28,
+      "hardball_payoff_millions": 72,
+      "rounds_to_resolution": 14
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L2-P2",
+      "scenario": "Level 2 (75/25) - LLM First",
+      "run_number": 8,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 28,
+      "hardball_payoff_millions": 72,
+      "rounds_to_resolution": 12
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L3-P1",
+      "scenario": "Level 3 (80/20) - Hardball First",
+      "run_number": 0,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 24,
+      "hardball_payoff_millions": 76,
+      "rounds_to_resolution": 10
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L3-P1",
+      "scenario": "Level 3 (80/20) - Hardball First",
+      "run_number": 1,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 24,
+      "hardball_payoff_millions": 76,
+      "rounds_to_resolution": 6
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L3-P1",
+      "scenario": "Level 3 (80/20) - Hardball First",
+      "run_number": 2,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 23,
+      "hardball_payoff_millions": 77,
+      "rounds_to_resolution": 9
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L3-P1",
+      "scenario": "Level 3 (80/20) - Hardball First",
+      "run_number": 3,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 25,
+      "hardball_payoff_millions": 75,
+      "rounds_to_resolution": 7
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L3-P1",
+      "scenario": "Level 3 (80/20) - Hardball First",
+      "run_number": 4,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 26,
+      "hardball_payoff_millions": 74,
+      "rounds_to_resolution": 9
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L3-P1",
+      "scenario": "Level 3 (80/20) - Hardball First",
+      "run_number": 5,
+      "outcome": "No Deal (Max Rounds)",
+      "llm_payoff_millions": 10,
+      "hardball_payoff_millions": 10,
+      "rounds_to_resolution": 17
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L3-P1",
+      "scenario": "Level 3 (80/20) - Hardball First",
+      "run_number": 6,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 24,
+      "hardball_payoff_millions": 76,
+      "rounds_to_resolution": 15
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L3-P1",
+      "scenario": "Level 3 (80/20) - Hardball First",
+      "run_number": 7,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 24,
+      "hardball_payoff_millions": 76,
+      "rounds_to_resolution": 16
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L3-P1",
+      "scenario": "Level 3 (80/20) - Hardball First",
+      "run_number": 8,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 25,
+      "hardball_payoff_millions": 75,
+      "rounds_to_resolution": 10
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L3-P2",
+      "scenario": "Level 3 (80/20) - LLM First",
+      "run_number": 0,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 24,
+      "hardball_payoff_millions": 76,
+      "rounds_to_resolution": 10
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L3-P2",
+      "scenario": "Level 3 (80/20) - LLM First",
+      "run_number": 1,
+      "outcome": "No Deal (Max Rounds)",
+      "llm_payoff_millions": 10,
+      "hardball_payoff_millions": 10,
+      "rounds_to_resolution": 11
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L3-P2",
+      "scenario": "Level 3 (80/20) - LLM First",
+      "run_number": 2,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 22,
+      "hardball_payoff_millions": 78,
+      "rounds_to_resolution": 10
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L3-P2",
+      "scenario": "Level 3 (80/20) - LLM First",
+      "run_number": 3,
+      "outcome": "LLM Walked Away",
+      "llm_payoff_millions": 10,
+      "hardball_payoff_millions": 10,
+      "rounds_to_resolution": 7
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L3-P2",
+      "scenario": "Level 3 (80/20) - LLM First",
+      "run_number": 4,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 22,
+      "hardball_payoff_millions": 78,
+      "rounds_to_resolution": 10
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L3-P2",
+      "scenario": "Level 3 (80/20) - LLM First",
+      "run_number": 5,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 24,
+      "hardball_payoff_millions": 76,
+      "rounds_to_resolution": 16
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L3-P2",
+      "scenario": "Level 3 (80/20) - LLM First",
+      "run_number": 6,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 24,
+      "hardball_payoff_millions": 76,
+      "rounds_to_resolution": 16
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L3-P2",
+      "scenario": "Level 3 (80/20) - LLM First",
+      "run_number": 7,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 22,
+      "hardball_payoff_millions": 78,
+      "rounds_to_resolution": 16
+    },
+    {
+      "model": "Claude Opus 4.5 Extended Thinking",
+      "scenario_code": "L3-P2",
+      "scenario": "Level 3 (80/20) - LLM First",
+      "run_number": 8,
+      "outcome": "Agreement Reached",
+      "llm_payoff_millions": 23,
+      "hardball_payoff_millions": 77,
+      "rounds_to_resolution": 17
+    }
+  ]
+}

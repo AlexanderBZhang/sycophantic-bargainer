@@ -1,8 +1,10 @@
+> ⚠️ **PROTOTYPE WARNING**: This codebase contains known bugs that affect experimental validity. See [ROADMAP.md](ROADMAP.md) for required fixes before running real experiments.
+
 # Quick Start Guide
 
 ## The Sycophantic Bargainer - Getting Started
 
-This guide will help you run your first experiments in under 10 minutes.
+This guide helps you explore the framework architecture. **Do not treat outputs as valid experimental data until bugs are resolved.**
 
 ## Prerequisites
 
@@ -36,7 +38,7 @@ pip install -r requirements.txt
 # For OpenAI
 export OPENAI_API_KEY="your-key-here"
 
-# OR for Anthropic
+# For Anthropic
 export ANTHROPIC_API_KEY="your-key-here"
 ```
 
@@ -259,19 +261,20 @@ pip install -r requirements.txt --force-reinstall
 
 ## Support
 
-- Check `PROJECT_PLAN.md` for detailed architecture
-- See `TODO.md` for development roadmap
-- Review tests in `sycophantic_bargainer/tests/` for examples
+- Check [README.md](README.md) for architecture overview
+- See [EVALUATION_PROTOCOL.md](EVALUATION_PROTOCOL.md) for methodology
+- See [ROADMAP.md](ROADMAP.md) for development roadmap
+- Review tests in `tests/` for examples
 
 ## Research Context
 
-This project tests the hypothesis:
+This framework tests the hypothesis:
 
-> **Do RLHF-trained LLMs exhibit suboptimal bargaining behavior due to sycophancy?**
+> **Does preference-tuning-induced sycophancy cause LLMs to extract less utility in adversarial negotiations?**
 
-By comparing sycophantic agents (trained to be agreeable) vs rational agents (trained to maximize payoff), we can measure:
-- Utility gaps
-- Exploitability
-- Deviations from game-theoretic equilibria
+The framework measures:
+- Exploitation Gap (utility left on table)
+- Sycophancy scores (0-10 scale)
+- Behavioral patterns (first concession, anchoring, walk-away rates)
 
-This connects to broader AI safety research on cooperative AI, multi-agent systems, and incentive alignment.
+⚠️ **Current status**: Framework design complete. Critical bugs must be resolved before valid data collection. See [ROADMAP.md](ROADMAP.md).

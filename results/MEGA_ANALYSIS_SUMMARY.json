@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "generated_at": "2026-01-10T16:42:04.603286",
+    "version": "0.1.0-prototype",
+    "status": "EXPERIMENTAL",
+    "disclaimer": "This analysis combines v0 experimental code and AI-assisted generation. It has not undergone rigorous unit testing or formal verification. Quantitative claims should not be considered reliable due to identified logical flaws in the generative code."
+  },
+  "experiments": {
+    "experiment_1_symmetric": {
+      "name": "AI vs AI Symmetric Tournament",
+      "description": "Claude Opus 4.5 vs GPT-5.1 in cooperative bilateral negotiations",
+      "data_available": true,
+      "metrics": {
+        "total_matches": 240,
+        "match_pairings": {
+          "unknown vs unknown": 240
+        }
+      },
+      "files_checked": [
+        "C:\\dev\\sycophantic_bargainer\\archive\\FINAL_240_COMPLETE.jsonl"
+      ],
+      "summary": {
+        "experiment_type": "symmetric_cooperative",
+        "models_tested": [
+          "Claude Opus 4.5 Standard",
+          "GPT-5.1"
+        ],
+        "total_matches": 240,
+        "valid_matches": 239,
+        "agreement_rate": 0.996,
+        "key_findings": [
+          "Claude exhibits 72% deference ratio vs GPT's 51%",
+          "Claude concedes first 2\u00d7 more often (66.5% vs 33.5%)",
+          "Despite behavioral differences, both achieve equivalent payoffs (~$50M)",
+          "Sycophancy manifests as process-level accommodation, not outcome-level loss"
+        ],
+        "language_analysis": {
+          "claude_deference_per_1k": 4.45,
+          "gpt_deference_per_1k": 3.64,
+          "enron_baseline_per_1k": 0.08,
+          "claude_vs_human_ratio": "54\u00d7"
+        },
+        "elo_ratings": {
+          "GPT-5.1": 1501,
+          "Claude Opus 4.5": 1499,
+          "gap": 2
+        }
+      }
+    },
+    "experiment_2_adversarial": {
+      "name": "Hardball Adversary vs Claude",
+      "description": "Rule-based adversarial agent vs Claude (Standard and Extended Thinking)",
+      "data_available": true,
+      "metrics": {
+        "thinking_matches": 1,
+        "standard_matches": 90,
+        "semantic_claude_thinking": 437,
+        "semantic_claude_standard": 1558,
+        "semantic_enron_baseline": 600,
+        "semantic_casino_baseline": 2059
+      },
+      "files_checked": [
+        "C:\\dev\\sycophantic_bargainer\\results\\HARDBALL_THINKING_90.jsonl.json",
+        "C:\\dev\\sycophantic_bargainer\\results\\HARDBALL_STANDARD_90.jsonl"
+      ],
+      "summary": {
+        "experiment_type": "adversarial_exploitation",
+        "models_tested": [
+          "Claude Opus 4.5 Standard",
+          "Claude Opus 4.5 Extended Thinking",
+          "GPT-5.1 (comparison)"
+        ],
+        "adversary": "Rule-based Hardball agent",
+        "total_matches": 180,
+        "conditions": {
+          "standard_n": 90,
+          "thinking_n": 90,
+          "gpt_n": 10
+        },
+        "key_findings": [
+          "Extended Thinking provides statistically significant protection (p=0.019)",
+          "+$2.7M average payoff improvement (+10%) vs Standard",
+          "92% vs 81% agreement rate",
+          "44% reduction in deference markers (0.55 vs 0.98 per 1K words)",
+          "Both conditions still exploitable - accept sub-threshold deals"
+        ],
+        "statistical_tests": {
+          "mann_whitney_u": 3266.0,
+          "mann_whitney_p": 0.024,
+          "t_test_statistic": -2.37,
+          "t_test_p": 0.019,
+          "cohens_d": 0.35,
+          "effect_size": "small-medium"
+        },
+        "economic_outcomes": {
+          "standard_avg_payoff_m": 25.6,
+          "thinking_avg_payoff_m": 28.3,
+          "gpt_avg_payoff_m": 11.6,
+          "standard_utility": 25268,
+          "thinking_utility": 131737,
+          "gpt_utility": -595825
+        },
+        "language_analysis": {
+          "standard_deference_per_1k": 0.98,
+          "thinking_deference_per_1k": 0.55,
+          "enron_baseline_per_1k": 0.08,
+          "reduction_percent": 44
+        }
+      }
+    }
+  },
+  "cross_experiment_synthesis": {
+    "total_negotiations": 420,
+    "key_insight": "Sycophancy is DORMANT in symmetric play but ACTIVATED by adversarial pressure. Claude's deference is not exploited by GPT (another RLHF model) but is exploited by a rule-based adversary.",
+    "findings": [
+      {
+        "finding": "Process vs Outcome Sycophancy",
+        "evidence": "In symmetric play, Claude shows 72% deference but achieves equivalent payoffs. Against Hardball, deference correlates with lower payoffs."
+      },
+      {
+        "finding": "Extended Thinking Provides Protection",
+        "evidence": "44% reduction in deference + $2.7M improvement, statistically significant (p=0.019)."
+      },
+      {
+        "finding": "Internal-External Alignment Gap",
+        "evidence": "Thinking tokens show Claude recognizes exploitation but output still complies."
+      },
+      {
+        "finding": "Both Conditions Remain Exploitable",
+        "evidence": "Neither Standard nor Thinking walks away frequently; both accept sub-threshold deals."
+      }
+    ],
+    "implications": [
+      "Sycophancy measurement requires adversarial testing, not just cooperative scenarios",
+      "Extended Thinking is a partial but not complete defense",
+      "Internal reasoning \u2260 behavioral alignment"
+    ]
+  },
+  "data_inventory": {
+    "experiment_1_files": [
+      "tournament_data",
+      "analysis_report",
+      "tournament_analysis"
+    ],
+    "experiment_2_files": [
+      "thinking_90",
+      "standard_90",
+      "thinking_tokens",
+      "semantic_claude_thinking",
+      "semantic_claude_standard",
+      "semantic_enron",
+      "semantic_casino"
+    ],
+    "results_directory": "C:\\dev\\sycophantic_bargainer\\results",
+    "archive_directory": "C:\\dev\\sycophantic_bargainer\\archive"
+  }
+}

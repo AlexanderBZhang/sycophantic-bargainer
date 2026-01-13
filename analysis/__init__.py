@@ -43,6 +43,31 @@ from .sycophancy_metrics import (
     ModelTournamentMetrics,
 )
 
+from .process_outcome_analysis import (
+    analyze_negotiation,
+    compute_process_outcome_correlation,
+    identify_mismatch_candidates,
+    counterparty_sensitivity_analysis,
+    outcome_conditional_language_analysis,
+    generate_process_outcome_report,
+    NegotiationAnalysis,
+    RoundAnalysis,
+)
+
+from .canonical_markers import (
+    CATEGORY_1_APOLOGIES,
+    CATEGORY_2_DEFERENCE,
+    CATEGORY_3_HEDGES,
+    CATEGORY_4_FLATTERY,
+    ALL_MARKERS,
+    ENRON_BASELINE,
+    count_markers,
+    count_all_markers,
+    calculate_rates_per_1k,
+    analyze_text,
+    MarkerAnalysis,
+)
+
 __all__ = [
     # Language Analysis
     "analyze_transcript_language",
@@ -69,4 +94,25 @@ __all__ = [
     "generate_sycophancy_report",
     "PlayerMatchMetrics",
     "ModelTournamentMetrics",
+    # Process-Outcome Analysis
+    "analyze_negotiation",
+    "compute_process_outcome_correlation",
+    "identify_mismatch_candidates",
+    "counterparty_sensitivity_analysis",
+    "outcome_conditional_language_analysis",
+    "generate_process_outcome_report",
+    "NegotiationAnalysis",
+    "RoundAnalysis",
+    # Canonical Markers
+    "CATEGORY_1_APOLOGIES",
+    "CATEGORY_2_DEFERENCE",
+    "CATEGORY_3_HEDGES",
+    "CATEGORY_4_FLATTERY",
+    "ALL_MARKERS",
+    "ENRON_BASELINE",
+    "count_markers",
+    "count_all_markers",
+    "calculate_rates_per_1k",
+    "analyze_text",
+    "MarkerAnalysis",
 ]

@@ -4,10 +4,14 @@ __pycache__/
 *$py.class
 *.so
 .Python
+
+# Virtual environments
 env/
 venv/
 .venv/
 ENV/
+
+# Build/distribution
 build/
 develop-eggs/
 dist/
@@ -24,7 +28,9 @@ wheels/
 .installed.cfg
 *.egg
 
-# IDEs
+# ------------------------------------------------------------------------------
+# IDEs and Editors
+# ------------------------------------------------------------------------------
 .vscode/
 .idea/
 *.swp
@@ -37,7 +43,9 @@ wheels/
 # DevContainer (local development config)
 .devcontainer/
 
+# ------------------------------------------------------------------------------
 # Testing
+# ------------------------------------------------------------------------------
 .pytest_cache/
 .coverage
 htmlcov/
@@ -47,52 +55,53 @@ htmlcov/
 .ipynb_checkpoints/
 *.ipynb
 
-# Logs and data
-logs/
-*.log
-results/
-experiments/output/
-data/cache/
-
-# Environment variables
+# ------------------------------------------------------------------------------
+# Secrets and Environment
+# ------------------------------------------------------------------------------
 .env
 *.env
 .env.local
+.env.*
 
-# OS
+# ------------------------------------------------------------------------------
+# OS Metadata
+# ------------------------------------------------------------------------------
 .DS_Store
 Thumbs.db
 
-# Tournament results - test/intermediate data (ignored)
-test_tournament_results/
+# ------------------------------------------------------------------------------
+# Large Data (Download Separately)
+# ------------------------------------------------------------------------------
+# Enron email corpus (~500MB compressed, ~1.5GB extracted)
+# You can download it from: https://www.cs.cmu.edu/~enron/
+enron_mail_*.tar.gz
+maildir/
 
-# Tournament results - keep final results, ignore test runs
-# After running final tournament, rename with FINAL_ prefix to track:
-#   cp tournament_results/h2h_tournament_*.json tournament_results/FINAL_h2h_$(date +%Y%m%d).json
-tournament_results/*.json
-tournament_results/ratings/
-!tournament_results/.gitkeep
-!tournament_results/FINAL_*.json
+# ------------------------------------------------------------------------------
+# Temporary/State Files (Not Needed for Reproduction)
+# ------------------------------------------------------------------------------
+# Batch API state (regenerated when running experiments)
+batch_state.json
+enron_checkpoint.json
 
 # Runtime logs
 runtime/
+logs/
+*.log
 
-# Archive (legacy/deprecated files)
+# Game arena (external dependency, install via pip or submodule)
+game_arena/
+
+# ------------------------------------------------------------------------------
+# Large data files (exceed GitHub 100MB limit)
+# ------------------------------------------------------------------------------
+results/ENRON_EMAILS_CLEANED.jsonl
+results/CASINO_PREPROCESSED.jsonl
+*.jsonl
+
+# ------------------------------------------------------------------------------
+# Archive (Superseded experiments and documentation)
+# ------------------------------------------------------------------------------
+# Contains original experimental data and old reports
+# Not needed for reproduction of main findings
 archive/
-
-# Enron corpus (too large for git)
-enron_mail_*.tar.gz
-maildir/
-enron_checkpoint.json
-parse_enron_fast.py
-
-# Reference documents - keep important ones
-!README.md
-!API_SETUP.md
-!QUICKSTART.md
-!lmarena_expert_elo (12-4-2025).csv
-
-Benchmarking Sycophancy in Business Negotiations.md
-
-# Game arena symlink/file
-game_arena

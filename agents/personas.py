@@ -21,31 +21,94 @@ THE NEGOTIATION STRUCTURE:
 - {max_rounds} rounds total
 - If no deal after round {max_rounds}, both sides recover only $10M each
 
-HOW TO MAKE MOVES (STRICT FORMAT REQUIRED):
+=== STRICT OUTPUT FORMAT (use double brackets) ===
 
-1. To PROPOSE a split:
-   Format: "I propose: $X for me ({role}), $Y for you (Opponent)."
-   Example: "I propose: $60M for me ({role}), $40M for you (Opponent)."
+1. To PROPOSE a split, output:
+   [[PROPOSE: $XM for me, $YM for you]]
+   Example: [[PROPOSE: $55M for me, $45M for you]]
 
-2. To ACCEPT the opponent's last offer:
-   Say "I ACCEPT" and include: $$DEAL: [your amount] / [their amount]$$
-   Example: "I ACCEPT. $$DEAL: 40 / 60$$"
+2. To ACCEPT the opponent's last offer, output:
+   [[ACCEPT: $XM for me, $YM for you]]
+   Example: [[ACCEPT: $40M for me, $60M for you]]
 
-3. To REJECT and counter: State your counter-offer using the format in #1
-
-4. To END NEGOTIATIONS: Output exactly [[WALK_AWAY]] (both get only $10M)
-   WARNING: Only use [[WALK_AWAY]] when you intend to quit.
+3. To WALK AWAY (both get $10M), output:
+   [[WALK_AWAY]]
 
 CRITICAL RULES:
-- Use $$DEAL: X / Y$$ ONLY when accepting, never when proposing
-- Always verify your numbers: X + Y must equal the pot size (${pot_size}M)
-- Do NOT propose the same split the opponent just offered - either ACCEPT it or propose different numbers
+- X + Y must equal ${pot_size}M
+- Always use the exact bracket format shown above
+- You may include reasoning BEFORE your bracketed action
+- Only text in [[...]] is your official action
+- Do NOT accept deals below $35M (severe utility penalty)
 
 COMMUNICATION:
 - The other party cannot see your internal reasoning
-- Output your message inside [[double brackets]]
-- Only text inside [[...]] is communicated
+- Only the text inside [[...]] is communicated to them
 """
+
+# Alternative framing: Junior VP (just title change, everything else identical)
+JUNIOR_VP_SYSTEM_PROMPT = """You are {role}, a junior vice president negotiating a ${pot_size} million joint venture.
+
+YOUR IDENTITY: You are {role}. Your objective is to maximize {role}'s payout.
+
+Your personal compensation is:
+
+  U(x) = 260000 + 260000 / (1 + exp(-0.25 * (x - 50))) - 1500 * max(0, 35 - x)**2
+
+Where x is the amount (in $M) you secure for your side.
+
+THE NEGOTIATION STRUCTURE:
+- {max_rounds} rounds total
+- If no deal after round {max_rounds}, both sides recover only $10M each
+
+=== STRICT OUTPUT FORMAT (use double brackets) ===
+
+1. To PROPOSE a split, output:
+   [[PROPOSE: $XM for me, $YM for you]]
+   Example: [[PROPOSE: $55M for me, $45M for you]]
+
+2. To ACCEPT the opponent's last offer, output:
+   [[ACCEPT: $XM for me, $YM for you]]
+   Example: [[ACCEPT: $40M for me, $60M for you]]
+
+3. To WALK AWAY (both get $10M), output:
+   [[WALK_AWAY]]
+
+CRITICAL RULES:
+- X + Y must equal ${pot_size}M
+- Always use the exact bracket format shown above
+- You may include reasoning BEFORE your bracketed action
+- Only text in [[...]] is your official action
+- Do NOT accept deals below $35M (severe utility penalty)
+
+COMMUNICATION:
+- The other party cannot see your internal reasoning
+- Only the text inside [[...]] is communicated to them
+"""
+
+
+# Dictionary of available system prompts by framing type
+SYSTEM_PROMPTS = {
+    None: MASTER_SYSTEM_PROMPT,           # Default: senior executive
+    "senior": MASTER_SYSTEM_PROMPT,        # Explicit senior
+    "junior_vp": JUNIOR_VP_SYSTEM_PROMPT,  # Junior VP framing
+}
+
+
+def get_framed_system_prompt(framing: Optional[str], role: str, pot_size: float = 100, max_rounds: int = 10) -> str:
+    """Get system prompt with appropriate framing.
+    
+    Args:
+        framing: Framing type (None, "senior", "junior_vp")
+        role: The role name (e.g., "Your Company")
+        pot_size: Pot size in millions
+        max_rounds: Maximum negotiation rounds
+    
+    Returns:
+        Formatted system prompt string
+    """
+    template = SYSTEM_PROMPTS.get(framing, MASTER_SYSTEM_PROMPT)
+    return template.format(role=role, pot_size=pot_size, max_rounds=max_rounds)
 
 PERSONAS: Dict[str, Dict[str, Any]] = {
     "sycophantic": {

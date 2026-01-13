@@ -1,0 +1,2288 @@
+{
+  "metadata": {
+    "dataset": "enron",
+    "model": "claude-opus-4-5-20251101",
+    "mode": "batch",
+    "total_entries": 20,
+    "timestamp": "2025-12-14T16:08:21.369592"
+  },
+  "statistics": {
+    "total_analyzed": 20,
+    "timestamp": "2025-12-14T16:08:21.369523",
+    "sycophancy_scores": {
+      "mean": 4.585,
+      "std": 0.6605111656891199,
+      "min": 2.5,
+      "max": 5.2
+    },
+    "word_counts": {
+      "mean": 146.55,
+      "total": 2931
+    },
+    "category_counts": {
+      "apology": {
+        "total": 2,
+        "mean_per_entry": 0.1,
+        "per_1k_words": 0.6823609689525759
+      },
+      "deference": {
+        "total": 4,
+        "mean_per_entry": 0.2,
+        "per_1k_words": 1.3647219379051518
+      },
+      "hedging": {
+        "total": 10,
+        "mean_per_entry": 0.5,
+        "per_1k_words": 3.4118048447628797
+      },
+      "flattery": {
+        "total": 1,
+        "mean_per_entry": 0.05,
+        "per_1k_words": 0.34118048447628796
+      },
+      "validation": {
+        "total": 6,
+        "mean_per_entry": 0.3,
+        "per_1k_words": 2.0470829068577276
+      }
+    }
+  },
+  "results": [
+    {
+      "sycophancy_score": 4.8,
+      "key_indicators": [
+        "Great News!",
+        "Congrats to you both",
+        "Love Lynne and Mike"
+      ],
+      "categories": {
+        "apology_count": 0,
+        "deference_count": 0,
+        "hedging_count": 0,
+        "flattery_count": 0,
+        "validation_count": 1
+      },
+      "context": "social",
+      "explanation": "This is a brief, warm congratulatory response to a birth announcement. The language is appropriately friendly and celebratory for a social/personal context, with normal expressions of goodwill ('Congrats', 'Love') that are standard for this type of communication rather than sycophantic.",
+      "_entry_id": "0_dasovich-j_notes_inbox_3041_",
+      "_model": "claude-opus-4-5-20251101",
+      "_word_count": 198,
+      "_from_email": "michklin@wincom.net",
+      "_from_name": "Mike Klinck",
+      "_to_emails": [
+        "zeichick@camdenassociates.com",
+        "chris@baypartners.co",
+        "jcinquini@x.com",
+        "jdasovic@enron.com",
+        "lance_scudder@amat.com",
+        "leefeld@neca.com",
+        "tesyl@eudoramail.com",
+        "jhamburger@luminous.com",
+        "tedchin@hotmail.com",
+        "tsmith@lafayetteparkhotel.com",
+        "tgalvin@cisco.com",
+        "crystin@itsa.ucsf.edu",
+        "crystinemlee@aol.com",
+        "magner@haas.berkeley.edu",
+        "aaron.mendelson@csfb.com",
+        "michael@eeg.com",
+        "cvavrek@deloitte.com",
+        "adam@juniper.net",
+        "kdurr@juniper.net",
+        "greg@networkice.com",
+        "celina@networkice.com",
+        "gary@brightlink.com",
+        "ssmith@redback.com",
+        "mweiner@redback.com",
+        "djseverin@valiantnet.com",
+        "suzanne.panpoplos@cosinecom.com",
+        "cmccaferty@cosinecom.com",
+        "main@arpartners.com",
+        "kelly_malcolm@hotmail.com",
+        "klinckbreault@sympatico.ca",
+        "barcra@sympatico.ca",
+        "vklinck@netcom.ca",
+        "vivianklinck@hotmail.com",
+        "bernath@casinowindsor.com",
+        "vgebrael@hotmail.com",
+        "klinck@sympatico.ca",
+        "boo@netcom.ca",
+        "tklinck@osler.com",
+        "klinck@techmarksoftware.com",
+        "shanaireland@earthlink.net",
+        "jlelovic@insystems.com",
+        "chaulk@vtechworld.com",
+        "jklinck@wincom.net",
+        "mklinck@tor.stikeman.com",
+        "belshep@juno.com",
+        "liz@tczb-law.com",
+        "nsell@home.com",
+        "reneem@gene.com",
+        "tanny@surfnetusa.com",
+        "amanda.mark@msdw.com",
+        "bmcnabb@pacificnetsoft.com",
+        "mark@thebinghamgroup.com",
+        "kkupiecki@arpartners.com"
+      ],
+      "_subject": "Re: Vivienne Anne Kupiecki, May 19, 2001",
+      "_from_title_info": {},
+      "_to_title_infos": [
+        {},
+        {
+          "canonical_name": "Calger, Christopher",
+          "title": "Vice President",
+          "department": "Enron North America / Tech Services",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "canonical_name": "Etringer, Michael",
+          "title": "Trader",
+          "department": "Enron North America (Gas)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {},
+        {
+          "canonical_name": "Whalley, Greg",
+          "title": "President / COO",
+          "department": "Enron Corp / Enron Global Markets",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "canonical_name": "Frevert, Mark",
+          "title": "Chairman & CEO",
+          "department": "Enron Wholesale",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {}
+      ]
+    },
+    {
+      "sycophancy_score": 3.5,
+      "key_indicators": [
+        "I am very sorry we have come to this",
+        "I have already contacted law firms in Brazil and Houston to evaluate my options for enforcing my contractual rights",
+        "This course of action is not what I want",
+        "out of respect for Enron and Mr Lay",
+        "Please let me know immediately",
+        "please acknowledge receipt of this email",
+        "once more thank you for trying to resolve this with me"
+      ],
+      "categories": {
+        "apology_count": 1,
+        "deference_count": 2,
+        "hedging_count": 1,
+        "flattery_count": 0,
+        "validation_count": 1
+      },
+      "context": "negotiation",
+      "explanation": "The sender firmly advocates for their contractual rights with clear legal escalation threats while maintaining professional courtesy. One apology and some deference ('out of respect') are present, but these don't undermine the assertive position - the sender is clearly pursuing enforcement of payment owed.",
+      "_entry_id": "1_cash-m_inbox_338_",
+      "_model": "claude-opus-4-5-20251101",
+      "_word_count": 193,
+      "_from_email": "diomedes@cumulouscapital.com",
+      "_from_name": "Diomedes Christodoulou",
+      "_to_emails": [
+        "pam.butler@enron.com",
+        "michelle.cash@enron.com",
+        "mary.joyce@enron.com"
+      ],
+      "_subject": "ECI Payment",
+      "_from_title_info": {},
+      "_to_title_infos": [
+        {},
+        {
+          "canonical_name": "Cash, Michelle",
+          "title": "Senior Counsel (Labor/Employment)",
+          "department": "Enron North America (Legal)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {}
+      ]
+    },
+    {
+      "sycophancy_score": 2.5,
+      "key_indicators": [
+        "Critical Migration Information",
+        "You need to press",
+        "You must be connected",
+        "please select TRUST SIGNER",
+        "Failure to click on the button means you WILL NOT get",
+        "could result in up to a 2 week delay"
+      ],
+      "categories": {
+        "apology_count": 0,
+        "deference_count": 0,
+        "hedging_count": 0,
+        "flattery_count": 0,
+        "validation_count": 0
+      },
+      "context": "directive",
+      "explanation": "This is a technical IT directive with commanding, instructional language. Uses imperative tone ('You need to', 'You must') and emphasizes consequences with capitalized warnings. Single 'please' is minimal courtesy. No deference, apologies, or hedging - purely assertive communication typical of IT system notifications.",
+      "_entry_id": "2_keavey-p_all_documents_361_",
+      "_model": "claude-opus-4-5-20251101",
+      "_word_count": 171,
+      "_from_email": "outlook.team@enron.com",
+      "_from_name": "",
+      "_to_emails": [
+        "ann.vaughn@enron.com",
+        "wilson.barbee@enron.com",
+        "estalee.russi@enron.com",
+        "felicia.beal@enron.com",
+        "fran.fagan@enron.com",
+        "gary.smith@enron.com",
+        "jerry.harkreader@enron.com",
+        "john.anderson@enron.com",
+        "jorge.olivares@enron.com",
+        "kristin.passmore@enron.com",
+        "leesa.hutcherson@enron.com",
+        "michele.denby@enron.com",
+        "miranda.southard@enron.com",
+        "renee.pena@enron.com",
+        "rita.houston@enron.com",
+        "roger.sumlin@enron.com",
+        "wilford.dodd@enron.com",
+        "william.keeney@enron.com",
+        "brad.alford@enron.com",
+        "bruce.golden@enron.com",
+        "bryan.williams@enron.com",
+        "carl.tricoli@enron.com",
+        "christopher.coffman@enron.com",
+        "chu.wang@enron.com",
+        "charles.ward@enron.com",
+        "w.duran@enron.com",
+        "david.marks@enron.com",
+        "eric.rhodes@enron.com",
+        "farouk.lalji@enron.com",
+        "george.schaefer@enron.com",
+        "greg.blair@enron.com",
+        "greg.martin@enron.com",
+        "jeff.hoover@enron.com",
+        "john.moore@enron.com",
+        "lisa.zarsky@enron.com",
+        "mario.alonso@enron.com",
+        "michael.miller@enron.com",
+        "mitch.robinson@enron.com",
+        "naveed.ahmed@enron.com",
+        "paulita.olvera@enron.com",
+        "tina.holcombe@enron.com",
+        "tina.rode@enron.com",
+        "tosha.henderson@enron.com",
+        "andrea.ring@enron.com",
+        "brad.mckay@enron.com",
+        "chris.germany@enron.com",
+        "judy.townsend@enron.com",
+        "kimberly.bates@enron.com",
+        "peter.keavey@enron.com",
+        "sandra.brawner@enron.com",
+        "scott.goodell@enron.com",
+        "scott.neal@enron.com",
+        "sean.boyle@enron.com",
+        "susan.pereira@enron.com",
+        "victoria.versen@enron.com",
+        "vladi.pimenov@enron.com",
+        "derek.anderson@enron.com",
+        "susan.huston@enron.com",
+        "burak.hurbas@enron.com",
+        "colin.crowley@enron.com",
+        "lisa.rizzo@enron.com",
+        "richard.johnson@enron.com",
+        "sandra.torres@enron.com",
+        "angela.stie@enron.com",
+        "armando.lira@enron.com",
+        "audry.o'toole@enron.com",
+        "beverly.filer@enron.com",
+        "helen.jeschke@enron.com",
+        "john.harrison@enron.com",
+        "kristi.louthan@enron.com",
+        "michael.philips@enron.com",
+        "peggy.rathmell@enron.com",
+        "robert.jr@enron.com",
+        "shannon.cobb@enron.com",
+        "sharon.stringfellow@enron.com",
+        "valarie.curry@enron.com"
+      ],
+      "_subject": "3 - URGENT - TO PREVENT LOSS OF INFORMATION",
+      "_from_title_info": {},
+      "_to_title_infos": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "canonical_name": "Ring, Andrea",
+          "title": "Analyst / Trader",
+          "department": "Enron North America (Gas)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "McKay, Brad",
+          "title": "Trader",
+          "department": "Enron North America",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Germany, Chris",
+          "title": "Specialist / Capacity Trader",
+          "department": "Enron North America (Gas Trading)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Townsend, Judy",
+          "title": "Employee",
+          "department": "Enron North America",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Keavey, Peter F.",
+          "title": "Director / Trader",
+          "department": "Enron North America",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Brawner, Sandra",
+          "title": "Trader / Director",
+          "department": "Enron North America (ENA)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Goodell, Scott",
+          "title": "Director / Trader",
+          "department": "Enron North America (Gas)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Neal, Scott",
+          "title": "Vice President",
+          "department": "Enron North America (Gas Trading)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Versen, Victoria",
+          "title": "Trader / Originator",
+          "department": "Enron North America (Gas)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "sycophancy_score": 4.2,
+      "key_indicators": [
+        "I assume it will not be a problem",
+        "if you could just make sure",
+        "it would be greatly appreciated",
+        "please let me know if there is a problem",
+        "Thanks"
+      ],
+      "categories": {
+        "apology_count": 0,
+        "deference_count": 1,
+        "hedging_count": 1,
+        "flattery_count": 0,
+        "validation_count": 0
+      },
+      "context": "request",
+      "explanation": "This is a straightforward time-off request that leans slightly assertive. The sender assumes approval ('I assume it will not be a problem'), states they're booking tickets tomorrow (creating urgency/pressure), while using standard workplace courtesy. The directness of announcing the decision before full approval balances out the polite hedging.",
+      "_entry_id": "3_guzman-m_discussion_threads_798_",
+      "_model": "claude-opus-4-5-20251101",
+      "_word_count": 95,
+      "_from_email": "mark.guzman@enron.com",
+      "_from_name": "",
+      "_to_emails": [
+        "bill.iii@enron.com"
+      ],
+      "_subject": "Time off",
+      "_from_title_info": {
+        "canonical_name": "Guzman, Mark",
+        "title": "Trader / Specialist",
+        "department": "Enron North America (West Power)",
+        "ambiguous_title": false,
+        "ambiguous_name": false
+      },
+      "_to_title_infos": [
+        {}
+      ]
+    },
+    {
+      "sycophancy_score": 5.2,
+      "key_indicators": [
+        "We hope your experience with the Clickathome ordering website and vendors has been exciting and fun for you!",
+        "Your feedback is critical to the success of this program",
+        "Please take a few minutes",
+        "Thanks"
+      ],
+      "categories": {
+        "apology_count": 0,
+        "deference_count": 0,
+        "hedging_count": 0,
+        "flattery_count": 1,
+        "validation_count": 1
+      },
+      "context": "request",
+      "explanation": "Standard internal survey request email with typical corporate enthusiasm language ('exciting and fun') and mild flattery emphasizing the recipient's importance ('critical to success'). The tone is professional and appropriately polite without being deferential or apologetic.",
+      "_entry_id": "4_griffith-j_all_documents_327_",
+      "_model": "claude-opus-4-5-20251101",
+      "_word_count": 70,
+      "_from_email": "clickathome@enron.com",
+      "_from_name": "ClickAtHome@enron.com",
+      "_to_emails": [
+        "john.griffith@enron.com"
+      ],
+      "_subject": "ClickAtHome Internet Survey",
+      "_from_title_info": {},
+      "_to_title_infos": [
+        {
+          "canonical_name": "Griffith, John",
+          "title": "Manager (Gas Financial Trading)",
+          "department": "Enron North America (Gas Financial)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        }
+      ]
+    },
+    {
+      "sycophancy_score": 4.8,
+      "key_indicators": [
+        "For anyone who hasn't seen it already",
+        "Best,"
+      ],
+      "categories": {
+        "apology_count": 0,
+        "deference_count": 0,
+        "hedging_count": 1,
+        "flattery_count": 0,
+        "validation_count": 0
+      },
+      "context": "update",
+      "explanation": "This is a straightforward informational email sharing a regulatory document with colleagues. The tone is neutral and professional with minimal hedging ('for anyone who hasn't seen it'), standard closing, and factual content delivery without excessive politeness or deference.",
+      "_entry_id": "5_dasovich-j_sent_items_242_",
+      "_model": "claude-opus-4-5-20251101",
+      "_word_count": 40,
+      "_from_email": "jeff.dasovich@enron.com",
+      "_from_name": "",
+      "_to_emails": [
+        "j..kean@enron.com",
+        "tim.belden@enron.com",
+        "vicki.sharp@enron.com",
+        "jeremy.blachman@enron.com",
+        "alan.comnes@enron.com",
+        "michael.tribolet@enron.com",
+        "kristin.walsh@enron.com",
+        "david.delainey@enron.com",
+        "dan.leff@enron.com",
+        "lamar.frazier@enron.com",
+        "kevin.keeney@enron.com",
+        "scott.gahn@enron.com",
+        "steve.swain@enron.com",
+        "john.lavorato@enron.com",
+        "paul.kaufman@enron.com",
+        "d..steffes@enron.com",
+        "f..calger@enron.com",
+        "susan.mara@enron.com",
+        "don.black@enron.com",
+        "jeff.richter@enron.com",
+        "louise.kitchen@enron.com",
+        "janet.dietrich@enron.com",
+        "susan.mara@enron.com",
+        "linda.robertson@enron.com",
+        "harry.kingerski@enron.com",
+        "karen.denne@enron.com",
+        ".palmer@enron.com",
+        "richard.shapiro@enron.com",
+        "wanda.curry@enron.com",
+        "lisa.mellencamp@enron.com",
+        "kelly.higgason@enron.com",
+        "greg.whalley@enron.com"
+      ],
+      "_subject": "Electronic version of California PUC Interim Opinion suspending Direct Access--Includes strong dissent by two commissioners",
+      "_from_title_info": {
+        "canonical_name": "Dasovich, Jeff",
+        "title": "Director (State Government Affairs)",
+        "department": "Government & Regulatory Affairs (California)",
+        "ambiguous_title": false,
+        "ambiguous_name": false
+      },
+      "_to_title_infos": [
+        {},
+        {
+          "canonical_name": "Belden, Tim",
+          "title": "Managing Director",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Blachman, Jeremy",
+          "title": "Director / VP",
+          "department": "Enron North America",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Comnes, Alan",
+          "title": "Director (Government Affairs West)",
+          "department": "Government Affairs (West)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Tribolet, Michael",
+          "title": "Director / Manager (Regulatory Risk)",
+          "department": "ENA Risk / Govt Affairs",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Delainey, David",
+          "title": "CEO",
+          "department": "Enron North America / Enron Energy Services",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Leff, Dan",
+          "title": "President & CEO (Global)",
+          "department": "Enron Energy Services",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Gahn, Scott",
+          "title": "Executive",
+          "department": "Enron Energy Services (EES)",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Lavorato, John",
+          "title": "CEO (Enron America)",
+          "department": "Enron America (Wholesale)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Kaufman, Paul",
+          "title": "Director (Government Affairs)",
+          "department": "Government Affairs (Portland)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Mara, Susan",
+          "title": "Director (Regulatory Affairs)",
+          "department": "Government & Regulatory Affairs (California)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Richter, Jeff",
+          "title": "Manager (Cash Trading)",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Kitchen, Louise",
+          "title": "President",
+          "department": "EnronOnline (EOL)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Dietrich, Janet",
+          "title": "President",
+          "department": "Enron Energy Services",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Mara, Susan",
+          "title": "Director (Regulatory Affairs)",
+          "department": "Government & Regulatory Affairs (California)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Robertson, Linda",
+          "title": "Vice President (Federal Government Affairs)",
+          "department": "Federal Government Affairs",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Kingerski, Harry",
+          "title": "Director",
+          "department": "Regulatory Affairs (Retail/East)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Denne, Karen",
+          "title": "Vice President",
+          "department": "Corporate Communications",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Shapiro, Richard",
+          "title": "Vice President (Regulatory Affairs)",
+          "department": "Regulatory Affairs",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Curry, Wanda",
+          "title": "Chief Accounting Officer",
+          "department": "ENA / EES",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Mellencamp, Lisa",
+          "title": "Vice President & Deputy General Counsel",
+          "department": "Enron Legal Department",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Whalley, Greg",
+          "title": "President / COO",
+          "department": "Enron Corp / Enron Global Markets",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        }
+      ]
+    },
+    {
+      "sycophancy_score": 5.0,
+      "key_indicators": [
+        "We need some clarity to this order",
+        "Generators need to be held accountable",
+        "No one's going to pay for transmission if the cost is near the caps",
+        "This means individual regions like California or Las Vegas could end up not having enough",
+        "California sneezed and the rest of the region caught the virus",
+        "The generators have banks of lawyers looking for loopholes",
+        "We're looking very closely at this",
+        "There seems to be a potential for unintended consequences"
+      ],
+      "categories": {
+        "apology_count": 0,
+        "deference_count": 0,
+        "hedging_count": 2,
+        "flattery_count": 0,
+        "validation_count": 0
+      },
+      "context": "other",
+      "explanation": "This is a news article forwarded via email, not interpersonal business communication. The journalistic tone is neutral and informational, quoting various officials and industry representatives who speak directly and assertively about policy issues without sycophantic language.",
+      "_entry_id": "6_dasovich-j_notes_inbox_12190_",
+      "_model": "claude-opus-4-5-20251101",
+      "_word_count": 778,
+      "_from_email": "alan.comnes@enron.com",
+      "_from_name": "",
+      "_to_emails": [
+        "tom.alonso@enron.com",
+        "ray.alvarez@enron.com",
+        "robert.badeer@enron.com",
+        "tim.belden@enron.com",
+        "christopher.calger@enron.com",
+        "paul.choi@enron.com",
+        "jeff.dasovich@enron.com",
+        "michael.driscoll@enron.com",
+        "mark.fischer@enron.com",
+        "chris.foster@enron.com",
+        "mark.guzman@enron.com",
+        "steve.hall@enron.com",
+        "tim.heizenrader@enron.com",
+        "paul.kaufman@enron.com",
+        "holli.krebs@enron.com",
+        "elliot.mainzer@enron.com",
+        "chris.mallory@enron.com",
+        "john.malowney@enron.com",
+        "susan.mara@enron.com",
+        "matt.motley@enron.com",
+        "dave.perrino@enron.com",
+        "phillip.platter@enron.com",
+        "jeff.richter@enron.com",
+        "stewart.rosman@enron.com",
+        "diana.scholtes@enron.com",
+        "chris.stokley@enron.com",
+        "stephen.swain@enron.com",
+        "mike.swerzbin@enron.com",
+        "kate.symes@enron.com",
+        "bill.iii@enron.com",
+        "greg.wolfe@enron.com"
+      ],
+      "_subject": "Federal price limits backfire",
+      "_from_title_info": {
+        "canonical_name": "Comnes, Alan",
+        "title": "Director (Government Affairs West)",
+        "department": "Government Affairs (West)",
+        "ambiguous_title": false,
+        "ambiguous_name": false
+      },
+      "_to_title_infos": [
+        {},
+        {
+          "canonical_name": "Alvarez, Ray",
+          "title": "Director (International)",
+          "department": "Global Government Affairs",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Badeer, Robert",
+          "title": "Trader / Scheduler",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Belden, Tim",
+          "title": "Managing Director",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Calger, Christopher",
+          "title": "Vice President",
+          "department": "Enron North America / Tech Services",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Choi, Paul",
+          "title": "Director / Manager",
+          "department": "Enron Corp",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Dasovich, Jeff",
+          "title": "Director (State Government Affairs)",
+          "department": "Government & Regulatory Affairs (California)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Foster, Chris",
+          "title": "Director",
+          "department": "Enron North America / EnPower",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Guzman, Mark",
+          "title": "Trader / Specialist",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Kaufman, Paul",
+          "title": "Director (Government Affairs)",
+          "department": "Government Affairs (Portland)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Mallory, Chris",
+          "title": "Real-time Trader",
+          "department": "ENA (West/California)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Mara, Susan",
+          "title": "Director (Regulatory Affairs)",
+          "department": "Government & Regulatory Affairs (California)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Motley, Matt",
+          "title": "Director / Manager (Term)",
+          "department": "ENA (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Perrino, Dave",
+          "title": "Employee",
+          "department": "Government Affairs",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Platter, Phillip",
+          "title": "Senior Specialist (Cash Trader)",
+          "department": "ENA (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Richter, Jeff",
+          "title": "Manager (Cash Trading)",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Rosman, Stewart",
+          "title": "Director (West Power)",
+          "department": "Enron North America (ENA)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Scholtes, Diana",
+          "title": "Manager / Trader",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Swerzbin, Mike",
+          "title": "Vice President (Trading)",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Symes, Kate",
+          "title": "Trader / Broker",
+          "department": "ENA (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Wolfe, Greg",
+          "title": "Vice President",
+          "department": "Enron North America (Service Desk)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        }
+      ]
+    },
+    {
+      "sycophancy_score": 3.5,
+      "key_indicators": [
+        "You asked, you received",
+        "Ask, and thall shall receive",
+        "You may want to put the turd in his pocket",
+        "Sorry. Here are the budget documents",
+        "Be thankful I didn't send you the budget from 1998",
+        "need budget, baby"
+      ],
+      "categories": {
+        "apology_count": 1,
+        "deference_count": 0,
+        "hedging_count": 0,
+        "flattery_count": 0,
+        "validation_count": 0
+      },
+      "context": "request",
+      "explanation": "This is a casual, collegial exchange between coworkers with informal language ('baby', 'put the turd in his pocket'). The single 'Sorry' is perfunctory rather than deferential, and the overall tone is direct and assertive with playful banter, showing confident peer-to-peer communication.",
+      "_entry_id": "7_dasovich-j_deleted_items_1523_",
+      "_model": "claude-opus-4-5-20251101",
+      "_word_count": 320,
+      "_from_email": "paul.kaufman@enron.com",
+      "_from_name": "",
+      "_to_emails": [
+        "jeff.dasovich@enron.com"
+      ],
+      "_subject": "RE:",
+      "_from_title_info": {
+        "canonical_name": "Kaufman, Paul",
+        "title": "Director (Government Affairs)",
+        "department": "Government Affairs (Portland)",
+        "ambiguous_title": false,
+        "ambiguous_name": false
+      },
+      "_to_title_infos": [
+        {
+          "canonical_name": "Dasovich, Jeff",
+          "title": "Director (State Government Affairs)",
+          "department": "Government & Regulatory Affairs (California)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        }
+      ]
+    },
+    {
+      "sycophancy_score": 4.8,
+      "key_indicators": [
+        "Please call with any questions.",
+        "Thanks,",
+        "You may want to",
+        "Or maybe"
+      ],
+      "categories": {
+        "apology_count": 0,
+        "deference_count": 0,
+        "hedging_count": 2,
+        "flattery_count": 0,
+        "validation_count": 0
+      },
+      "context": "update",
+      "explanation": "This is a straightforward operational update email providing factual information about a power purchase. The tone is direct and informational with minimal hedging ('You may want to', 'Or maybe'), standard professional closing ('Thanks'), and an appropriate offer for follow-up questions - all normal business communication markers.",
+      "_entry_id": "8_salisbury-h_read_287_",
+      "_model": "claude-opus-4-5-20251101",
+      "_word_count": 135,
+      "_from_email": "bill.iii@enron.com",
+      "_from_name": "Bill Williams III",
+      "_to_emails": [
+        "portland.shift@enron.com"
+      ],
+      "_subject": "Length from APX",
+      "_from_title_info": {},
+      "_to_title_infos": [
+        {}
+      ]
+    },
+    {
+      "sycophancy_score": 5.0,
+      "key_indicators": [],
+      "categories": {
+        "apology_count": 0,
+        "deference_count": 0,
+        "hedging_count": 0,
+        "flattery_count": 0,
+        "validation_count": 0
+      },
+      "context": "update",
+      "explanation": "This is a purely factual, neutral status update about document receipt and processing. It contains no emotional language, persuasion attempts, or interpersonal dynamics\u2014just straightforward administrative communication.",
+      "_entry_id": "9_causholli-m_deleted_items_604_",
+      "_model": "claude-opus-4-5-20251101",
+      "_word_count": 24,
+      "_from_email": "l..denton@enron.com",
+      "_from_name": "",
+      "_to_emails": [
+        "andrea.dahlke@enron.com",
+        "casey.evans@enron.com",
+        "paul.lewis@enron.com",
+        "steve.gim@enron.com",
+        "wendy.conwell@enron.com",
+        "mark.confer@enron.com",
+        "benjamin.rogers@enron.com",
+        "s..theriot@enron.com",
+        "ann.murphy@enron.com",
+        "russell.ballato@enron.com",
+        "richard.broussard@enron.com",
+        "chris.dorland@enron.com",
+        "gautam.gupta@enron.com",
+        "patrick.hanse@enron.com",
+        "marcus.nettelton@enron.com",
+        "john.llodra@enron.com",
+        "mitch.robinson@enron.com",
+        "paul.schiavone@enron.com",
+        "j..sturm@enron.com",
+        "clayton.vernon@enron.com",
+        "kerri.thompson@enron.com",
+        "evelyn.metoyer@enron.com",
+        "diana.scholtes@enron.com",
+        "tom.alonso@enron.com",
+        "mark.fischer@enron.com",
+        "chris.mallory@enron.com",
+        "beau.ratliff@enron.com",
+        "lex.carroll@enron.com",
+        "e..kelly@enron.com",
+        "howard.marshall@enron.com",
+        "susan.rance@enron.com",
+        "kortney.brown@enron.com",
+        "matt.motley@enron.com",
+        "lester.rawson@enron.com",
+        "holden.salisbury@enron.com",
+        "leaf.harasin@enron.com",
+        "geir.solberg@enron.com",
+        "ryan.slinger@enron.com",
+        "v..porter@enron.com",
+        "monika.causholli@enron.com",
+        "bill.williams@enron.com",
+        "lisa.brown@enron.com",
+        "gwendolyn.williams@enron.com",
+        "paul.radous@enron.com",
+        ".williams@enron.com",
+        "billy.braddock@enron.com",
+        "m..forney@enron.com",
+        "k..ratnala@enron.com",
+        "michael.jacobson@enron.com",
+        "m..grace@enron.com",
+        "paul.sims@enron.com",
+        ".hall@enron.com",
+        "amy.smith@enron.com",
+        "vivien.pham@enron.com",
+        "hai.chen@enron.com",
+        "s..landry@enron.com",
+        "harlan.murphy@enron.com",
+        "carol.st.@enron.com",
+        "travis.mccullough@enron.com",
+        "kay.mann@enron.com",
+        "karen.o'day@enron.com",
+        "tim.belden@enron.com",
+        "christian.yoder@enron.com",
+        "dana.davis@enron.com",
+        "genia.fitzgerald@enron.com",
+        "l..nicolay@enron.com",
+        "leslie.reeves@enron.com",
+        "gretchen.lotz@enron.com",
+        "dean.laurent@enron.com",
+        "cara.semperger@enron.com",
+        "m..king@enron.com",
+        "mike.swerzbin@enron.com",
+        "michael.etringer@enron.com",
+        "john.malowney@enron.com",
+        "elizabeth.sager@enron.com",
+        "corry.bentley@enron.com",
+        "matt.lorenz@enron.com",
+        "a..allen@enron.com",
+        "david.portz@enron.com",
+        "sharen.cason@enron.com",
+        "veronica.gonzalez@enron.com",
+        "kimberly.indelicato@enron.com",
+        "s..bradford@enron.com",
+        "r..brackett@enron.com",
+        "brant.reves@enron.com",
+        "russell.diamond@enron.com",
+        "tanya.rohauer@enron.com",
+        "roderick.nelson@enron.com",
+        "stephanie.piwetz@enron.com",
+        "tom.moran@enron.com",
+        "leslie.hansen@enron.com",
+        "stewart.rosman@enron.com",
+        "paul.choi@enron.com",
+        "h..foster@enron.com",
+        "sean.crandall@enron.com",
+        "jeff.richter@enron.com",
+        "phillip.platter@enron.com",
+        "l..day@enron.com",
+        "robert.badeer@enron.com",
+        "d..baughman@enron.com",
+        "kayne.coulter@enron.com",
+        "john.kinser@enron.com",
+        "robert.benson@enron.com",
+        "larry.valderrama@enron.com",
+        "j..broderick@enron.com",
+        "edward.sacks@enron.com",
+        "h..moore@enron.com",
+        "m..presto@enron.com",
+        "jesse.bryson@enron.com",
+        "stanley.cocke@enron.com",
+        "m..driscoll@enron.com",
+        "doug.gilbert-smith@enron.com",
+        "kimberly.hundl@enron.com",
+        "elsie.lew@enron.com",
+        "amy.clemons@enron.com",
+        "kim.durham@enron.com",
+        "rhonda.robinson@enron.com",
+        "rudy.acevedo@enron.com",
+        "don.baughman@enron.com",
+        "lisa.burnett@enron.com",
+        "f..campbell@enron.com",
+        "mike.carson@enron.com",
+        "jason.choate@enron.com",
+        "kevin.cline@enron.com",
+        "terri.clynes@enron.com",
+        "keith.comeaux@enron.com",
+        "mike.curry@enron.com",
+        "oscar.dalton@enron.com",
+        "clint.dean@enron.com",
+        "todd.decook@enron.com",
+        "joe.errigo@enron.com",
+        "l..garcia@enron.com",
+        "gerald.gilbert@enron.com",
+        "alton.jackson@enron.com",
+        "larry.jester@enron.com",
+        "g.kelly@enron.com",
+        "jeff.king@enron.com",
+        "madhup.kumar@enron.com",
+        "justin.laverell@enron.com",
+        "chris.lenartowicz@enron.com",
+        "peter.makkai@enron.com",
+        "tom.may@enron.com",
+        "jeffrey.miller@enron.com",
+        "narsimha.misra@enron.com",
+        "steve.olinde@enron.com",
+        "andy.pace@enron.com",
+        "juan.padron@enron.com",
+        "joseph.piotrowski@enron.com",
+        "bill.rust@enron.com",
+        "david.ryan@enron.com",
+        "eric.saibi@enron.com",
+        "zachary.sampson@enron.com",
+        "anna.santucci@enron.com",
+        "erik.serio@enron.com",
+        "doug.sewell@enron.com",
+        "robert.stalford@enron.com",
+        "joe.stepenovitch@enron.com",
+        "mark.symms@enron.com",
+        "d..thomas@enron.com",
+        "maria.valdes@enron.com",
+        "lloyd.will@enron.com",
+        "george.wood@enron.com",
+        "alex.wong@enron.com",
+        "tracy.ngo@enron.com",
+        "karen.lambert@enron.com",
+        "fran.chang@enron.com",
+        "kate.symes@enron.com",
+        "kysa.alport@enron.com",
+        "w..white@enron.com",
+        "john.suarez@enron.com"
+      ],
+      "_subject": "California Department of Water Resources",
+      "_from_title_info": {},
+      "_to_title_infos": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "canonical_name": "Rogers, Benjamin",
+          "title": "Vice President / Associate",
+          "department": "Enron North America (Power Gen)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Ballato, Russell",
+          "title": "Trader",
+          "department": "Enron North America",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Gupta, Gautam",
+          "title": "Associate / Manager",
+          "department": "Enron North America (Research)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Hanse, Patrick",
+          "title": "Manager / Trader",
+          "department": "Enron North America (Gas)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {},
+        {
+          "canonical_name": "Schiavone, Paul",
+          "title": "Employee",
+          "department": "Enron Corp",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Vernon, Clayton",
+          "title": "Employee",
+          "department": "Enron Corp",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Scholtes, Diana",
+          "title": "Manager / Trader",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Mallory, Chris",
+          "title": "Real-time Trader",
+          "department": "ENA (West/California)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "canonical_name": "Motley, Matt",
+          "title": "Director / Manager (Term)",
+          "department": "ENA (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Rawson, Lester",
+          "title": "Trader / Scheduler",
+          "department": "Enron North America (ENA)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Salisbury, Holden",
+          "title": "Cash Analyst / Trader",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Solberg, Geir",
+          "title": "Analyst / Specialist",
+          "department": "Enron North America (Trading Support)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Slinger, Ryan",
+          "title": "Trader / Scheduler",
+          "department": "Enron North America (West Desk)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Williams III, Bill",
+          "title": "Manager (Real-Time Trading)",
+          "department": "ENA (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "canonical_name": "McCullough, Travis",
+          "title": "Senior Counsel / Vice President",
+          "department": "Enron North America (Legal)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Belden, Tim",
+          "title": "Managing Director",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Davis, Dana",
+          "title": "Vice President",
+          "department": "Enron North America (Term Trading)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Fitzgerald, Genia",
+          "title": "Legal Specialist",
+          "department": "Enron Legal Department",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Reeves, Leslie",
+          "title": "Employee",
+          "department": "Enron North America (Accounting)",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Lotz, Gretchen",
+          "title": "Employee",
+          "department": "Enron Capital & Trade (ECT)",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Laurent, Dean",
+          "title": "President / VP",
+          "department": "Transwestern Pipeline / EBS",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Semperger, Cara",
+          "title": "Senior Analyst / Specialist",
+          "department": "ENA (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Swerzbin, Mike",
+          "title": "Vice President (Trading)",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Etringer, Michael",
+          "title": "Trader",
+          "department": "Enron North America (Gas)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Sager, Elizabeth",
+          "title": "Vice President & Assistant General Counsel",
+          "department": "ECT / ENA Legal",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Bentley, Corry",
+          "title": "Specialist / Scheduler",
+          "department": "Enron North America",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Lorenz, Matt",
+          "title": "Employee",
+          "department": "Enron Corp",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Portz, David",
+          "title": "Senior Counsel",
+          "department": "Enron Legal Department",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "canonical_name": "Diamond, Russell",
+          "title": "Employee",
+          "department": "Enron North America (ENA)",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Rohauer, Tanya",
+          "title": "Vice President",
+          "department": "Risk Management / Credit",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Moran, Tom",
+          "title": "Vice President",
+          "department": "Enron North America",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Hansen, Leslie",
+          "title": "Senior Counsel",
+          "department": "Enron North America (Legal)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Rosman, Stewart",
+          "title": "Director (West Power)",
+          "department": "Enron North America (ENA)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Choi, Paul",
+          "title": "Director / Manager",
+          "department": "Enron Corp",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Crandall, Sean",
+          "title": "Director (Northwest Trading)",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Richter, Jeff",
+          "title": "Manager (Cash Trading)",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Platter, Phillip",
+          "title": "Senior Specialist (Cash Trader)",
+          "department": "ENA (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Badeer, Robert",
+          "title": "Trader / Scheduler",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Coulter, Kayne",
+          "title": "Trader",
+          "department": "Enron North America (Gas)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Kinser, John",
+          "title": "Trader / Associate",
+          "department": "Enron North America (Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Benson, Robert",
+          "title": "Director (East Power)",
+          "department": "Enron North America (East Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Valderrama, Larry",
+          "title": "Manager",
+          "department": "Enron North America",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Sacks, Edward",
+          "title": "Director, Credit & Structuring",
+          "department": "ENA Risk Management",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Bryson, Jesse",
+          "title": "Manager / Trader (Real Time)",
+          "department": "ENA Real Time Trading / West Desk",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Gilbert-Smith, Doug",
+          "title": "Manager (Power Trading)",
+          "department": "Enron North America (Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "canonical_name": "Baughman, Don",
+          "title": "Trader",
+          "department": "Enron North America",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Burnett, Lisa",
+          "title": "Manager",
+          "department": "Enron North America (EHS)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Carson, Mike",
+          "title": "Trader",
+          "department": "Enron North America (West Desk)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Choate, Jason",
+          "title": "Trader",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Cline, Kevin",
+          "title": "Analyst / Trader",
+          "department": "ENA (ERCOT)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Clynes, Terri",
+          "title": "Director (Power Marketing)",
+          "department": "Enron North America (ENA)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Comeaux, Keith",
+          "title": "Standards Specialist / Logistics",
+          "department": "Enron Transportation Services (ETS)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Curry, Mike",
+          "title": "Director",
+          "department": "Enron Capital & Trade (ECT)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Dalton, Oscar",
+          "title": "Employee",
+          "department": "Enron North America (HOU/ECT)",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Dean, Clint",
+          "title": "Trader / Scheduler",
+          "department": "Enron North America (Gas)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Decook, Todd",
+          "title": "Employee",
+          "department": "Enron Corporate",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Errigo, Joe",
+          "title": "Scheduler / Logistics",
+          "department": "Enron North America",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Gilbert, Gerald",
+          "title": "Manager / Specialist",
+          "department": "Enron North America",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {},
+        {
+          "canonical_name": "King, Jeff",
+          "title": "Analyst",
+          "department": "Enron North America",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Lenartowicz, Chris",
+          "title": "Asset Manager / Operations",
+          "department": "Enron North America (ENA)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Makkai, Peter",
+          "title": "Trader",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "May, Tom",
+          "title": "Vice President",
+          "department": "Enron North America (Risk/West)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Miller, Jeffrey",
+          "title": "Employee / Trading Support",
+          "department": "Enron North America",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Misra, Narsimha",
+          "title": "Trader / Structurer",
+          "department": "Enron North America (ENA)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Olinde, Steve",
+          "title": "Manager / Specialist",
+          "department": "Enron North America",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Pace, Andy",
+          "title": "Analyst / Associate",
+          "department": "Enron North America (ENA)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Padron, Juan",
+          "title": "Collateral Analyst",
+          "department": "ENA Risk Management",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Rust, Bill",
+          "title": "Trader (East Desk)",
+          "department": "Enron North America (East Desk)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Ryan, David",
+          "title": "Employee",
+          "department": "Enron Corp (Corporate)",
+          "ambiguous_title": true,
+          "ambiguous_name": true
+        },
+        {
+          "canonical_name": "Saibi, Eric",
+          "title": "Trader",
+          "department": "Enron North America",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Serio, Erik",
+          "title": "Specialist",
+          "department": "Enron North America (ENA)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Sewell, Doug",
+          "title": "Trader / Credit Originator",
+          "department": "Enron Capital & Trade (ECT) / ENA",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Stalford, Robert",
+          "title": "Trader",
+          "department": "Enron North America (Gas)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Stepenovitch, Joe",
+          "title": "Trader",
+          "department": "Enron North America (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Symms, Mark",
+          "title": "Employee",
+          "department": "Enron Corp (IT/Intranet)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {
+          "canonical_name": "Valdes, Maria",
+          "title": "Specialist / Admin",
+          "department": "Enron North America",
+          "ambiguous_title": true,
+          "ambiguous_name": false
+        },
+        {
+          "canonical_name": "Will, Lloyd",
+          "title": "Specialist (Market Interface)",
+          "department": "ENA (ERCOT)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Ngo, Tracy",
+          "title": "Risk Management",
+          "department": "Enron North America",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Symes, Kate",
+          "title": "Trader / Broker",
+          "department": "ENA (West Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "sycophancy_score": 4.8,
+      "key_indicators": [
+        "Can you provide some insight?",
+        "Thanks.",
+        "it can be a challenge to learn what past practices were",
+        "I've have always recommended centralized administration",
+        "I don't know what past practices were",
+        "I would start with Cynthia's group which I view as the source and reference point"
+      ],
+      "categories": {
+        "apology_count": 0,
+        "deference_count": 1,
+        "hedging_count": 2,
+        "flattery_count": 0,
+        "validation_count": 0
+      },
+      "context": "request",
+      "explanation": "Standard professional information exchange. Michelle makes a simple request, Pat provides substantive guidance with appropriate hedging about knowledge limitations ('I don't know', 'it can be a challenge') while offering constructive direction. No excessive deference or flattery, just professional helpfulness.",
+      "_entry_id": "10_cash-m_sent_items_497_",
+      "_model": "claude-opus-4-5-20251101",
+      "_word_count": 191,
+      "_from_email": "michelle.cash@enron.com",
+      "_from_name": "",
+      "_to_emails": [
+        "cynthia.barrow@enron.com"
+      ],
+      "_subject": "FW: FW: Severance",
+      "_from_title_info": {
+        "canonical_name": "Cash, Michelle",
+        "title": "Senior Counsel (Labor/Employment)",
+        "department": "Enron North America (Legal)",
+        "ambiguous_title": false,
+        "ambiguous_name": false
+      },
+      "_to_title_infos": [
+        {}
+      ]
+    },
+    {
+      "sycophancy_score": 5.0,
+      "key_indicators": [],
+      "categories": {
+        "apology_count": 0,
+        "deference_count": 0,
+        "hedging_count": 0,
+        "flattery_count": 0,
+        "validation_count": 0
+      },
+      "context": "update",
+      "explanation": "This is an automated system notification about course materials being available. It contains neutral, informational language with no interpersonal communication markers - purely functional update with standard system-generated instructions.",
+      "_entry_id": "11_dasovich-j_inbox_1475_",
+      "_model": "claude-opus-4-5-20251101",
+      "_word_count": 86,
+      "_from_email": "izioautoemail@convene.com",
+      "_from_name": "",
+      "_to_emails": [
+        "dasovich@haas.berkeley.edu"
+      ],
+      "_subject": "E283-1: Real Estate Finance - New Handout Now Available",
+      "_from_title_info": {},
+      "_to_title_infos": [
+        {}
+      ]
+    },
+    {
+      "sycophancy_score": 5.0,
+      "key_indicators": [
+        "Have a good weekend!"
+      ],
+      "categories": {
+        "apology_count": 0,
+        "deference_count": 0,
+        "hedging_count": 0,
+        "flattery_count": 0,
+        "validation_count": 0
+      },
+      "context": "update",
+      "explanation": "This is a straightforward operational update with a standard friendly closing. The 'Have a good weekend!' is normal business courtesy, not sycophantic behavior. No deference, apology, or excessive validation present.",
+      "_entry_id": "12_germany-c_sent_items_760_",
+      "_model": "claude-opus-4-5-20251101",
+      "_word_count": 20,
+      "_from_email": "chris.germany@enron.com",
+      "_from_name": "",
+      "_to_emails": [
+        "jjtaylor@reliant.com"
+      ],
+      "_subject": "Updated gas flow and prepayment schedule",
+      "_from_title_info": {
+        "canonical_name": "Germany, Chris",
+        "title": "Specialist / Capacity Trader",
+        "department": "Enron North America (Gas Trading)",
+        "ambiguous_title": false,
+        "ambiguous_name": false
+      },
+      "_to_title_infos": [
+        {}
+      ]
+    },
+    {
+      "sycophancy_score": 4.8,
+      "key_indicators": [
+        "Thank you for your attention to this matter",
+        "If you have any questions or concerns please contact her"
+      ],
+      "categories": {
+        "apology_count": 0,
+        "deference_count": 0,
+        "hedging_count": 0,
+        "flattery_count": 0,
+        "validation_count": 1
+      },
+      "context": "update",
+      "explanation": "This is a straightforward operational notification about a voice mail outage. The language is neutral and informational with standard business courtesy ('Thank you for your attention'). No sycophancy markers present - just routine professional communication.",
+      "_entry_id": "13_guzman-m_all_documents_113_",
+      "_model": "claude-opus-4-5-20251101",
+      "_word_count": 53,
+      "_from_email": "mark.guzman@enron.com",
+      "_from_name": "",
+      "_to_emails": [
+        "portland.desk@enron.com"
+      ],
+      "_subject": "Voice Mail Outage 4/25-4/26",
+      "_from_title_info": {
+        "canonical_name": "Guzman, Mark",
+        "title": "Trader / Specialist",
+        "department": "Enron North America (West Power)",
+        "ambiguous_title": false,
+        "ambiguous_name": false
+      },
+      "_to_title_infos": [
+        {}
+      ]
+    },
+    {
+      "sycophancy_score": 4.5,
+      "key_indicators": [
+        "Please email or call me with your comments"
+      ],
+      "categories": {
+        "apology_count": 0,
+        "deference_count": 0,
+        "hedging_count": 0,
+        "flattery_count": 0,
+        "validation_count": 0
+      },
+      "context": "request",
+      "explanation": "This is a brief, professional request for feedback with a standard email signature. The 'Please' is standard business courtesy, not excessive deference. Slightly below balanced as it's a direct request without any validation of the recipient's position or diplomatic softening.",
+      "_entry_id": "14_whalley-g_inbox_51_",
+      "_model": "claude-opus-4-5-20251101",
+      "_word_count": 33,
+      "_from_email": "gay.mayeux@enron.com",
+      "_from_name": "",
+      "_to_emails": [
+        "mark.koenig@enron.com",
+        "richard.causey@enron.com",
+        "j..kean@enron.com",
+        "andrew.fastow@enron.com",
+        "ben.glisan@enron.com",
+        "tim.despain@enron.com",
+        "rex.rogers@enron.com",
+        "greg.whalley@enron.com",
+        "david.leboe@enron.com",
+        "amin.maredia@enron.com",
+        "lisa.gillette@enron.com"
+      ],
+      "_subject": "Conference Call Script - Draft",
+      "_from_title_info": {},
+      "_to_title_infos": [
+        {
+          "canonical_name": "Koenig, Mark",
+          "title": "EVP, Investor Relations",
+          "department": "Enron Investor Relations",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "canonical_name": "Whalley, Greg",
+          "title": "President / COO",
+          "department": "Enron Corp / Enron Global Markets",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        },
+        {},
+        {},
+        {
+          "canonical_name": "Gillette, Lisa",
+          "title": "Contract Admin / Operations",
+          "department": "Enron Capital & Trade (ECT)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        }
+      ]
+    },
+    {
+      "sycophancy_score": 4.8,
+      "key_indicators": [
+        "I would think so"
+      ],
+      "categories": {
+        "apology_count": 0,
+        "deference_count": 0,
+        "hedging_count": 1,
+        "flattery_count": 0,
+        "validation_count": 0
+      },
+      "context": "request",
+      "explanation": "A brief, direct inquiry suggesting additions to a distribution list. The phrase 'I would think so' shows slight hedging rather than stating directly, but overall this is a straightforward professional question with minimal excess politeness.",
+      "_entry_id": "15_cash-m_sent_206_",
+      "_model": "claude-opus-4-5-20251101",
+      "_word_count": 143,
+      "_from_email": "michelle.cash@enron.com",
+      "_from_name": "",
+      "_to_emails": [
+        "gerry.gibson@enron.com"
+      ],
+      "_subject": "Re: June 12 HR Leadership Team Meeting",
+      "_from_title_info": {
+        "canonical_name": "Cash, Michelle",
+        "title": "Senior Counsel (Labor/Employment)",
+        "department": "Enron North America (Legal)",
+        "ambiguous_title": false,
+        "ambiguous_name": false
+      },
+      "_to_title_infos": [
+        {}
+      ]
+    },
+    {
+      "sycophancy_score": 4.5,
+      "key_indicators": [
+        "I need",
+        "Thanks"
+      ],
+      "categories": {
+        "apology_count": 0,
+        "deference_count": 0,
+        "hedging_count": 0,
+        "flattery_count": 0,
+        "validation_count": 0
+      },
+      "context": "directive",
+      "explanation": "Direct, assertive request with clear specifications and minimal pleasantries. The email states a need without hedging or excessive politeness, using only a standard 'Thanks' closing which is normal business courtesy.",
+      "_entry_id": "16_germany-c_bankrupt_reliant_entex_1_",
+      "_model": "claude-opus-4-5-20251101",
+      "_word_count": 26,
+      "_from_email": "max.doner@enron.com",
+      "_from_name": "",
+      "_to_emails": [
+        "chris.germany@enron.com"
+      ],
+      "_subject": "Sitara change for Decmeber 2001",
+      "_from_title_info": {},
+      "_to_title_infos": [
+        {
+          "canonical_name": "Germany, Chris",
+          "title": "Specialist / Capacity Trader",
+          "department": "Enron North America (Gas Trading)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        }
+      ]
+    },
+    {
+      "sycophancy_score": 5.0,
+      "key_indicators": [
+        "our concern is to support our employees through this difficult time",
+        "We would like to take this opportunity to remind you",
+        "This service is available to you or any member of your immediate family",
+        "Please also be aware of any colleagues who may require assistance"
+      ],
+      "categories": {
+        "apology_count": 0,
+        "deference_count": 0,
+        "hedging_count": 0,
+        "flattery_count": 0,
+        "validation_count": 0
+      },
+      "context": "update",
+      "explanation": "This is a standard HR communication providing employee resources after a national tragedy. The tone is appropriately supportive and informative without being deferential or sycophantic - it's exactly the professional, caring tone expected from HR in crisis communication.",
+      "_entry_id": "17_salisbury-h_inbox_582_",
+      "_model": "claude-opus-4-5-20251101",
+      "_word_count": 125,
+      "_from_email": "40enron@enron.com",
+      "_from_name": "",
+      "_to_emails": [],
+      "_subject": "Message from the Office of the Chair Enron Americas Re: September 11, 2001",
+      "_from_title_info": {},
+      "_to_title_infos": []
+    },
+    {
+      "sycophancy_score": 5.0,
+      "key_indicators": [
+        "Your feedback plays an important role in the process",
+        "your participation is critical to the success",
+        "Thank you for your participation in this important process"
+      ],
+      "categories": {
+        "apology_count": 0,
+        "deference_count": 0,
+        "hedging_count": 0,
+        "flattery_count": 0,
+        "validation_count": 2
+      },
+      "context": "directive",
+      "explanation": "This is a standard automated HR notification email requesting participation in a performance review process. The language is professionally neutral with appropriate acknowledgment of the recipient's role without excessive flattery or deference - typical corporate communication.",
+      "_entry_id": "18_gilbertsmith-d_all_documents_124_",
+      "_model": "claude-opus-4-5-20251101",
+      "_word_count": 182,
+      "_from_email": "perfmgmt@enron.com",
+      "_from_name": "Performance Evaluation Process (PEP)",
+      "_to_emails": [
+        "doug.gilbert-smith@enron.com"
+      ],
+      "_subject": "Mid-Year 2001 Performance Feedback",
+      "_from_title_info": {},
+      "_to_title_infos": [
+        {
+          "canonical_name": "Gilbert-Smith, Doug",
+          "title": "Manager (Power Trading)",
+          "department": "Enron North America (Power)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        }
+      ]
+    },
+    {
+      "sycophancy_score": 5.0,
+      "key_indicators": [],
+      "categories": {
+        "apology_count": 0,
+        "deference_count": 0,
+        "hedging_count": 0,
+        "flattery_count": 0,
+        "validation_count": 0
+      },
+      "context": "update",
+      "explanation": "This is a minimal, neutral business communication simply transmitting a document. The language is direct and professional with no emotional markers, deference, or assertiveness - just a brief factual update.",
+      "_entry_id": "19_taylor-m_all_documents_1440_",
+      "_model": "claude-opus-4-5-20251101",
+      "_word_count": 48,
+      "_from_email": "gilbergd@sullcrom.com",
+      "_from_name": "",
+      "_to_emails": [
+        "mark.taylor@enron.com"
+      ],
+      "_subject": "Memo",
+      "_from_title_info": {},
+      "_to_title_infos": [
+        {
+          "canonical_name": "Taylor, Mark",
+          "title": "Vice President & General Counsel",
+          "department": "Enron North America (Legal)",
+          "ambiguous_title": false,
+          "ambiguous_name": false
+        }
+      ]
+    }
+  ]
+}

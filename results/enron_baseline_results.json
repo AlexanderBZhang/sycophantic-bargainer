@@ -1,0 +1,33 @@
+{
+  "enron_stats": {
+    "emails_parsed": 156109,
+    "total_words": 46423355,
+    "category_1_apologies": 8605,
+    "category_2_deference": 3851,
+    "category_3_hedges": 69558,
+    "category_4_flattery": 6905
+  },
+  "enron_rates_per_1k": {
+    "cat1": 0.18535928736731758,
+    "cat2": 0.08295393557833121,
+    "cat3": 1.4983406520274116,
+    "cat4": 0.14873978841038094
+  },
+  "enron_total_per_1k": 1.9153936633834414,
+  "llm_stats": {
+    "claude-opus-4.5": {
+      "words": 176403,
+      "cat1": 2,
+      "cat2": 785,
+      "cat3": 393,
+      "cat4": 11
+    },
+    "gpt-5.1": {
+      "words": 90115,
+      "cat1": 2,
+      "cat2": 328,
+      "cat3": 85,
+      "cat4": 2
+    }
+  }
+}
