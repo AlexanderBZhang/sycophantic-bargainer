@@ -7,8 +7,8 @@ This guide explains how to configure API keys for running LLM experiments.
 ## Supported LLM Providers
 
 The Sycophantic Bargainer framework supports:
-1. **OpenAI** (GPT-3.5-turbo, GPT-4, GPT-4-turbo)
-2. **Anthropic** (Claude 3 Haiku, Sonnet, Opus)
+1. **OpenAI** 
+2. **Anthropic**
 
 You only need API keys for the provider(s) you intend to use.
 
