@@ -203,7 +203,7 @@ See [ROADMAP.md](ROADMAP.md) for the fix plan.
 
 ```bash
 # Clone and setup
-git clone https://github.com/IncentiveArchitect/sycophantic-bargainer.git
+git clone https://github.com/AlexanderBZhang/sycophantic-bargainer.git
 cd sycophantic-bargainer
 
 # Install dependencies
