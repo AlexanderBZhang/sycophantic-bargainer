@@ -274,3 +274,6 @@ alexanderzhangemc2 [at] gmail [dot] com
 *Last updated: January 2026*
 
 *Note: AI was used for code scaffolding. All findings require independent verification after bugs are resolved.*
+
+## Acknowledgements
+I would like to thank Euan (Anthropic) for a helpful discussion regarding RLHF incentives for sycophancy.
