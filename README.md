@@ -6,13 +6,13 @@
 
 # The Sycophantic Bargainer
 
-**A Framework for Measuring Preference-Tuning-Induced Sycophancy in Multi-Agent Negotiations**
+**A Framework for Measuring Preference-Tuning-Induced Sycophancy in Bilateral Negotiations**
 
 ---
 
 ## Objective
 
-To measure how preference-tuning-induced sycophancy impacts utility extraction in multi-agent bargaining.
+To measure how preference-tuning-induced sycophancy impacts utility extraction in bilateral bargaining.
 
 Different models use different training approaches:
 - **GPT models**: Trained with RLHF (human feedback)
